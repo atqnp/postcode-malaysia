@@ -1,7 +1,6 @@
 #scrape postcode data from Pos Malaysia API
 import pandas as pd
 import requests
-from tqdm import tqdm
 
 num = ["%.4d" % i for i in range(0,10000)]
 
@@ -18,3 +17,6 @@ for i in num:
         continue
     else:
         mergedcode.extend(new)
+        
+df = pd.DataFrame(mergedcode)
+df.to_csv("postcode_my.csv")

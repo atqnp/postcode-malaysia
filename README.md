@@ -12,19 +12,34 @@ scrape_postoffice.py - Getting the post office information around Malaysia from 
 
 postoffice files (CSV file)
 -----
-The CSV file is name as 'postoffice_(statenumber)_my.csv'
+The CSV file is name as 'postoffice_(state number)_my.csv'
+
 The state number is as follows:
+
 01 - Perlis
+
 02 - Kedah
+
 03 - Pulau Pinang
+
 04 - Perak
+
 05 - Selangor
+
 06 - Kuala Lumpur
+
 07 - Negeri Sembilan
+
 08 - Melaka
+
 09 - Johor
+
 10 - Pahang
+
 11 - Terengganu
+
 12 - Kelantan
+
 13 - Sabah
+
 14 - Sarawak

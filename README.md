@@ -24,7 +24,7 @@ The state number is as follows:
 
 04 - Perak
 
-05 - Selangor
+05 - Selangor (including WP Putrajaya)
 
 06 - Kuala Lumpur
 
@@ -40,6 +40,6 @@ The state number is as follows:
 
 12 - Kelantan
 
-13 - Sabah
+13 - Sabah (including WP Labuan)
 
 14 - Sarawak

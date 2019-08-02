@@ -1,758 +1,853 @@
 ,Location,Post_Office,Postcode,State
-36896,Presint 12,Putrajaya,62000,WP_Putrajaya
-36897,Jalan Perdana Timur A/1,Putrajaya,62000,WP_Putrajaya
-36898,Jalan Alamanda,Putrajaya,62000,WP_Putrajaya
-36899,Presint 1,Putrajaya,62000,WP_Putrajaya
-36900,Jalan Eugenia P12,Putrajaya,62000,WP_Putrajaya
-36901,Jalan Cassia P12/1,Putrajaya,62000,WP_Putrajaya
-36902,Jalan Cassia P12/2,Putrajaya,62000,WP_Putrajaya
-36903,Jalan Cassia P12/3,Putrajaya,62000,WP_Putrajaya
-36904,Jalan Cassia P12/4,Putrajaya,62000,WP_Putrajaya
-36905,Jalan Cassia P12/5,Putrajaya,62000,WP_Putrajaya
-36906,Jalan Cassia P12/6,Putrajaya,62000,WP_Putrajaya
-36907,Jalan Cassia P12/7,Putrajaya,62000,WP_Putrajaya
-36908,Jalan Cassia P12/8,Putrajaya,62000,WP_Putrajaya
-36909,Jalan Cassia P12/9,Putrajaya,62000,WP_Putrajaya
-36910,Jalan Murraya P12/1,Putrajaya,62000,WP_Putrajaya
-36911,Jalan Murraya P12/2,Putrajaya,62000,WP_Putrajaya
-36912,Jalan Murraya P12/3,Putrajaya,62000,WP_Putrajaya
-36913,Jalan Murraya P12/4,Putrajaya,62000,WP_Putrajaya
-36914,Jalan Murraya P12/5,Putrajaya,62000,WP_Putrajaya
-36915,Jalan Murraya P12/6,Putrajaya,62000,WP_Putrajaya
-36916,Jalan Murraya P12/7,Putrajaya,62000,WP_Putrajaya
-36917,Jalan Murraya P12/8,Putrajaya,62000,WP_Putrajaya
-36918,Jalan Murraya P12/9,Putrajaya,62000,WP_Putrajaya
-36919,Jalan Gynura P12/1,Putrajaya,62000,WP_Putrajaya
-36920,Jalan Gynura P12/2,Putrajaya,62000,WP_Putrajaya
-36921,Jalan Gynura P12/3,Putrajaya,62000,WP_Putrajaya
-36922,Jalan Gynura P12/4,Putrajaya,62000,WP_Putrajaya
-36923,Jalan Gynura P12/5,Putrajaya,62000,WP_Putrajaya
-36924,Jalan Gynura P12/6,Putrajaya,62000,WP_Putrajaya
-36925,Jalan Gynura P12/7,Putrajaya,62000,WP_Putrajaya
-36926,Jalan Gynura P12/8,Putrajaya,62000,WP_Putrajaya
-36927,Jalan Senna P12,Putrajaya,62000,WP_Putrajaya
-36928,Jalan Areca P12,Putrajaya,62000,WP_Putrajaya
-36929,Jalan Alamanda 1,Putrajaya,62000,WP_Putrajaya
-36930,Jalan Alamanda 2,Putrajaya,62000,WP_Putrajaya
-36931,Jalan Taman Putra Perdana,Putrajaya,62000,WP_Putrajaya
-36932,Jalan Taman Putra Perdana/1,Putrajaya,62000,WP_Putrajaya
-36933,Jalan Taman Putra Perdana/2,Putrajaya,62000,WP_Putrajaya
-36934,Jalan Taman Putra Perdana/3,Putrajaya,62000,WP_Putrajaya
-36935,Jalan Taman Putra Perdana/4,Putrajaya,62000,WP_Putrajaya
-36936,Laluan Dataran Pahlawan P1,Putrajaya,62000,WP_Putrajaya
-36937,Laluan Laman Putra P1/1,Putrajaya,62000,WP_Putrajaya
-36938,Laluan Laman Putra P1/2,Putrajaya,62000,WP_Putrajaya
-36939,Laluan Laman Putra P1/3,Putrajaya,62000,WP_Putrajaya
-36940,Presint 14,Putrajaya,62050,WP_Putrajaya
-36941,Presint 15,Putrajaya,62050,WP_Putrajaya
-36942,Jalan Gelam P15/3 (Jalan P15A/2),Putrajaya,62050,WP_Putrajaya
-36943,Jalan Gelam P15/4 (Jalan P15A/3),Putrajaya,62050,WP_Putrajaya
-36944,Jalan Mempaga P15/1 (Jalan P15B),Putrajaya,62050,WP_Putrajaya
-36945,Jalan Jati P14B 1/3 (Jalan P14B 1/3),Putrajaya,62050,WP_Putrajaya
-36946,Jalan Jati P14B 1/4 (Jalan P14B 1/4),Putrajaya,62050,WP_Putrajaya
-36947,Jalan Jati P14B 1/5 (Jalan P14B 1/5),Putrajaya,62050,WP_Putrajaya
-36948,Jalan Jati P14B 1/6 (Jalan P14B 1/6),Putrajaya,62050,WP_Putrajaya
-36949,Jalan Jati P14B 1/7 (Jalan P14B 1/7),Putrajaya,62050,WP_Putrajaya
-36950,Jalan Mempaga P15/2 (Jalan P15B/1),Putrajaya,62050,WP_Putrajaya
-36951,Jalan Mempaga P15/3 (Jalan P15B/2),Putrajaya,62050,WP_Putrajaya
-36952,Jalan Mempaga P15/4 (Jalan P15B/3),Putrajaya,62050,WP_Putrajaya
-36953,Jalan Tembusu P15/4 (Jalan P15C/3),Putrajaya,62050,WP_Putrajaya
-36954,Bahagian Pilihanraya Parlimen P125 Putrajaya,Putrajaya,62050,WP_Putrajaya
-36955,Jalan Jati P14B 1/1 (Jalan P14B 1/1),Putrajaya,62050,WP_Putrajaya
-36956,Jalan Jati P14B 2/2 (Jalan P14B 2/2),Putrajaya,62050,WP_Putrajaya
-36957,Jalan Cendana P14A (Jalan P14A),Putrajaya,62050,WP_Putrajaya
-36958,Jalan Cendana P14A 1 (Jalan P14A 1),Putrajaya,62050,WP_Putrajaya
-36959,Jalan Cendana P14A 1/1 (Jalan P14A 1/1),Putrajaya,62050,WP_Putrajaya
-36960,Jalan Cendana P14A 1/2 (Jalan P14A 1/2),Putrajaya,62050,WP_Putrajaya
-36961,Jalan Cendana P14A 1/3 (Jalan P14A 1/3),Putrajaya,62050,WP_Putrajaya
-36962,Jalan Cengal P14 (Jalan P14),Putrajaya,62050,WP_Putrajaya
-36963,Jalan Rimba Alam P14 (Jalan P14),Putrajaya,62050,WP_Putrajaya
-36964,Jalan Cendana P14A 1/5,Putrajaya,62050,WP_Putrajaya
-36965,Jalan Cendana P14A 1/6,Putrajaya,62050,WP_Putrajaya
-36966,Jalan Cendana P14A 1/7,Putrajaya,62050,WP_Putrajaya
-36967,Jalan Cendana P14A 1/8,Putrajaya,62050,WP_Putrajaya
-36968,Jalan Cendana P14A 1/9,Putrajaya,62050,WP_Putrajaya
-36969,Jalan Cendana P14A 1/10,Putrajaya,62050,WP_Putrajaya
-36970,Jalan Cendana P14A 1/11,Putrajaya,62050,WP_Putrajaya
-36971,Jalan Cendana P14A 1/12,Putrajaya,62050,WP_Putrajaya
-36972,Jalan Cendana P14A 1/13,Putrajaya,62050,WP_Putrajaya
-36973,Jalan Cendana P14A 1/14,Putrajaya,62050,WP_Putrajaya
-36974,Jalan Jati P14B (Jalan P14B),Putrajaya,62050,WP_Putrajaya
-36975,Jalan Jati P14B 1 (Jalan P14B 1),Putrajaya,62050,WP_Putrajaya
-36976,Jalan Jati P14B 2/3 (Jalan P14B 2/3),Putrajaya,62050,WP_Putrajaya
-36977,Jalan Jati P14B 2/4 (Jalan P14B 2/4),Putrajaya,62050,WP_Putrajaya
-36978,Jalan Jati P14B 2/5 (Jalan P14B 2/5),Putrajaya,62050,WP_Putrajaya
-36979,Jalan Jati P14B 2/6 (Jalan P14B 2/6),Putrajaya,62050,WP_Putrajaya
-36980,Jalan Jati P14B 4 (Jalan P14B 4),Putrajaya,62050,WP_Putrajaya
-36981,Jalan Tempinis P14C (Jalan P14C),Putrajaya,62050,WP_Putrajaya
-36982,Jalan Tempinis P14C 1 (Jalan P14C 1),Putrajaya,62050,WP_Putrajaya
-36983,Jalan Tempinis P14C 1/1 (Jalan P14C 1/1),Putrajaya,62050,WP_Putrajaya
-36984,Jalan Tempinis P14C 1/2 (Jalan P14C 1/2),Putrajaya,62050,WP_Putrajaya
-36985,Jalan Tempinis P14C 1/3 (Jalan P14C 1/3),Putrajaya,62050,WP_Putrajaya
-36986,Jalan Tempinis P14C 1/4 (Jalan P14C 1/4),Putrajaya,62050,WP_Putrajaya
-36987,Jalan Tempinis P14C 1/5 (Jalan P14C 1/5),Putrajaya,62050,WP_Putrajaya
-36988,Jalan Tempinis P14C 1/6 (Jalan P14C 1/6),Putrajaya,62050,WP_Putrajaya
-36989,Jalan Tempinis P14C 2 (Jalan P14C 2),Putrajaya,62050,WP_Putrajaya
-36990,Jalan Tempinis P14C 2/1 (Jalan P14C 2/1),Putrajaya,62050,WP_Putrajaya
-36991,Jalan Tempinis P14C 2/2 (Jalan P14C 2/2),Putrajaya,62050,WP_Putrajaya
-36992,Jalan Tempinis P14C 2/3 (Jalan P14C 2/3),Putrajaya,62050,WP_Putrajaya
-36993,Jalan Tempinis P14C 2/4 (Jalan P14C 2/4),Putrajaya,62050,WP_Putrajaya
-36994,Jalan Tempinis P14C 2/5 (Jalan P14C 2/5),Putrajaya,62050,WP_Putrajaya
-36995,Jalan Tempinis P14C 2/6 (Jalan P14C 2/6),Putrajaya,62050,WP_Putrajaya
-36996,Jalan Tempinis P14C 2/7 (Jalan P14C 2/7),Putrajaya,62050,WP_Putrajaya
-36997,Jalan Merbau P14D (Jalan P14D),Putrajaya,62050,WP_Putrajaya
-36998,Jalan Merbau P14D 1 (Jalan P14D 1),Putrajaya,62050,WP_Putrajaya
-36999,Jalan Merbau P14D/1 (Jalan P14D/1),Putrajaya,62050,WP_Putrajaya
-37000,Jalan Merbau P14D/2 (Jalan P14D/2),Putrajaya,62050,WP_Putrajaya
-37001,Jalan Merbau P14D 2 (Jalan P14D 2),Putrajaya,62050,WP_Putrajaya
-37002,Jalan Merbau P14D 2/1 (Jalan P14D 2/1),Putrajaya,62050,WP_Putrajaya
-37003,Jalan Merbau P14D 2/2 (Jalan P14D 2/2),Putrajaya,62050,WP_Putrajaya
-37004,Jalan Surian P14E (Jalan P14E),Putrajaya,62050,WP_Putrajaya
-37005,Jalan Surian P14E 1 (Jalan P14E 1),Putrajaya,62050,WP_Putrajaya
-37006,Jalan Surian P14E 1/1 (Jalan P14E 1/1),Putrajaya,62050,WP_Putrajaya
-37007,Jalan Surian P14E 1/2 (Jalan P14E 1/2),Putrajaya,62050,WP_Putrajaya
-37008,Jalan Surian P14E 2 (Jalan P14E 2),Putrajaya,62050,WP_Putrajaya
-37009,Jalan Surian P14E 2/1 (Jalan P14E 2/1),Putrajaya,62050,WP_Putrajaya
-37010,Jalan Keruing P14F (Jalan P14F),Putrajaya,62050,WP_Putrajaya
-37011,Jalan Keruing P14F/1 (Jalan P14F/1),Putrajaya,62050,WP_Putrajaya
-37012,Jalan Keruing P14F/2 (Jalan P14F/2),Putrajaya,62050,WP_Putrajaya
-37013,Jalan Keruing P14F/3 (Jalan P14F/3),Putrajaya,62050,WP_Putrajaya
-37014,Jalan Keruing P14F/4 (Jalan P14F/4),Putrajaya,62050,WP_Putrajaya
-37015,Jalan Keruing P14F/5 (Jalan P14F/5),Putrajaya,62050,WP_Putrajaya
-37016,Jalan Keruing P14F/6 (Jalan P14F/6),Putrajaya,62050,WP_Putrajaya
-37017,Jalan Keruing P14F/7 (Jalan P14F/7),Putrajaya,62050,WP_Putrajaya
-37018,Jalan Meranti P14G (Jalan P14G),Putrajaya,62050,WP_Putrajaya
-37019,Jalan Meranti P14G/1 (Jalan P14G/1),Putrajaya,62050,WP_Putrajaya
-37020,Jalan Meranti P14G/2 (Jalan P14G/2),Putrajaya,62050,WP_Putrajaya
-37021,Jalan Meranti P14H (Jalan P14H),Putrajaya,62050,WP_Putrajaya
-37022,Jalan Bertam P14J (Jalan P14J),Putrajaya,62050,WP_Putrajaya
-37023,Jalan Bertam P14J/1 (Jalan P14J/1),Putrajaya,62050,WP_Putrajaya
-37024,Jalan Jati P14L (Jalan P14L),Putrajaya,62050,WP_Putrajaya
-37025,Jalan Industri Putra 1,Putrajaya,62050,WP_Putrajaya
-37026,Jalan Gelam P15/1 (Jalan P15A),Putrajaya,62050,WP_Putrajaya
-37027,Jalan Gelam P15/2 (Jalan P15A/1),Putrajaya,62050,WP_Putrajaya
-37028,Jalan Merawan P15 (Jalan P15),Putrajaya,62050,WP_Putrajaya
-37029,Jalan Tembusu P15/1 (Jalan P15C),Putrajaya,62050,WP_Putrajaya
-37030,Jalan Tembusu P15/2 (Jalan P15C/1),Putrajaya,62050,WP_Putrajaya
-37031,Jalan Tembusu P15/3 (Jalan P15C/2),Putrajaya,62050,WP_Putrajaya
-37032,Jalan Ara P15/1 (Jalan P15D),Putrajaya,62050,WP_Putrajaya
-37033,Jalan Ara P15/2 (Jalan P15D/1),Putrajaya,62050,WP_Putrajaya
-37034,Jalan Ara P15/3 (Jalan P15D/2),Putrajaya,62050,WP_Putrajaya
-37035,Jalan Ara P15/4 (Jalan P15D/3),Putrajaya,62050,WP_Putrajaya
-37036,Jalan Ara P15/5 (Jalan P15D/4),Putrajaya,62050,WP_Putrajaya
-37037,Jalan Ara P15/6 (Jalan P15D/5),Putrajaya,62050,WP_Putrajaya
-37038,Jalan Ara P15/7 (Jalan P15D/6),Putrajaya,62050,WP_Putrajaya
-37039,Jalan Ara P15/8 (Jalan P15D/7),Putrajaya,62050,WP_Putrajaya
-37040,Jalan Jati P14B 2 (Jalan P14B 2),Putrajaya,62050,WP_Putrajaya
-37041,Jalan Jati P14B 2/1 (Jalan P14B 2/1),Putrajaya,62050,WP_Putrajaya
-37042,Jalan Terap P15/1 (Jalan P15E),Putrajaya,62050,WP_Putrajaya
-37043,Jalan Terap P15/2 (Jalan P15E 1),Putrajaya,62050,WP_Putrajaya
-37044,Jalan Terap P15/3 (Jalan P15E 2),Putrajaya,62050,WP_Putrajaya
-37045,Jalan Terap P15/4 (Jalan P15E 2/1),Putrajaya,62050,WP_Putrajaya
-37046,Jalan Karas P15/1 (Jalan P15F),Putrajaya,62050,WP_Putrajaya
-37047,Jalan Karas P15/2 (Jalan P15F/1),Putrajaya,62050,WP_Putrajaya
-37048,Jalan Karas P15/3 (Jalan P15F/2),Putrajaya,62050,WP_Putrajaya
-37049,Jalan Karas P15/4 (Jalan P15F/3),Putrajaya,62050,WP_Putrajaya
-37050,Jalan Karas P15/5 (Jalan P15F/4),Putrajaya,62050,WP_Putrajaya
-37051,Jalan Karas P15/6 (Jalan P15F/5),Putrajaya,62050,WP_Putrajaya
-37052,Jalan Karas P15/7 (Jalan P15F/6),Putrajaya,62050,WP_Putrajaya
-37053,Jalan Melunak P15/1 (Jalan P15G),Putrajaya,62050,WP_Putrajaya
-37054,Jalan Melunak P15/2 (Jalan P15G/1),Putrajaya,62050,WP_Putrajaya
-37055,Jalan Melunak P15/3 (Jalan P15G/2),Putrajaya,62050,WP_Putrajaya
-37056,Jalan Resak P15H 1 (Jalan P15H 1),Putrajaya,62050,WP_Putrajaya
-37057,Jalan Resak P15H 1/1 (Jalan P15H 1/1),Putrajaya,62050,WP_Putrajaya
-37058,Jalan Resak P15H 1/2 (Jalan P15H 1/2),Putrajaya,62050,WP_Putrajaya
-37059,Jalan Resak P15H 1/3 (Jalan P15H 1/3),Putrajaya,62050,WP_Putrajaya
-37060,Jalan Resak P15H 1/4 (Jalan P15H 1/4),Putrajaya,62050,WP_Putrajaya
-37061,Jalan Resak P15H 1/5 (Jalan P15H 1/5),Putrajaya,62050,WP_Putrajaya
-37062,Jalan Pelawan P15H 2 (Jalan P15H 2),Putrajaya,62050,WP_Putrajaya
-37063,Jalan Pelawan P15H 2/1 (Jalan P15H 2/1),Putrajaya,62050,WP_Putrajaya
-37064,Jalan Pelawan P15H 2/2 (Jalan P15H 2/2),Putrajaya,62050,WP_Putrajaya
-37065,Jalan Pelawan P15H 2/3 (Jalan P15H 2/3),Putrajaya,62050,WP_Putrajaya
-37066,Jalan Nyatoh P15H (Jalan P15H),Putrajaya,62050,WP_Putrajaya
-37067,Jalan Jati P14B 1/2 (Jalan P14B 1/2),Putrajaya,62050,WP_Putrajaya
-37068,Jalan Tualang P15H 4/6 (Jalan P15H 4/6),Putrajaya,62050,WP_Putrajaya
-37069,Jalan Tualang P15H 4/7 (Jalan P15H 4/7),Putrajaya,62050,WP_Putrajaya
-37070,Jalan Balau P15H 3 (Jalan P15H 3),Putrajaya,62050,WP_Putrajaya
-37071,Jalan Balau P15H 3/1 (Jalan P15H 3/1),Putrajaya,62050,WP_Putrajaya
-37072,Jalan Balau P15H 3/2 (Jalan P15H 3/2),Putrajaya,62050,WP_Putrajaya
-37073,Jalan Balau P15H 3/3 (Jalan P15H 3/3),Putrajaya,62050,WP_Putrajaya
-37074,Jalan Tualang P15H 4 (Jalan P15H 4),Putrajaya,62050,WP_Putrajaya
-37075,Jalan Tualang P15H 4/1 (Jalan P15H 4/1),Putrajaya,62050,WP_Putrajaya
-37076,Jalan Tualang P15H 4/2 (Jalan P15H 4/2),Putrajaya,62050,WP_Putrajaya
-37077,Jalan Tualang P15H 4/3 (Jalan P15H 4/3),Putrajaya,62050,WP_Putrajaya
-37078,Jalan Tualang P15H 4/4 (Jalan P15H 4/4),Putrajaya,62050,WP_Putrajaya
-37079,Jalan Tualang P15H 4/5 (Jalan P15H 4/5),Putrajaya,62050,WP_Putrajaya
-37080,Jalan Al Biruni P3 K (Jalan P3 K),Putrajaya,62100,WP_Putrajaya
-37081,Jalan Alaf Baru P3 L (Jalan P3 L),Putrajaya,62100,WP_Putrajaya
-37082,Presint 3,Putrajaya,62100,WP_Putrajaya
-37083,Presint 4,Putrajaya,62100,WP_Putrajaya
-37084,Presint 18,Putrajaya,62100,WP_Putrajaya
-37085,Presint 17,Putrajaya,62100,WP_Putrajaya
-37086,Jalan Kasturi P17 (Jalan P17),Putrajaya,62100,WP_Putrajaya
-37087,Jalan Kantan P17A (Jalan P17A),Putrajaya,62100,WP_Putrajaya
-37088,Jalan Ketumbar P17B (Jalan P17B),Putrajaya,62100,WP_Putrajaya
-37089,Jalan Halba P17C (Jalan P17C),Putrajaya,62100,WP_Putrajaya
-37090,Jalan Lawang P17D (Jalan P17D),Putrajaya,62100,WP_Putrajaya
-37091,Jalan Selasih P17E (Jalan P17E),Putrajaya,62100,WP_Putrajaya
-37092,Jalan Selasih P17E 1 (Jalan P17E 1),Putrajaya,62100,WP_Putrajaya
-37093,Jalan Pelaga P17F (Jalan P17F),Putrajaya,62100,WP_Putrajaya
-37094,Jalan Pelaga P17G (Jalan P17G),Putrajaya,62100,WP_Putrajaya
-37095,Jalan Halia P16 (Jalan P16),Putrajaya,62100,WP_Putrajaya
-37096,Jalan Kunyit Emas P16A (Jalan P16A),Putrajaya,62100,WP_Putrajaya
-37097,Jalan Pegaga P16/1 (Jalan P16/1),Putrajaya,62100,WP_Putrajaya
-37098,Jalan Pegaga P16B (Jalan P16B),Putrajaya,62100,WP_Putrajaya
-37099,Jalan Pegaga P16B/1 (Jalan P16B/1),Putrajaya,62100,WP_Putrajaya
-37100,Jalan Pegaga P16B/2 (Jalan P16B/2),Putrajaya,62100,WP_Putrajaya
-37101,Jalan Cekur P16C (Jalan P16C),Putrajaya,62100,WP_Putrajaya
-37102,Jalan Ulam Raja P16D (Jalan P16D),Putrajaya,62100,WP_Putrajaya
-37103,Jalan Ulam Raja P16D/1 (Jalan P16D/1),Putrajaya,62100,WP_Putrajaya
-37104,Jalan Ulam Raja P16D/2 (Jalan P16D/2),Putrajaya,62100,WP_Putrajaya
-37105,Jalan Ulam Raja P16D/3 (Jalan P16D/3),Putrajaya,62100,WP_Putrajaya
-37106,Jalan Ulam Raja P16D/4 (Jalan P16D/4),Putrajaya,62100,WP_Putrajaya
-37107,Jalan Ulam Raja P16D/5 (Jalan P16D/5),Putrajaya,62100,WP_Putrajaya
-37108,Jalan Ulam Raja P16D/6 (Jalan P16D/6),Putrajaya,62100,WP_Putrajaya
-37109,Jalan Selom P16E (Jalan P16E),Putrajaya,62100,WP_Putrajaya
-37110,Jalan Lengkuas P16F (Jalan P16F),Putrajaya,62100,WP_Putrajaya
-37111,Jalan Serai Wangi P16G (Jalan P16G),Putrajaya,62100,WP_Putrajaya
-37112,Jalan Kandis P16 (Jalan P16J),Putrajaya,62100,WP_Putrajaya
-37113,Jalan Saderi P16 (Jalan P16K),Putrajaya,62100,WP_Putrajaya
-37114,Jalan Pancarona P18 (Jalan P18),Putrajaya,62100,WP_Putrajaya
-37115,Jalan Pancarona P18/UIA-4 (Jalan P18/UIA-4),Putrajaya,62100,WP_Putrajaya
-37116,Jalan Teja P18B (Jalan P18B),Putrajaya,62100,WP_Putrajaya
-37117,Jalan Bunga Raya P18C (Jalan P18C),Putrajaya,62100,WP_Putrajaya
-37118,Jalan Anggerik P18C 1 (Jalan P18C 1),Putrajaya,62100,WP_Putrajaya
-37119,Jalan Anggerik P18C 1/1 (Jalan P18C 1/1),Putrajaya,62100,WP_Putrajaya
-37120,Jalan Anggerik P18C 1/2 (Jalan P18C 1/2),Putrajaya,62100,WP_Putrajaya
-37121,Jalan Anggerik P18C 1/3 (Jalan P18C 1/3),Putrajaya,62100,WP_Putrajaya
-37122,Jalan Anggerik P18C 1/4 (Jalan P18C 1/4),Putrajaya,62100,WP_Putrajaya
-37123,Jalan Anggerik P18C 1/5 (Jalan P18C 1/5),Putrajaya,62100,WP_Putrajaya
-37124,Jalan Kekwa P18C 2 (Jalan P18C 2),Putrajaya,62100,WP_Putrajaya
-37125,Jalan Helikonia P18D (Jalan P18D),Putrajaya,62100,WP_Putrajaya
-37126,Jalan Helikonia P18D 1/1 (Jalan P18D 1/1),Putrajaya,62100,WP_Putrajaya
-37127,Jalan Helikonia P18D 1/2 (Jalan P18D 1/2),Putrajaya,62100,WP_Putrajaya
-37128,Jalan Jasmin P18E (Jalan P18E),Putrajaya,62100,WP_Putrajaya
-37129,Jalan Tanjung P18F (Jalan P18F),Putrajaya,62100,WP_Putrajaya
-37130,Jalan Gapis P18G (Jalan P18G),Putrajaya,62100,WP_Putrajaya
-37131,Jalan Kesidang P18H (Jalan P18H),Putrajaya,62100,WP_Putrajaya
-37132,Jalan Kesidang P18H 1/1 (Jalan P18H 1/1),Putrajaya,62100,WP_Putrajaya
-37133,Jalan Kesidang P18H 1/2 (Jalan P18H 1/2),Putrajaya,62100,WP_Putrajaya
-37134,Jalan Kesidang P18H 1/3 (Jalan P18H 1/3),Putrajaya,62100,WP_Putrajaya
-37135,Jalan Kesidang P18H 1/4 (Jalan P18H 1/4),Putrajaya,62100,WP_Putrajaya
-37136,Jalan Kesidang P18H 1/5 (Jalan P18H 1/5),Putrajaya,62100,WP_Putrajaya
-37137,Jalan Kesidang P18H 1/6 (Jalan P18H 1/6),Putrajaya,62100,WP_Putrajaya
-37138,Jalan Kesidang P18H 1/7 (Jalan P18H 1/7),Putrajaya,62100,WP_Putrajaya
-37139,Jalan Kesidang P18H 1/8 (Jalan P18H 1/8),Putrajaya,62100,WP_Putrajaya
-37140,Jalan Kesidang P18H 1/9 (Jalan P18H 1/9),Putrajaya,62100,WP_Putrajaya
-37141,Jalan Kemboja P18J (Jalan P18J),Putrajaya,62100,WP_Putrajaya
-37142,Jalan Siantan P18K (Jalan P18K),Putrajaya,62100,WP_Putrajaya
-37143,Jalan Siantan P18K 1/1 (Jalan P18K 1/1),Putrajaya,62100,WP_Putrajaya
-37144,Jalan Siantan P18K 1/2 (Jalan P18K 1/2),Putrajaya,62100,WP_Putrajaya
-37145,Jalan Siantan P18K 1/3 (Jalan P18K 1/3),Putrajaya,62100,WP_Putrajaya
-37146,Jalan Al Farabi P3 H (Jalan P3 H),Putrajaya,62100,WP_Putrajaya
-37147,Jalan Ibnu Khaldun P3 J (Jalan P3 J),Putrajaya,62100,WP_Putrajaya
-37148,Jalan Melati P18L (Jalan P18L),Putrajaya,62100,WP_Putrajaya
-37149,Jalan Bunga Matahari P18M (Jalan P18M),Putrajaya,62100,WP_Putrajaya
-37150,Jalan Buginvila P18N (Jalan P18N),Putrajaya,62100,WP_Putrajaya
-37151,Jalan Seri Satria P16,Putrajaya,62100,WP_Putrajaya
-37152,Jalan Kunyit Emas P16A/2,Putrajaya,62100,WP_Putrajaya
-37153,Kementerian Wilayah Persekutuan,Putrajaya,62100,WP_Putrajaya
-37154,Presint 16,Putrajaya,62100,WP_Putrajaya
-37155,Presint 2,Putrajaya,62100,WP_Putrajaya
-37156,Jalan Pegaga P16B/3 (Jalan P16B/3),Putrajaya,62100,WP_Putrajaya
-37157,Jalan Kehakiman P3 M (Jalan P3 M),Putrajaya,62100,WP_Putrajaya
-37158,Jalan Kehakiman P3 N (Jalan P3 N),Putrajaya,62100,WP_Putrajaya
-37159,Jalan Kehakiman P3 P (Jalan P3 P),Putrajaya,62100,WP_Putrajaya
-37160,Jalan Kehakiman P3 Q (Jalan P3 Q),Putrajaya,62100,WP_Putrajaya
-37161,Jalan Pertanian P4 A (Jalan P4 A),Putrajaya,62100,WP_Putrajaya
-37162,Jalan Pertanian P4 B (Jalan P4 B),Putrajaya,62100,WP_Putrajaya
-37163,Jalan Rakyat P4 C (Jalan P4 C),Putrajaya,62100,WP_Putrajaya
-37164,Jalan Konsulat P4 D (Jalan P4 D),Putrajaya,62100,WP_Putrajaya
-37165,Jalan Rakyat P4 E (Jalan P4 E),Putrajaya,62100,WP_Putrajaya
-37166,Jalan Rakyat P4 F (Jalan P4 F),Putrajaya,62100,WP_Putrajaya
-37167,Jalan Rakyat P4 G (Jalan P4 G),Putrajaya,62100,WP_Putrajaya
-37168,Jalan Puteri P4 H (Jalan P4 H),Putrajaya,62100,WP_Putrajaya
-37169,Jalan Puteri P4 J (Jalan P4 J),Putrajaya,62100,WP_Putrajaya
-37170,Jalan Puteri P4 K (Jalan P4 K),Putrajaya,62100,WP_Putrajaya
-37171,Jalan Puteri P4 L (Jalan P4 L),Putrajaya,62100,WP_Putrajaya
-37172,Jalan Puteri P4 M (Jalan P4 M),Putrajaya,62100,WP_Putrajaya
-37173,Jalan Konsulat P4 N (Jalan P4 N),Putrajaya,62100,WP_Putrajaya
-37174,Jalan Guaman P4 P (Jalan P4 P),Putrajaya,62100,WP_Putrajaya
-37175,Jalan Guaman P4 Q (Jalan P4 Q),Putrajaya,62100,WP_Putrajaya
-37176,Jalan Rakyat P4 R (Jalan P4 R),Putrajaya,62100,WP_Putrajaya
-37177,Jalan Rakyat P4 S (Jalan P4 S),Putrajaya,62100,WP_Putrajaya
-37178,Jalan Rakyat P4 T (Jalan P4 T),Putrajaya,62100,WP_Putrajaya
-37179,Jalan Rakyat P4 U (Jalan P4 U),Putrajaya,62100,WP_Putrajaya
-37180,Jalan Rakyat P4 V (Jalan P4 V),Putrajaya,62100,WP_Putrajaya
-37181,Jalan Rakyat P4 W (Jalan P4 W),Putrajaya,62100,WP_Putrajaya
-37182,Jalan Belia P4 X (Jalan P4 X),Putrajaya,62100,WP_Putrajaya
-37183,Jalan Belia P4 Y (Jalan P4 Y),Putrajaya,62100,WP_Putrajaya
-37184,Lingkaran Gemilang Satu,Putrajaya,62100,WP_Putrajaya
-37185,Lingkaran Gemilang Dua,Putrajaya,62100,WP_Putrajaya
-37186,Jalan Gemilang P4-1 (Jalan P4-1),Putrajaya,62100,WP_Putrajaya
-37187,Jalan Gemilang P4-2 (Jalan P4-2),Putrajaya,62100,WP_Putrajaya
-37188,Jalan Gemilang P4-3 (Jalan P4-3),Putrajaya,62100,WP_Putrajaya
-37189,Jalan Gemilang P4-4 (Jalan P4-4),Putrajaya,62100,WP_Putrajaya
-37190,Jalan Gemilang P4-5 (Jalan P4-5),Putrajaya,62100,WP_Putrajaya
-37191,Jalan Gemilang P4-6 (Jalan P4-6),Putrajaya,62100,WP_Putrajaya
-37192,Jalan Gemilang P4-8 (Jalan P4-8),Putrajaya,62100,WP_Putrajaya
-37193,Jalan Gemilang P4-9 (Jalan P4-9),Putrajaya,62100,WP_Putrajaya
-37194,Jalan Gemilang P4-10 (Jalan P4-10),Putrajaya,62100,WP_Putrajaya
-37195,Jalan Kunyit Emas P16A/3,Putrajaya,62100,WP_Putrajaya
-37196,Jalan Kesum P16/1,Putrajaya,62100,WP_Putrajaya
-37197,Jalan Kesum P16/2,Putrajaya,62100,WP_Putrajaya
-37198,Jalan Kesum P16/3,Putrajaya,62100,WP_Putrajaya
-37199,Jalan Kesum P16/4,Putrajaya,62100,WP_Putrajaya
-37200,Suruhanjaya Tenaga,Putrajaya,62100,WP_Putrajaya
-37201,Persiaran Perdana,Putrajaya,62100,WP_Putrajaya
-37202,Jalan Tunku Abdul Rahman,Putrajaya,62100,WP_Putrajaya
-37203,Jalan Wawasan P2 D (Jalan P2 D),Putrajaya,62100,WP_Putrajaya
-37204,Jalan Wawasan P2 E (Jalan P2 E),Putrajaya,62100,WP_Putrajaya
-37205,Jalan Wawasan P2 F (Jalan P2 F),Putrajaya,62100,WP_Putrajaya
-37206,Jalan Wawasan P2 G (Jalan P2 G),Putrajaya,62100,WP_Putrajaya
-37207,Jalan Wawasan P2 H (Jalan P2 H),Putrajaya,62100,WP_Putrajaya
-37208,Jalan Wawasan P2 J (Jalan P2 J),Putrajaya,62100,WP_Putrajaya
-37209,Jalan Usahawan P2 K (Jalan P2 K),Putrajaya,62100,WP_Putrajaya
-37210,Jalan Usahawan P2 L (Jalan P2 L),Putrajaya,62100,WP_Putrajaya
-37211,Jalan Alaf Baru P2 M (Jalan P2 M),Putrajaya,62100,WP_Putrajaya
-37212,Jalan Alaf Baru P2 N (Jalan P2 N),Putrajaya,62100,WP_Putrajaya
-37213,Jalan Tenaga P2 P (Jalan P2 P),Putrajaya,62100,WP_Putrajaya
-37214,Jalan Tenaga P2 Q (Jalan P2 Q),Putrajaya,62100,WP_Putrajaya
-37215,Jalan Perbendaharaan P2 R (Jalan P2 R),Putrajaya,62100,WP_Putrajaya
-37216,Jalan Perbendaharaan P2 S (Jalan P2 S),Putrajaya,62100,WP_Putrajaya
-37217,Jalan Perbendaharaan P2 T (Jalan P2 T),Putrajaya,62100,WP_Putrajaya
-37218,Jalan Perbendaharaan P2 U (Jalan P2 U),Putrajaya,62100,WP_Putrajaya
-37219,Jalan Perbendaharaan P2 W (Jalan P2 W),Putrajaya,62100,WP_Putrajaya
-37220,Jalan Perbendaharaan P2 X (Jalan P2 X),Putrajaya,62100,WP_Putrajaya
-37221,Jalan Kastam P2 Y (Jalan P2 Y),Putrajaya,62100,WP_Putrajaya
-37222,Jalan Wisma Putra,Putrajaya,62100,WP_Putrajaya
-37223,Jalan Alaf Baru P3 A (Jalan P3 A),Putrajaya,62100,WP_Putrajaya
-37224,Jalan Perbadanan P3 B (Jalan P3 B),Putrajaya,62100,WP_Putrajaya
-37225,Jalan Perbadanan P3 C (Jalan P3 C),Putrajaya,62100,WP_Putrajaya
-37226,Jalan Khawarizmi P3 D (Jalan P3 D),Putrajaya,62100,WP_Putrajaya
-37227,Jalan Ibnu Sina P3 E (Jalan P3 E),Putrajaya,62100,WP_Putrajaya
-37228,Jalan Perbadanan P3 F (Jalan P3 F),Putrajaya,62100,WP_Putrajaya
-37229,Jalan Perbadanan P3 G (Jalan P3 G),Putrajaya,62100,WP_Putrajaya
-37230,Jalan Seri Wilayah P2 A (Jalan P2 A),Putrajaya,62100,WP_Putrajaya
-37231,Jalan Wawasan P2 B (Jalan P2 B),Putrajaya,62100,WP_Putrajaya
-37232,Jalan Wawasan P2 C (Jalan P2 C),Putrajaya,62100,WP_Putrajaya
-37233,Presint 19,Putrajaya,62150,WP_Putrajaya
-37234,Presint 20,Putrajaya,62150,WP_Putrajaya
-37235,Presint 5,Putrajaya,62150,WP_Putrajaya
-37236,Jalan Rebana P5 (Jalan P5),Putrajaya,62150,WP_Putrajaya
-37237,Jalan Serunai P5A (Jalan P5A),Putrajaya,62150,WP_Putrajaya
-37238,Jalan Serunai P5A/1 (Jalan P5A/1),Putrajaya,62150,WP_Putrajaya
-37239,Jalan Serunai P5A/2 (Jalan P5A/2),Putrajaya,62150,WP_Putrajaya
-37240,Jalan Seruling P5A/3 (Jalan P5A/3),Putrajaya,62150,WP_Putrajaya
-37241,Jalan Seruling P5A/4 (Jalan P5A/4),Putrajaya,62150,WP_Putrajaya
-37242,Jalan Seruling P5A/5 (Jalan P5A/5),Putrajaya,62150,WP_Putrajaya
-37243,Jalan Seruling P5A/6 (Jalan P5A/6),Putrajaya,62150,WP_Putrajaya
-37244,Jalan Gambus P5/1 (Jalan P5/1),Putrajaya,62150,WP_Putrajaya
-37245,Jalan Gambus P5/2 (Jalan P5/2),Putrajaya,62150,WP_Putrajaya
-37246,Jalan Venna P5/3 (Jalan P5/3),Putrajaya,62150,WP_Putrajaya
-37247,Jalan Venna P5/4 (Jalan P5/4),Putrajaya,62150,WP_Putrajaya
-37248,Jalan Gambus P5/5 (Jalan P5/5),Putrajaya,62150,WP_Putrajaya
-37249,Jalan Seruling P5A (Jalan P5A),Putrajaya,62150,WP_Putrajaya
-37250,Jalan Gendang P5/5 (Jalan P5/5),Putrajaya,62150,WP_Putrajaya
-37251,Jalan Gambus P5/6 (Jalan P5/6),Putrajaya,62150,WP_Putrajaya
-37252,Jalan Sapeh P5/7 (Jalan P5/7),Putrajaya,62150,WP_Putrajaya
-37253,Jalan Sapeh P5/8 (Jalan P5/8),Putrajaya,62150,WP_Putrajaya
-37254,Jalan Gendang P5/9 (Jalan P6/1),Putrajaya,62150,WP_Putrajaya
-37255,Jalan Gong P5B (Jalan P5B),Putrajaya,62150,WP_Putrajaya
-37256,Jalan Payang P6 (Jalan P/2),Putrajaya,62150,WP_Putrajaya
-37257,Jalan Jalur P6 (Jalan P/3),Putrajaya,62150,WP_Putrajaya
-37258,Jalan Sekoci P6 (Jalan P/4),Putrajaya,62150,WP_Putrajaya
-37259,Jalan Kajangan P6 (Jalan P/5),Putrajaya,62150,WP_Putrajaya
-37260,Jalan Bedar P6 (Jalan P6),Putrajaya,62150,WP_Putrajaya
-37261,Jalan Abadi P20/5 (Jalan P20/5),Putrajaya,62150,WP_Putrajaya
-37262,Jalan Aman P20/6 (Jalan P20/6),Putrajaya,62150,WP_Putrajaya
-37263,Jalan Damai P20A (Jalan P20A),Putrajaya,62150,WP_Putrajaya
-37264,Jalan Damai P20A/1 (Jalan P20A/1),Putrajaya,62150,WP_Putrajaya
-37265,Jalan Damai P20A/2 (Jalan P20A/2),Putrajaya,62150,WP_Putrajaya
-37266,Jalan Kenangan P20 (Jalan P5),Putrajaya,62150,WP_Putrajaya
-37267,Jalan Bidara P19,Putrajaya,62150,WP_Putrajaya
-37268,Jalan Kundang P19/1,Putrajaya,62150,WP_Putrajaya
-37269,Jalan Kundang P19/2,Putrajaya,62150,WP_Putrajaya
-37270,Jalan Kundang P19/3,Putrajaya,62150,WP_Putrajaya
-37271,Jalan Kundang P19/4,Putrajaya,62150,WP_Putrajaya
-37272,Jalan Kundang P19/5,Putrajaya,62150,WP_Putrajaya
-37273,Jalan Kundang P19/6,Putrajaya,62150,WP_Putrajaya
-37274,Jalan Kundang P19/7,Putrajaya,62150,WP_Putrajaya
-37275,Jalan Kundang P19/8,Putrajaya,62150,WP_Putrajaya
-37276,Jalan Kundang P19/9,Putrajaya,62150,WP_Putrajaya
-37277,Jalan Kundang P19/10,Putrajaya,62150,WP_Putrajaya
-37278,Jalan Amra P19,Putrajaya,62150,WP_Putrajaya
-37279,Jalan Kelubi P19,Putrajaya,62150,WP_Putrajaya
-37280,Jalan Lindungan P19,Putrajaya,62150,WP_Putrajaya
-37281,Laluan Lindungan P19,Putrajaya,62150,WP_Putrajaya
-37282,Jalan Abadi P20 (Jalan P20),Putrajaya,62150,WP_Putrajaya
-37283,Jalan Abadi P20/1 (Jalan P20/1),Putrajaya,62150,WP_Putrajaya
-37284,Jalan Abadi P20/2 (Jalan P20/2),Putrajaya,62150,WP_Putrajaya
-37285,Jalan Abadi P20/3 (Jalan P20/3),Putrajaya,62150,WP_Putrajaya
-37286,Jalan Abadi P20/4 (Jalan P20/4),Putrajaya,62150,WP_Putrajaya
-37287,Presint 6,Putrajaya,62150,WP_Putrajaya
-37288,Former Prime Minister of Malaysia,Putrajaya,62200,WP_Putrajaya
-37289,Presint 7,Putrajaya,62250,WP_Putrajaya
-37290,Presint 8,Putrajaya,62250,WP_Putrajaya
-37291,Presint 9,Putrajaya,62250,WP_Putrajaya
-37292,Presint 10,Putrajaya,62250,WP_Putrajaya
-37293,Jalan Intan P10A 1/1 (Jalan P10A 1/1),Putrajaya,62250,WP_Putrajaya
-37294,Jalan Intan P10A 1/2 (Jalan P10A 1/2),Putrajaya,62250,WP_Putrajaya
-37295,Jalan Intan P10A 1/3 (Jalan P10A 1/3),Putrajaya,62250,WP_Putrajaya
-37296,Jalan Intan P10A 1 (Jalan P10A 1),Putrajaya,62250,WP_Putrajaya
-37297,Jalan Intan P10A 2 (Jalan P10A 2),Putrajaya,62250,WP_Putrajaya
-37298,Jalan Intan P10A 2/1 (Jalan P10A 2/1),Putrajaya,62250,WP_Putrajaya
-37299,Jalan Intan P10A 2/2 (Jalan P10A 2/2),Putrajaya,62250,WP_Putrajaya
-37300,Jalan Intan P10A 2/3 (Jalan P10A 2/3),Putrajaya,62250,WP_Putrajaya
-37301,Jalan Intan P10A 3 (Jalan P10A 3),Putrajaya,62250,WP_Putrajaya
-37302,Jalan Intan P10A 3/1 (Jalan P10A 3/1),Putrajaya,62250,WP_Putrajaya
-37303,Jalan Intan P10A 3/2 (Jalan P10A 3/2),Putrajaya,62250,WP_Putrajaya
-37304,Jalan Intan P10A 3/3 (Jalan P10A 3/3),Putrajaya,62250,WP_Putrajaya
-37305,jalan Intan P10A 3/4 (Jalan P10A 3/4),Putrajaya,62250,WP_Putrajaya
-37306,Jalan Intan P10A 3/5 (Jalan P10A 3/5),Putrajaya,62250,WP_Putrajaya
-37307,Jalan Zamrud P10B (Jalan P10B),Putrajaya,62250,WP_Putrajaya
-37308,Jalan Zamrud P10B/1 (Jalan P10B/1),Putrajaya,62250,WP_Putrajaya
-37309,Jalan Zamrud P10B/2 (Jalan P10B/2),Putrajaya,62250,WP_Putrajaya
-37310,Jalan Zamrud P10B/3 (Jalan P10B/3),Putrajaya,62250,WP_Putrajaya
-37311,Jalan Zamrud P10B/4 (Jalan P10B/4),Putrajaya,62250,WP_Putrajaya
-37312,Jalan Zamrud P10B/5 (Jalan P10B/5),Putrajaya,62250,WP_Putrajaya
-37313,Jalan Zamrud P10B/6 (Jalan P10B/6),Putrajaya,62250,WP_Putrajaya
-37314,Jalan Zamrud P10B/7 (Jalan P10B/7),Putrajaya,62250,WP_Putrajaya
-37315,Jalan Zamrud P10B/8 (Jalan P10B/8),Putrajaya,62250,WP_Putrajaya
-37316,Jalan Zamrud P10B/9 (Jalan P10B/9),Putrajaya,62250,WP_Putrajaya
-37317,Jalan Zamrud P10B/10 (Jalan P10B/10),Putrajaya,62250,WP_Putrajaya
-37318,Jalan Zamrud P10B/11 (Jalan P10B/11),Putrajaya,62250,WP_Putrajaya
-37319,Jalan Zamrud P10B/12 (Jalan P10B/12),Putrajaya,62250,WP_Putrajaya
-37320,Jalan Zamrud P10B/13 (Jalan P10B/13),Putrajaya,62250,WP_Putrajaya
-37321,Jalan P7E,Putrajaya,62250,WP_Putrajaya
-37322,Jalan P9C/1  ,Putrajaya,62250,WP_Putrajaya
-37323,Jalan Kepimpinan P8H (Jalan P8H),Putrajaya,62250,WP_Putrajaya
-37324,Jalan Enggang P9 (Jalan P9),Putrajaya,62250,WP_Putrajaya
-37325,Jalan Cenderawasih P9 A (Jalan P9 A),Putrajaya,62250,WP_Putrajaya
-37326,Jalan Cenderawasih P9 A/1 (Jalan P9 A/1),Putrajaya,62250,WP_Putrajaya
-37327,Jalan Cenderawasih P9 A/2 (Jalan P9 A/2),Putrajaya,62250,WP_Putrajaya
-37328,Jalan Cenderawasih P9 A/3 (Jalan P9 A/3),Putrajaya,62250,WP_Putrajaya
-37329,Jalan Cenderawasih P9 A/4 (Jalan P9 A/4),Putrajaya,62250,WP_Putrajaya
-37330,Jalan Cenderawasih P9 A/5 (Jalan P9 A/5),Putrajaya,62250,WP_Putrajaya
-37331,Jalan Tempua P9 B/1 (Jalan P9 B/1),Putrajaya,62250,WP_Putrajaya
-37332,Jalan Tempua P9 B/2 (Jalan P9 B/2),Putrajaya,62250,WP_Putrajaya
-37333,Jalan Tempua P9 B/3 (Jalan P9 B/3),Putrajaya,62250,WP_Putrajaya
-37334,Jalan Tempua P9 B/4 (Jalan P9 B/4),Putrajaya,62250,WP_Putrajaya
-37335,Jalan Tempua P9 B/5 (Jalan P9 B/5),Putrajaya,62250,WP_Putrajaya
-37336,Jalan Tempua P9 B/6 (Jalan P9 B/6),Putrajaya,62250,WP_Putrajaya
-37337,Jalan Tempua P9 B/7 (Jalan P9 B/7),Putrajaya,62250,WP_Putrajaya
-37338,Jalan Tempua P9 B/8 (Jalan P9 B/8),Putrajaya,62250,WP_Putrajaya
-37339,Jalan Tempua P9 B/9 (Jalan P9 B/9),Putrajaya,62250,WP_Putrajaya
-37340,Jalan Tempua P9 B/10 (Jalan P9 B/10),Putrajaya,62250,WP_Putrajaya
-37341,Jalan Tempua P9 B/11 (Jalan P9 B/11),Putrajaya,62250,WP_Putrajaya
-37342,Jalan Tempua P9 B/12 (Jalan P9 B/12),Putrajaya,62250,WP_Putrajaya
-37343,Jalan Rajawali P9 B1 (Jalan P9 B1),Putrajaya,62250,WP_Putrajaya
-37344,Jalan Rajawali P9 B 1/1 (Jalan P9 B 1/1),Putrajaya,62250,WP_Putrajaya
-37345,Jalan Rajawali P9 B 1/2 (Jalan P9 B 1/2),Putrajaya,62250,WP_Putrajaya
-37346,Jalan Rajawali P9 B 1/4 (Jalan P9 B 1/4),Putrajaya,62250,WP_Putrajaya
-37347,Jalan Rajawali P9 B 1/5 (Jalan P9 B 1/5),Putrajaya,62250,WP_Putrajaya
-37348,Jalan Rajawali P9 B 1/6 (Jalan P9 B 1/6),Putrajaya,62250,WP_Putrajaya
-37349,Jalan Rajawali P9 B 1/7 (Jalan P9 B 1/7),Putrajaya,62250,WP_Putrajaya
-37350,Jalan Rajawali P9 B 1/8 (Jalan P9 B 1/8),Putrajaya,62250,WP_Putrajaya
-37351,Jalan Rajawali P9 B 1/9 (Jalan P9 B 1/9),Putrajaya,62250,WP_Putrajaya
-37352,Jalan Rajawali P9 B 1/10 (Jalan P9 B 1/10),Putrajaya,62250,WP_Putrajaya
-37353,Jalan Rajawali P9 B 1/11 (Jalan P9 B 1/11),Putrajaya,62250,WP_Putrajaya
-37354,Jalan Rajawali P9 B 1/12 (Jalan P9 B 1/12),Putrajaya,62250,WP_Putrajaya
-37355,Jalan Rajawali P9 B 1/13 (Jalan P9 B 1/13),Putrajaya,62250,WP_Putrajaya
-37356,Jalan Rajawali P9 B 1/14 (Jalan P9 B 1/14),Putrajaya,62250,WP_Putrajaya
-37357,Jalan Rajawali P9 B 1/15 (Jalan P9 B 1/15),Putrajaya,62250,WP_Putrajaya
-37358,Jalan Rajawali P9 B 1/16 (Jalan P9 B 1/16),Putrajaya,62250,WP_Putrajaya
-37359,Jalan Rajawali P9 B 1/17 (Jalan P9 B 1/17),Putrajaya,62250,WP_Putrajaya
-37360,Jalan Merpati P9 C (Jalan P9 C),Putrajaya,62250,WP_Putrajaya
-37361,Jalan Merpati P9 C/1 (Jalan P9 C/1),Putrajaya,62250,WP_Putrajaya
-37362,Jalan Merbuk P9 C1 (Jalan P9 C1),Putrajaya,62250,WP_Putrajaya
-37363,Jalan Gelam P9 D (Jalan P9 D),Putrajaya,62250,WP_Putrajaya
-37364,Jalan Gelam P9 D/1 (Jalan P9 D/1),Putrajaya,62250,WP_Putrajaya
-37365,Jalan Gelam P9 D/2 (Jalan P9 D/2),Putrajaya,62250,WP_Putrajaya
-37366,Jalan Gelam P9 D/3 (Jalan P9 D/3),Putrajaya,62250,WP_Putrajaya
-37367,Jalan Serindit P9 E (Jalan P9 E),Putrajaya,62250,WP_Putrajaya
-37368,Jalan Nuri P9 F (Jalan P9 F),Putrajaya,62250,WP_Putrajaya
-37369,Jalan Kenyalang P9 G (Jalan P9 G),Putrajaya,62250,WP_Putrajaya
-37370,Jalan Kenari P9 G1 (Jalan P9 G1),Putrajaya,62250,WP_Putrajaya
-37371,Jalan Kenari P9 G 1/1 (Jalan P9 G 1/1),Putrajaya,62250,WP_Putrajaya
-37372,Jalan Kenari P9 G 1/2 (Jalan P9 G 1/2),Putrajaya,62250,WP_Putrajaya
-37373,Jalan Kenari P9 G 1/3 (Jalan P9 G 1/3),Putrajaya,62250,WP_Putrajaya
-37374,Jalan Kenari P9 G 1/4 (Jalan P9 G 1/4),Putrajaya,62250,WP_Putrajaya
-37375,Jalan Kenari P9 G 1/5 (Jalan P9 G 1/5),Putrajaya,62250,WP_Putrajaya
-37376,Jalan Kelicap P9 G/1 (Jalan P9 G/1),Putrajaya,62250,WP_Putrajaya
-37377,Jalan Kedidi P9 G/2 (Jalan P9 G/2),Putrajaya,62250,WP_Putrajaya
-37378,Jalan Kedidi P9 G/3 (Jalan P9 G/3),Putrajaya,62250,WP_Putrajaya
-37379,Jalan Kedidi P9 G/4 (Jalan P9 G/4),Putrajaya,62250,WP_Putrajaya
-37380,Jalan Kedidi P9 G/5 (Jalan P9 G/5),Putrajaya,62250,WP_Putrajaya
-37381,Jalan Kedidi P9 G/6 (Jalan P9 G/6),Putrajaya,62250,WP_Putrajaya
-37382,Jalan Kedidi P9 G/7 (Jalan P9 G/7),Putrajaya,62250,WP_Putrajaya
-37383,Laluan Seri Perdana Satu,Putrajaya,62250,WP_Putrajaya
-37384,Laluan Seri Perdana Dua,Putrajaya,62250,WP_Putrajaya
-37385,Jalan Sentral P7 (Jalan P7),Putrajaya,62250,WP_Putrajaya
-37386,Jalan Penyelamat P7A (Jalan P7A),Putrajaya,62250,WP_Putrajaya
-37387,Jalan Sentral P7D (Jalan P7D),Putrajaya,62250,WP_Putrajaya
-37388,Jalan Sentral P7E (Jalan P7E),Putrajaya,62250,WP_Putrajaya
-37389,Jalan Sentral P7F (Jalan P7F),Putrajaya,62250,WP_Putrajaya
-37390,Jalan Sentral P7G (Jalan P7G),Putrajaya,62250,WP_Putrajaya
-37391,Jalan Sentral P7G/2 (Jalan P7G/2),Putrajaya,62250,WP_Putrajaya
-37392,Jalan Kelah P8 (Jalan P8),Putrajaya,62250,WP_Putrajaya
-37393,Jalan Rohu P8A (Jalan P8A),Putrajaya,62250,WP_Putrajaya
-37394,Jalan Rohu P8A/1 (Jalan P8A/1),Putrajaya,62250,WP_Putrajaya
-37395,Jalan Rohu P8A/2 (Jalan P8A/2),Putrajaya,62250,WP_Putrajaya
-37396,Jalan Rohu P8A/3 (Jalan P8A/3),Putrajaya,62250,WP_Putrajaya
-37397,Jalan Rohu P8A/4 (Jalan P8A/4),Putrajaya,62250,WP_Putrajaya
-37398,Jalan Rohu P8A/5 (Jalan P8A/5),Putrajaya,62250,WP_Putrajaya
-37399,Jalan Patin P8B (Jalan P8B),Putrajaya,62250,WP_Putrajaya
-37400,Jalan Patin P8B/1 (Jalan P8B/1),Putrajaya,62250,WP_Putrajaya
-37401,Jalan Patin P8B/2 (Jalan P8B/2),Putrajaya,62250,WP_Putrajaya
-37402,Jalan Patin P8B/3 (Jalan P8B/3),Putrajaya,62250,WP_Putrajaya
-37403,Jalan Patin P8B/4 (Jalan P8B/4),Putrajaya,62250,WP_Putrajaya
-37404,Jalan Patin P8B/5 (Jalan P8B/5),Putrajaya,62250,WP_Putrajaya
-37405,Jalan Jelawat P8C (Jalan P8C),Putrajaya,62250,WP_Putrajaya
-37406,Jalan Jelawat P8D (Jalan P8D),Putrajaya,62250,WP_Putrajaya
-37407,Jalan Kerai P8E (Jalan P8E),Putrajaya,62250,WP_Putrajaya
-37408,Jalan Kerai P8E/1 (Jalan P8E/1),Putrajaya,62250,WP_Putrajaya
-37409,Jalan Kerai P8E/2 (Jalan P8E/2),Putrajaya,62250,WP_Putrajaya
-37410,Jalan Kerai P8E/3 (Jalan P8E/3),Putrajaya,62250,WP_Putrajaya
-37411,Jalan Kerai P8E/4 (Jalan P8E/4),Putrajaya,62250,WP_Putrajaya
-37412,Jalan Kerai P8E/5 (Jalan P8E/5),Putrajaya,62250,WP_Putrajaya
-37413,Jalan Istana P8E 1 (Jalan P8E 1),Putrajaya,62250,WP_Putrajaya
-37414,Jalan Seluang P8E 2 (Jalan P8E 2),Putrajaya,62250,WP_Putrajaya
-37415,Jalan Seluang P8E 2/1 (Jalan P8E 2/1),Putrajaya,62250,WP_Putrajaya
-37416,Jalan Seluang P8E 2/2 (Jalan P8E 2/2),Putrajaya,62250,WP_Putrajaya
-37417,Jalan Seluang P8E 2/3 (Jalan P8E 2/3),Putrajaya,62250,WP_Putrajaya
-37418,Jalan Seluang P8E 2/4 (Jalan P8E 2/4),Putrajaya,62250,WP_Putrajaya
-37419,Jalan Seluang P8E 2/5 (Jalan P8E 2/5),Putrajaya,62250,WP_Putrajaya
-37420,Jalan Seluang P8E 2/5-1 (Jalan P8E 2/5-1),Putrajaya,62250,WP_Putrajaya
-37421,Jalan Seluang P8E 2/5-2 (Jalan P8E 2/5-2),Putrajaya,62250,WP_Putrajaya
-37422,Jalan Seluang P8E 2/6 (Jalan P8E 2/6),Putrajaya,62250,WP_Putrajaya
-37423,Jalan Seluang P8E 2/7 (Jalan P8E 2/7),Putrajaya,62250,WP_Putrajaya
-37424,Jalan Seluang P8E 2/8 (Jalan P8E 2/8),Putrajaya,62250,WP_Putrajaya
-37425,Jalan Seluang P8E 2/9 (Jalan P8E 2/9),Putrajaya,62250,WP_Putrajaya
-37426,Jalan Seluang P8/7,Putrajaya,62250,WP_Putrajaya
-37427,Jalan Tenggalan P8 (Jalan P8),Putrajaya,62250,WP_Putrajaya
-37428,Jalan Tenggalan P8F (Jalan P8F),Putrajaya,62250,WP_Putrajaya
-37429,Jalan Temoleh P8/4,Putrajaya,62250,WP_Putrajaya
-37430,Jalan Temoleh P8/6,Putrajaya,62250,WP_Putrajaya
-37431,Jalan Temoleh P8/7,Putrajaya,62250,WP_Putrajaya
-37432,Jalan Temoleh P8/8,Putrajaya,62250,WP_Putrajaya
-37433,Jalan Temoleh P8/9,Putrajaya,62250,WP_Putrajaya
-37434,Jalan Temoleh P8G (Jalan P8G),Putrajaya,62250,WP_Putrajaya
-37435,Jalan Temoleh P8G 1 (Jalan P8G 1),Putrajaya,62250,WP_Putrajaya
-37436,Jalan Temoleh P8G/3 (Jalan P8G/3),Putrajaya,62250,WP_Putrajaya
-37437,Jalan Temoleh P8G/13 (Jalan P8G/13),Putrajaya,62250,WP_Putrajaya
-37438,Jalan Tempua P9 B (Jalan P9 B),Putrajaya,62250,WP_Putrajaya
-37439,Jalan Intan P10A (Jalan P10A),Putrajaya,62250,WP_Putrajaya
-37440,Jalan P8E 2/5-2,Putrajaya,62250,WP_Putrajaya
-37441,Jalan Topaz P10/1 (Jalan P10/1),Putrajaya,62250,WP_Putrajaya
-37442,Jalan P10/2,Putrajaya,62250,WP_Putrajaya
-37443,Jalan Topaz P10/3 (Jalan P10/3),Putrajaya,62250,WP_Putrajaya
-37444,Jalan Topaz P10/4 (Jalan P10/4),Putrajaya,62250,WP_Putrajaya
-37445,Jalan Topaz P10/5 (Jalan P10/5),Putrajaya,62250,WP_Putrajaya
-37446,Jalan Topaz P10/6 (Jalan P10/6),Putrajaya,62250,WP_Putrajaya
-37447,Jalan Topaz P10/7 (Jalan P10/7),Putrajaya,62250,WP_Putrajaya
-37448,Jalan Delima P10/8 (Jalan P10/8),Putrajaya,62250,WP_Putrajaya
-37449,Jalan Delima P10/9 (Jalan P10/9),Putrajaya,62250,WP_Putrajaya
-37450,Jalan Berlian P10/10 (Jalan P10/10),Putrajaya,62250,WP_Putrajaya
-37451,Jalan Nilam P10C (Jalan P10C),Putrajaya,62250,WP_Putrajaya
-37452,Jalan Nilam P10C/1 (Jalan P10C/1),Putrajaya,62250,WP_Putrajaya
-37453,Jalan Nilam P10C/2 (Jalan P10C/2),Putrajaya,62250,WP_Putrajaya
-37454,Jalan Nilam P10C/3 (Jalan P10C/3),Putrajaya,62250,WP_Putrajaya
-37455,Jalan Nilam P10C/4 (Jalan P10C/4),Putrajaya,62250,WP_Putrajaya
-37456,Jalan Nilam P10C/5 (Jalan P10C/5),Putrajaya,62250,WP_Putrajaya
-37457,Jalan Nilam P10C/6 (Jalan P10C/6),Putrajaya,62250,WP_Putrajaya
-37458,Jalan Firus P10D (Jalan P10D),Putrajaya,62250,WP_Putrajaya
-37459,Bahagian Kerja Tanah Jabatan Perdana Menteri,Putrajaya,62300,WP_Putrajaya
-37460,Presint 13,Putrajaya,62300,WP_Putrajaya
-37461,Jalan Tanggilan P11D/25 (Jalan P11D/25),Putrajaya,62300,WP_Putrajaya
-37462,Jalan Tanggilan P11D/26 (Jalan P11D/26),Putrajaya,62300,WP_Putrajaya
-37463,Jalan Tanggilan P11D/28,Putrajaya,62300,WP_Putrajaya
-37464,Jalan Melinjau P11E (Jalan P11E),Putrajaya,62300,WP_Putrajaya
-37465,Jalan Melinjau P11E/1 (Jalan P11E/1),Putrajaya,62300,WP_Putrajaya
-37466,Jalan Melinjau P11E/2 (Jalan P11E/2),Putrajaya,62300,WP_Putrajaya
-37467,Jalan Melinjau P11E/3 (Jalan P11E/3),Putrajaya,62300,WP_Putrajaya
-37468,Jalan Melinjau P11E/4 (Jalan P11E/4),Putrajaya,62300,WP_Putrajaya
-37469,Jalan Melinjau P11E/5 (Jalan P11E/5),Putrajaya,62300,WP_Putrajaya
-37470,Jalan Jati Bukit P11/1 (Jalan P11F),Putrajaya,62300,WP_Putrajaya
-37471,Jalan Jati Bukit P11/2 (Jalan P11F/1),Putrajaya,62300,WP_Putrajaya
-37472,Jalan Jati Bukit P11/25,Putrajaya,62300,WP_Putrajaya
-37473,Jalan Jati Laut P11F/11 (Jalan P11F/11),Putrajaya,62300,WP_Putrajaya
-37474,Jalan Jati Laut P11F/12 (Jalan P11F/12),Putrajaya,62300,WP_Putrajaya
-37475,Jalan Jati Laut P11F/13 (Jalan P11F/13),Putrajaya,62300,WP_Putrajaya
-37476,Jalan Jati Laut P11F/14 (Jalan P11F/14),Putrajaya,62300,WP_Putrajaya
-37477,Jalan Jati Laut P11F/15 (Jalan P11F/15),Putrajaya,62300,WP_Putrajaya
-37478,Jalan Jati Laut P11F/16 (Jalan P11F/16),Putrajaya,62300,WP_Putrajaya
-37479,Jalan Jati Laut P11F/17 (Jalan P11F/17),Putrajaya,62300,WP_Putrajaya
-37480,Jalan Jati Laut P11F/18 (Jalan P11F/18),Putrajaya,62300,WP_Putrajaya
-37481,Jalan Jati Laut P11F/19 (Jalan P11F/19),Putrajaya,62300,WP_Putrajaya
-37482,Jalan Jati Laut P11F/20 (Jalan P11F/20),Putrajaya,62300,WP_Putrajaya
-37483,Jalan Jati Laut P11F/21 (Jalan P11F/21),Putrajaya,62300,WP_Putrajaya
-37484,Jalan Jati Laut P11F/22 (Jalan P11F/22),Putrajaya,62300,WP_Putrajaya
-37485,Jalan Rhu P11G (Jalan P11G),Putrajaya,62300,WP_Putrajaya
-37486,Jalan Rhu P11/1 (Jalan P11G/1),Putrajaya,62300,WP_Putrajaya
-37487,Jalan Rhu P11/2 (Jalan P11G/2),Putrajaya,62300,WP_Putrajaya
-37488,Jalan Rhu P11/3 (Jalan P11G/3),Putrajaya,62300,WP_Putrajaya
-37489,Jalan Rhu P11/4 (Jalan P11G/4),Putrajaya,62300,WP_Putrajaya
-37490,Jalan Rhu P11/5 (Jalan P11G/5),Putrajaya,62300,WP_Putrajaya
-37491,Jalan Konifer P11H (Jalan P11H),Putrajaya,62300,WP_Putrajaya
-37492,Jalan Konifer P11H/1 (Jalan P11H/1),Putrajaya,62300,WP_Putrajaya
-37493,Jalan Konifer P11H/2 (Jalan P11H/2),Putrajaya,62300,WP_Putrajaya
-37494,Jalan Konifer P11H/3 (Jalan P11H/3),Putrajaya,62300,WP_Putrajaya
-37495,Jalan Konifer P11H/4 (Jalan P11H/4),Putrajaya,62300,WP_Putrajaya
-37496,Jalan Konifer P11H/5 (Jalan P11H/5),Putrajaya,62300,WP_Putrajaya
-37497,Jalan Konifer P11H/6 (Jalan P11H/6),Putrajaya,62300,WP_Putrajaya
-37498,Jalan Konifer P11H/7 (Jalan P11H/7),Putrajaya,62300,WP_Putrajaya
-37499,Jalan Konifer P11H/8 (Jalan P11H/8),Putrajaya,62300,WP_Putrajaya
-37500,Jalan Damar P11J,Putrajaya,62300,WP_Putrajaya
-37501,Jalan Damar P11J 1,Putrajaya,62300,WP_Putrajaya
-37502,Jalan Paku Gajah P11K (Jalan P11K),Putrajaya,62300,WP_Putrajaya
-37503,Jalan Paku Gajah P11K/1 (Jalan P11K/1),Putrajaya,62300,WP_Putrajaya
-37504,Jalan Paku Gajah P11K/2 (Jalan P11K/2),Putrajaya,62300,WP_Putrajaya
-37505,Jalan Paku Gajah P11K/3 (Jalan P11K/3),Putrajaya,62300,WP_Putrajaya
-37506,Jalan Paku Gajah P11K/4 (Jalan P11K/4),Putrajaya,62300,WP_Putrajaya
-37507,Jalan Paku Gajah P11K/5 (Jalan P11K/5),Putrajaya,62300,WP_Putrajaya
-37508,Jalan Paku Gajah P11K/6 (Jalan P11K/6),Putrajaya,62300,WP_Putrajaya
-37509,Jalan Paku Gajah P11K/7 (Jalan P11K/7),Putrajaya,62300,WP_Putrajaya
-37510,Jalan Paku Gajah P11K/8 (Jalan P11K/8),Putrajaya,62300,WP_Putrajaya
-37511,Jalan Paku Gajah P11K/9 (Jalan P11K/9),Putrajaya,62300,WP_Putrajaya
-37512,Jalan Paku Gajah P11K/10 (Jalan P11K/10),Putrajaya,62300,WP_Putrajaya
-37513,Jalan Paku Gajah P11K/11 (Jalan P11K/11),Putrajaya,62300,WP_Putrajaya
-37514,Jalan Paku Gajah P11K/12 (Jalan P11K/12),Putrajaya,62300,WP_Putrajaya
-37515,Jalan Paku Gajah P11K/13 (Jalan P11K/13),Putrajaya,62300,WP_Putrajaya
-37516,Jalan Jati Bukit P11/3 (Jalan P11F/2),Putrajaya,62300,WP_Putrajaya
-37517,Jalan Jati Bukit P11/4 (Jalan P11F/3),Putrajaya,62300,WP_Putrajaya
-37518,Jalan Jati Laut P11F/3 (Jalan P11F/3),Putrajaya,62300,WP_Putrajaya
-37519,Jalan Jati Bukit P11/5 (Jalan P11F/4),Putrajaya,62300,WP_Putrajaya
-37520,Jalan Jati Bukit P11/6 (Jalan P11F/5),Putrajaya,62300,WP_Putrajaya
-37521,Jalan Jati Bukit P11/7 (Jalan P11F/6),Putrajaya,62300,WP_Putrajaya
-37522,Jalan Jati Bukit P11/8 (Jalan P11F/7),Putrajaya,62300,WP_Putrajaya
-37523,Jalan Jati Bukit P11/9 (Jalan P11F/8),Putrajaya,62300,WP_Putrajaya
-37524,Jalan Jati Bukit P11/10 (Jalan P11F/9),Putrajaya,62300,WP_Putrajaya
-37525,Laluan Kumbang P13,Putrajaya,62300,WP_Putrajaya
-37526,Laluan Lebah P13,Putrajaya,62300,WP_Putrajaya
-37527,Laluan Tebuan P13,Putrajaya,62300,WP_Putrajaya
-37528,Laluan Kunang-Kunang P13,Putrajaya,62300,WP_Putrajaya
-37529,Laluan Belalang P13,Putrajaya,62300,WP_Putrajaya
-37530,Laluan Keridik P13,Putrajaya,62300,WP_Putrajaya
-37531,Laluan Cengkerik P13,Putrajaya,62300,WP_Putrajaya
-37532,Laluan Rama-Rama P13,Putrajaya,62300,WP_Putrajaya
-37533,Laluan Kerengga P13,Putrajaya,62300,WP_Putrajaya
-37534,Laluan Mentadak P13,Putrajaya,62300,WP_Putrajaya
-37535,Laluan Rekreasi Air P13,Putrajaya,62300,WP_Putrajaya
-37536,Jalan Saujana Hijau P11 (Jalan P11),Putrajaya,62300,WP_Putrajaya
-37537,Jalan Resam P11,Putrajaya,62300,WP_Putrajaya
-37538,Jalan Gingko P11/1 (Jalan P11/1),Putrajaya,62300,WP_Putrajaya
-37539,Jalan Saujana Hijau P11/2 (Jalan P11/2) ,Putrajaya,62300,WP_Putrajaya
-37540,Jalan Juniper P11/2,Putrajaya,62300,WP_Putrajaya
-37541,Jalan Juniper P11/4,Putrajaya,62300,WP_Putrajaya
-37542,Jalan Juniper P11/5,Putrajaya,62300,WP_Putrajaya
-37543,Jalan P11/3,Putrajaya,62300,WP_Putrajaya
-37544,Jalan Saujana Hijau P11/4 (Jalan P11/4),Putrajaya,62300,WP_Putrajaya
-37545,Jalan Zamia P11A (Jalan P11A),Putrajaya,62300,WP_Putrajaya
-37546,Jalan Setada P11A 1 (Jalan P11A 1),Putrajaya,62300,WP_Putrajaya
-37547,Jalan Setada P11A 1/1 (Jalan P11A 1/1),Putrajaya,62300,WP_Putrajaya
-37548,Jalan Setada P11A 1/2 (Jalan P11A 1/2),Putrajaya,62300,WP_Putrajaya
-37549,Jalan Setada P11A 1/3 (Jalan P11A 1/3),Putrajaya,62300,WP_Putrajaya
-37550,Jalan Setada P11A 1/4 (Jalan P11A 1/4),Putrajaya,62300,WP_Putrajaya
-37551,Jalan Setada P11A 1/5 (Jalan P11A 1/5),Putrajaya,62300,WP_Putrajaya
-37552,Jalan Setada P11A 1/6 (Jalan P11A 1/6),Putrajaya,62300,WP_Putrajaya
-37553,Jalan Setada P11A 1/7 (Jalan P11A 1/7),Putrajaya,62300,WP_Putrajaya
-37554,Jalan Setada P11A 1/8 (Jalan P11A 1/8),Putrajaya,62300,WP_Putrajaya
-37555,Jalan Setada P11A 1/9 (Jalan P11A 1/9),Putrajaya,62300,WP_Putrajaya
-37556,Jalan Setada P11A 1/10 (Jalan P11A 1/10),Putrajaya,62300,WP_Putrajaya
-37557,Jalan Setada P11A 1/11 (Jalan P11A 1/11),Putrajaya,62300,WP_Putrajaya
-37558,Jalan Setada P11A 1/12 (Jalan P11A 1/12),Putrajaya,62300,WP_Putrajaya
-37559,Jalan Setada P11A 1/13 (Jalan P11A 1/13),Putrajaya,62300,WP_Putrajaya
-37560,Jalan Setada P11A 1/14 (Jalan P11A 1/14),Putrajaya,62300,WP_Putrajaya
-37561,Jalan Setada P11A 1/15 (Jalan P11A 1/15),Putrajaya,62300,WP_Putrajaya
-37562,Jalan Sikas P11A 2 (Jalan P11A 2),Putrajaya,62300,WP_Putrajaya
-37563,Jalan Sikas P11A 2/1 (Jalan P11A 2/1),Putrajaya,62300,WP_Putrajaya
-37564,Jalan Sikas P11A 2/2 (Jalan P11A 2/2),Putrajaya,62300,WP_Putrajaya
-37565,Jalan Sikas P11A 2/3 (Jalan P11A 2/3),Putrajaya,62300,WP_Putrajaya
-37566,Jalan Sikas P11A 2/4 (Jalan P11A 2/4),Putrajaya,62300,WP_Putrajaya
-37567,Jalan Sikas P11A 2/5 (Jalan P11A 2/5),Putrajaya,62300,WP_Putrajaya
-37568,Jalan Sikas P11A 2/6 (Jalan P11A 2/6),Putrajaya,62300,WP_Putrajaya
-37569,Jalan Sikas P11A 3 (Jalan P11A 3),Putrajaya,62300,WP_Putrajaya
-37570,Jalan Setada P11A 4 (Jalan P11A 4),Putrajaya,62300,WP_Putrajaya
-37571,Jalan Sikas P11A 5 (Jalan P11A 5),Putrajaya,62300,WP_Putrajaya
-37572,Jalan Sikas P11A 5/1 (Jalan P11A 5/1),Putrajaya,62300,WP_Putrajaya
-37573,Jalan Sikas P11A 5/2 (Jalan P11A 5/2),Putrajaya,62300,WP_Putrajaya
-37574,Jalan Sikas P11A 5/3 (Jalan P11A 5/3),Putrajaya,62300,WP_Putrajaya
-37575,Jalan Sikas P11A 5/4 (Jalan P11A 5/4),Putrajaya,62300,WP_Putrajaya
-37576,Jalan Sikas P11A 5/5 (Jalan P11A 5/5),Putrajaya,62300,WP_Putrajaya
-37577,Jalan Sikas P11A 5/6 (Jalan P11A 5/6),Putrajaya,62300,WP_Putrajaya
-37578,Jalan Sikas P11A 5/7 (Jalan P11A 5/7),Putrajaya,62300,WP_Putrajaya
-37579,Jalan Sikas P11A 5/8 (Jalan P11A 5/8),Putrajaya,62300,WP_Putrajaya
-37580,Jalan Bucida P11A 6 (Jalan P11A 6),Putrajaya,62300,WP_Putrajaya
-37581,Jalan Bucida P11A 6/1 (Jalan P11A 6/1),Putrajaya,62300,WP_Putrajaya
-37582,Jalan Bucida P11A 6/2 (Jalan P11A 6/2),Putrajaya,62300,WP_Putrajaya
-37583,Jalan Bucida P11A 6/3 (Jalan P11A 6/3),Putrajaya,62300,WP_Putrajaya
-37584,Jalan Bucida P11A 6/4 (Jalan P11A 6/4),Putrajaya,62300,WP_Putrajaya
-37585,Jalan Bucida P11A 6/5 (Jalan P11A 6/5),Putrajaya,62300,WP_Putrajaya
-37586,Jalan Bucida P11A 6/6 (Jalan P11A 6/6),Putrajaya,62300,WP_Putrajaya
-37587,Jalan Bucida P11A 6/7 (Jalan P11A 6/7) ,Putrajaya,62300,WP_Putrajaya
-37588,Jalan Jati Bukit P11/11 (Jalan P11F/10),Putrajaya,62300,WP_Putrajaya
-37589,Presint 11,Putrajaya,62300,WP_Putrajaya
-37590,Jalan Zamia P11B (Jalan P11B),Putrajaya,62300,WP_Putrajaya
-37591,Jalan Araucaria P11B 1 (Jalan P11B 1),Putrajaya,62300,WP_Putrajaya
-37592,Jalan Araucaria P11B 1/1 (Jalan P11B 1/1),Putrajaya,62300,WP_Putrajaya
-37593,Jalan Araucaria P11B 1/2 (Jalan P11B 1/2),Putrajaya,62300,WP_Putrajaya
-37594,Jalan Araucaria P11B 1/3 (Jalan P11B 1/3),Putrajaya,62300,WP_Putrajaya
-37595,Jalan Araucaria P11B 1/4 (Jalan P11B 1/4),Putrajaya,62300,WP_Putrajaya
-37596,Jalan Araucaria P11B 1/5 (Jalan P11B 1/5),Putrajaya,62300,WP_Putrajaya
-37597,Jalan Araucaria P11B 1/6 (Jalan P11B 1/6),Putrajaya,62300,WP_Putrajaya
-37598,Jalan Cemara P11C (Jalan P11C),Putrajaya,62300,WP_Putrajaya
-37599,Jalan Cemara P11C/1 (Jalan P11C/1),Putrajaya,62300,WP_Putrajaya
-37600,Jalan Cemara P11C/2 (Jalan P11C/2),Putrajaya,62300,WP_Putrajaya
-37601,Jalan Cemara P11C/3 (Jalan P11C/3),Putrajaya,62300,WP_Putrajaya
-37602,Jalan Cemara P11C/4 (Jalan P11C/4),Putrajaya,62300,WP_Putrajaya
-37603,Jalan Cemara P11C/6 (Jalan P11C/6),Putrajaya,62300,WP_Putrajaya
-37604,Jalan Cemara P11C/7 (Jalan P11C/7),Putrajaya,62300,WP_Putrajaya
-37605,Jalan Cemara P11C/8 (Jalan P11C/8),Putrajaya,62300,WP_Putrajaya
-37606,Jalan Cemara P11C/9 (Jalan P11C/9),Putrajaya,62300,WP_Putrajaya
-37607,Jalan Cemara P11C/10 (Jalan P11C/10),Putrajaya,62300,WP_Putrajaya
-37608,Jalan Cemara P11C/11 (Jalan P11C/11),Putrajaya,62300,WP_Putrajaya
-37609,Jalan Cemara P11C/12 (Jalan P11C/12),Putrajaya,62300,WP_Putrajaya
-37610,Jalan Cemara P11C/13 (Jalan P11C/13),Putrajaya,62300,WP_Putrajaya
-37611,Jalan Cemara P11C/14 (Jalan P11C/14),Putrajaya,62300,WP_Putrajaya
-37612,Jalan Cemara P11C/15 (Jalan P11C/15),Putrajaya,62300,WP_Putrajaya
-37613,Jalan Cemara P11C/16 (Jalan P11C/16),Putrajaya,62300,WP_Putrajaya
-37614,Jalan Cemara P11C/17 (Jalan P11C/17),Putrajaya,62300,WP_Putrajaya
-37615,Jalan Tanggilan P11D (Jalan P11D),Putrajaya,62300,WP_Putrajaya
-37616,Jalan Tanggilan P11D/1 (Jalan P11D/1),Putrajaya,62300,WP_Putrajaya
-37617,Jalan Tanggilan P11D/2 (Jalan P11D/2),Putrajaya,62300,WP_Putrajaya
-37618,Jalan Tanggilan P11D/3 (Jalan P11D/3),Putrajaya,62300,WP_Putrajaya
-37619,Jalan Tanggilan P11D/4 (Jalan P11D/4),Putrajaya,62300,WP_Putrajaya
-37620,Jalan Tanggilan P11D/5 (Jalan P11D/5),Putrajaya,62300,WP_Putrajaya
-37621,Jalan Tanggilan P11D/6 (Jalan P11D/6),Putrajaya,62300,WP_Putrajaya
-37622,Jalan Tanggilan P11D/7 (Jalan P11D/7),Putrajaya,62300,WP_Putrajaya
-37623,Jalan Tanggilan P11D/8 (Jalan P11D/8),Putrajaya,62300,WP_Putrajaya
-37624,Jalan Tanggilan P11D/9 (Jalan P11D/9),Putrajaya,62300,WP_Putrajaya
-37625,Jalan Tanggilan P11D/10 (Jalan P11D/10),Putrajaya,62300,WP_Putrajaya
-37626,Jalan Tanggilan P11D/11 (Jalan P11D/11),Putrajaya,62300,WP_Putrajaya
-37627,Jalan Tanggilan P11D/12 (Jalan P11D/12),Putrajaya,62300,WP_Putrajaya
-37628,Jalan Tanggilan P11D/13 (Jalan P11D/13),Putrajaya,62300,WP_Putrajaya
-37629,Jalan Tanggilan P11D/14 (Jalan P11D/14),Putrajaya,62300,WP_Putrajaya
-37630,Jalan Tanggilan P11D/15 (Jalan P11D/15),Putrajaya,62300,WP_Putrajaya
-37631,Jalan Tanggilan P11D/16 (Jalan P11D/16),Putrajaya,62300,WP_Putrajaya
-37632,Jalan Tanggilan P11D/17 (Jalan P11D/17),Putrajaya,62300,WP_Putrajaya
-37633,Jalan Tanggilan P11D/18 (Jalan P11D/18),Putrajaya,62300,WP_Putrajaya
-37634,Jalan Tanggilan P11D/19 (Jalan P11D/19),Putrajaya,62300,WP_Putrajaya
-37635,Jalan Tanggilan P11D/20 (Jalan P11D/20),Putrajaya,62300,WP_Putrajaya
-37636,Jalan Tanggilan P11D/21 (Jalan P11D/21),Putrajaya,62300,WP_Putrajaya
-37637,Jalan Tanggilan P11D/22 (Jalan P11D/22),Putrajaya,62300,WP_Putrajaya
-37638,Jalan Tanggilan P11D/23 (Jalan P11D/23),Putrajaya,62300,WP_Putrajaya
-37639,Jalan Tanggilan P11D/24 (Jalan P11D/24),Putrajaya,62300,WP_Putrajaya
-37640,Jabatan Peguam Negara,Putrajaya,62510,WP_Putrajaya
-37641,Pusat Pengajian Pembangunan Malaysia,Putrajaya,62520,WP_Putrajaya
-37642,Jabatan Hal Ehwal Kesatuan Sekerja,Putrajaya,62530,WP_Putrajaya
-37643,Kementerian Sumber Manusia,Putrajaya,62530,WP_Putrajaya
-37644,Pendaftar Kesatuan Sekerja,Putrajaya,62540,WP_Putrajaya
-37645,Ketua Pengarah Jabatan Imigresen Malaysia,Putrajaya,62550,WP_Putrajaya
-37646,Ketua Pengarah Pendaftaran Negara,Putrajaya,62550,WP_Putrajaya
-37647,Jabatan Alam Sekitar,Putrajaya,62570,WP_Putrajaya
-37648,Kementerian Belia Dan Sukan,Putrajaya,62570,WP_Putrajaya
-37649,Kementerian Kewangan,Putrajaya,62590,WP_Putrajaya
-37650,Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna,Putrajaya,62620,WP_Putrajaya
-37651,Jabatan Pertanian,Putrajaya,62630,WP_Putrajaya
-37652,Bahagian Kemajuan Wilayah Persekutuan,Putrajaya,62670,WP_Putrajaya
+37843,Presint 12,Putrajaya,62000,WP_Putrajaya
+37844,Jalan Perdana Timur A/1,Putrajaya,62000,WP_Putrajaya
+37845,Jalan Alamanda,Putrajaya,62000,WP_Putrajaya
+37846,Presint 1,Putrajaya,62000,WP_Putrajaya
+37847,Jalan Eugenia P12,Putrajaya,62000,WP_Putrajaya
+37848,Jalan Cassia P12/1,Putrajaya,62000,WP_Putrajaya
+37849,Jalan Cassia P12/2,Putrajaya,62000,WP_Putrajaya
+37850,Jalan Cassia P12/3,Putrajaya,62000,WP_Putrajaya
+37851,Jalan Cassia P12/4,Putrajaya,62000,WP_Putrajaya
+37852,Jalan Cassia P12/5,Putrajaya,62000,WP_Putrajaya
+37853,Jalan Cassia P12/6,Putrajaya,62000,WP_Putrajaya
+37854,Jalan Cassia P12/7,Putrajaya,62000,WP_Putrajaya
+37855,Jalan Cassia P12/8,Putrajaya,62000,WP_Putrajaya
+37856,Jalan Cassia P12/9,Putrajaya,62000,WP_Putrajaya
+37857,Jalan Murraya P12/1,Putrajaya,62000,WP_Putrajaya
+37858,Jalan Murraya P12/2,Putrajaya,62000,WP_Putrajaya
+37859,Jalan Murraya P12/3,Putrajaya,62000,WP_Putrajaya
+37860,Jalan Murraya P12/4,Putrajaya,62000,WP_Putrajaya
+37861,Jalan Murraya P12/5,Putrajaya,62000,WP_Putrajaya
+37862,Jalan Murraya P12/6,Putrajaya,62000,WP_Putrajaya
+37863,Jalan Murraya P12/7,Putrajaya,62000,WP_Putrajaya
+37864,Jalan Murraya P12/8,Putrajaya,62000,WP_Putrajaya
+37865,Jalan Murraya P12/9,Putrajaya,62000,WP_Putrajaya
+37866,Jalan Gynura P12/1,Putrajaya,62000,WP_Putrajaya
+37867,Jalan Gynura P12/2,Putrajaya,62000,WP_Putrajaya
+37868,Jalan Gynura P12/3,Putrajaya,62000,WP_Putrajaya
+37869,Jalan Gynura P12/4,Putrajaya,62000,WP_Putrajaya
+37870,Jalan Gynura P12/5,Putrajaya,62000,WP_Putrajaya
+37871,Jalan Gynura P12/6,Putrajaya,62000,WP_Putrajaya
+37872,Jalan Gynura P12/7,Putrajaya,62000,WP_Putrajaya
+37873,Jalan Gynura P12/8,Putrajaya,62000,WP_Putrajaya
+37874,Jalan Senna P12,Putrajaya,62000,WP_Putrajaya
+37875,Jalan Areca P12,Putrajaya,62000,WP_Putrajaya
+37876,Jalan Alamanda 1,Putrajaya,62000,WP_Putrajaya
+37877,Jalan Alamanda 2,Putrajaya,62000,WP_Putrajaya
+37878,Jalan Taman Putra Perdana,Putrajaya,62000,WP_Putrajaya
+37879,Jalan Taman Putra Perdana/1,Putrajaya,62000,WP_Putrajaya
+37880,Jalan Taman Putra Perdana/2,Putrajaya,62000,WP_Putrajaya
+37881,Jalan Taman Putra Perdana/3,Putrajaya,62000,WP_Putrajaya
+37882,Jalan Taman Putra Perdana/4,Putrajaya,62000,WP_Putrajaya
+37883,Laluan Dataran Pahlawan P1,Putrajaya,62000,WP_Putrajaya
+37884,Laluan Laman Putra P1/1,Putrajaya,62000,WP_Putrajaya
+37885,Laluan Laman Putra P1/2,Putrajaya,62000,WP_Putrajaya
+37886,Laluan Laman Putra P1/3,Putrajaya,62000,WP_Putrajaya
+37887,Badan Pencegah Rasuah,Putrajaya,62007,WP_Putrajaya
+37888,Presint 14,Putrajaya,62050,WP_Putrajaya
+37889,Presint 15,Putrajaya,62050,WP_Putrajaya
+37890,Jalan Gelam P15/3 (Jalan P15A/2),Putrajaya,62050,WP_Putrajaya
+37891,Jalan Gelam P15/4 (Jalan P15A/3),Putrajaya,62050,WP_Putrajaya
+37892,Jalan Mempaga P15/1 (Jalan P15B),Putrajaya,62050,WP_Putrajaya
+37893,Jalan Jati P14B 1/3 (Jalan P14B 1/3),Putrajaya,62050,WP_Putrajaya
+37894,Jalan Jati P14B 1/4 (Jalan P14B 1/4),Putrajaya,62050,WP_Putrajaya
+37895,Jalan Jati P14B 1/5 (Jalan P14B 1/5),Putrajaya,62050,WP_Putrajaya
+37896,Jalan Jati P14B 1/6 (Jalan P14B 1/6),Putrajaya,62050,WP_Putrajaya
+37897,Jalan Jati P14B 1/7 (Jalan P14B 1/7),Putrajaya,62050,WP_Putrajaya
+37898,Jalan Mempaga P15/2 (Jalan P15B/1),Putrajaya,62050,WP_Putrajaya
+37899,Jalan Mempaga P15/3 (Jalan P15B/2),Putrajaya,62050,WP_Putrajaya
+37900,Jalan Mempaga P15/4 (Jalan P15B/3),Putrajaya,62050,WP_Putrajaya
+37901,Jalan Tembusu P15/4 (Jalan P15C/3),Putrajaya,62050,WP_Putrajaya
+37902,Bahagian Pilihanraya Parlimen P125 Putrajaya,Putrajaya,62050,WP_Putrajaya
+37903,Jalan Jati P14B 1/1 (Jalan P14B 1/1),Putrajaya,62050,WP_Putrajaya
+37904,Jalan Jati P14B 2/2 (Jalan P14B 2/2),Putrajaya,62050,WP_Putrajaya
+37905,Jalan Cendana P14A (Jalan P14A),Putrajaya,62050,WP_Putrajaya
+37906,Jalan Cendana P14A 1 (Jalan P14A 1),Putrajaya,62050,WP_Putrajaya
+37907,Jalan Cendana P14A 1/1 (Jalan P14A 1/1),Putrajaya,62050,WP_Putrajaya
+37908,Jalan Cendana P14A 1/2 (Jalan P14A 1/2),Putrajaya,62050,WP_Putrajaya
+37909,Jalan Cendana P14A 1/3 (Jalan P14A 1/3),Putrajaya,62050,WP_Putrajaya
+37910,Jalan Cengal P14 (Jalan P14),Putrajaya,62050,WP_Putrajaya
+37911,Jalan Rimba Alam P14 (Jalan P14),Putrajaya,62050,WP_Putrajaya
+37912,Jalan Cendana P14A 1/5,Putrajaya,62050,WP_Putrajaya
+37913,Jalan Cendana P14A 1/6,Putrajaya,62050,WP_Putrajaya
+37914,Jalan Cendana P14A 1/7,Putrajaya,62050,WP_Putrajaya
+37915,Jalan Cendana P14A 1/8,Putrajaya,62050,WP_Putrajaya
+37916,Jalan Cendana P14A 1/9,Putrajaya,62050,WP_Putrajaya
+37917,Jalan Cendana P14A 1/10,Putrajaya,62050,WP_Putrajaya
+37918,Jalan Cendana P14A 1/11,Putrajaya,62050,WP_Putrajaya
+37919,Jalan Cendana P14A 1/12,Putrajaya,62050,WP_Putrajaya
+37920,Jalan Cendana P14A 1/13,Putrajaya,62050,WP_Putrajaya
+37921,Jalan Cendana P14A 1/14,Putrajaya,62050,WP_Putrajaya
+37922,Jalan Jati P14B (Jalan P14B),Putrajaya,62050,WP_Putrajaya
+37923,Jalan Jati P14B 1 (Jalan P14B 1),Putrajaya,62050,WP_Putrajaya
+37924,Jalan Jati P14B 2/3 (Jalan P14B 2/3),Putrajaya,62050,WP_Putrajaya
+37925,Jalan Jati P14B 2/4 (Jalan P14B 2/4),Putrajaya,62050,WP_Putrajaya
+37926,Jalan Jati P14B 2/5 (Jalan P14B 2/5),Putrajaya,62050,WP_Putrajaya
+37927,Jalan Jati P14B 2/6 (Jalan P14B 2/6),Putrajaya,62050,WP_Putrajaya
+37928,Jalan Jati P14B 4 (Jalan P14B 4),Putrajaya,62050,WP_Putrajaya
+37929,Jalan Tempinis P14C (Jalan P14C),Putrajaya,62050,WP_Putrajaya
+37930,Jalan Tempinis P14C 1 (Jalan P14C 1),Putrajaya,62050,WP_Putrajaya
+37931,Jalan Tempinis P14C 1/1 (Jalan P14C 1/1),Putrajaya,62050,WP_Putrajaya
+37932,Jalan Tempinis P14C 1/2 (Jalan P14C 1/2),Putrajaya,62050,WP_Putrajaya
+37933,Jalan Tempinis P14C 1/3 (Jalan P14C 1/3),Putrajaya,62050,WP_Putrajaya
+37934,Jalan Tempinis P14C 1/4 (Jalan P14C 1/4),Putrajaya,62050,WP_Putrajaya
+37935,Jalan Tempinis P14C 1/5 (Jalan P14C 1/5),Putrajaya,62050,WP_Putrajaya
+37936,Jalan Tempinis P14C 1/6 (Jalan P14C 1/6),Putrajaya,62050,WP_Putrajaya
+37937,Jalan Tempinis P14C 2 (Jalan P14C 2),Putrajaya,62050,WP_Putrajaya
+37938,Jalan Tempinis P14C 2/1 (Jalan P14C 2/1),Putrajaya,62050,WP_Putrajaya
+37939,Jalan Tempinis P14C 2/2 (Jalan P14C 2/2),Putrajaya,62050,WP_Putrajaya
+37940,Jalan Tempinis P14C 2/3 (Jalan P14C 2/3),Putrajaya,62050,WP_Putrajaya
+37941,Jalan Tempinis P14C 2/4 (Jalan P14C 2/4),Putrajaya,62050,WP_Putrajaya
+37942,Jalan Tempinis P14C 2/5 (Jalan P14C 2/5),Putrajaya,62050,WP_Putrajaya
+37943,Jalan Tempinis P14C 2/6 (Jalan P14C 2/6),Putrajaya,62050,WP_Putrajaya
+37944,Jalan Tempinis P14C 2/7 (Jalan P14C 2/7),Putrajaya,62050,WP_Putrajaya
+37945,Jalan Merbau P14D (Jalan P14D),Putrajaya,62050,WP_Putrajaya
+37946,Jalan Merbau P14D 1 (Jalan P14D 1),Putrajaya,62050,WP_Putrajaya
+37947,Jalan Merbau P14D/1 (Jalan P14D/1),Putrajaya,62050,WP_Putrajaya
+37948,Jalan Merbau P14D/2 (Jalan P14D/2),Putrajaya,62050,WP_Putrajaya
+37949,Jalan Merbau P14D 2 (Jalan P14D 2),Putrajaya,62050,WP_Putrajaya
+37950,Jalan Merbau P14D 2/1 (Jalan P14D 2/1),Putrajaya,62050,WP_Putrajaya
+37951,Jalan Merbau P14D 2/2 (Jalan P14D 2/2),Putrajaya,62050,WP_Putrajaya
+37952,Jalan Surian P14E (Jalan P14E),Putrajaya,62050,WP_Putrajaya
+37953,Jalan Surian P14E 1 (Jalan P14E 1),Putrajaya,62050,WP_Putrajaya
+37954,Jalan Surian P14E 1/1 (Jalan P14E 1/1),Putrajaya,62050,WP_Putrajaya
+37955,Jalan Surian P14E 1/2 (Jalan P14E 1/2),Putrajaya,62050,WP_Putrajaya
+37956,Jalan Surian P14E 2 (Jalan P14E 2),Putrajaya,62050,WP_Putrajaya
+37957,Jalan Surian P14E 2/1 (Jalan P14E 2/1),Putrajaya,62050,WP_Putrajaya
+37958,Jalan Keruing P14F (Jalan P14F),Putrajaya,62050,WP_Putrajaya
+37959,Jalan Keruing P14F/1 (Jalan P14F/1),Putrajaya,62050,WP_Putrajaya
+37960,Jalan Keruing P14F/2 (Jalan P14F/2),Putrajaya,62050,WP_Putrajaya
+37961,Jalan Keruing P14F/3 (Jalan P14F/3),Putrajaya,62050,WP_Putrajaya
+37962,Jalan Keruing P14F/4 (Jalan P14F/4),Putrajaya,62050,WP_Putrajaya
+37963,Jalan Keruing P14F/5 (Jalan P14F/5),Putrajaya,62050,WP_Putrajaya
+37964,Jalan Keruing P14F/6 (Jalan P14F/6),Putrajaya,62050,WP_Putrajaya
+37965,Jalan Keruing P14F/7 (Jalan P14F/7),Putrajaya,62050,WP_Putrajaya
+37966,Jalan Meranti P14G (Jalan P14G),Putrajaya,62050,WP_Putrajaya
+37967,Jalan Meranti P14G/1 (Jalan P14G/1),Putrajaya,62050,WP_Putrajaya
+37968,Jalan Meranti P14G/2 (Jalan P14G/2),Putrajaya,62050,WP_Putrajaya
+37969,Jalan Meranti P14H (Jalan P14H),Putrajaya,62050,WP_Putrajaya
+37970,Jalan Bertam P14J (Jalan P14J),Putrajaya,62050,WP_Putrajaya
+37971,Jalan Bertam P14J/1 (Jalan P14J/1),Putrajaya,62050,WP_Putrajaya
+37972,Jalan Jati P14L (Jalan P14L),Putrajaya,62050,WP_Putrajaya
+37973,Jalan Industri Putra 1,Putrajaya,62050,WP_Putrajaya
+37974,Jalan Gelam P15/1 (Jalan P15A),Putrajaya,62050,WP_Putrajaya
+37975,Jalan Gelam P15/2 (Jalan P15A/1),Putrajaya,62050,WP_Putrajaya
+37976,Jalan Merawan P15 (Jalan P15),Putrajaya,62050,WP_Putrajaya
+37977,Jalan Tembusu P15/1 (Jalan P15C),Putrajaya,62050,WP_Putrajaya
+37978,Jalan Tembusu P15/2 (Jalan P15C/1),Putrajaya,62050,WP_Putrajaya
+37979,Jalan Tembusu P15/3 (Jalan P15C/2),Putrajaya,62050,WP_Putrajaya
+37980,Jalan Ara P15/1 (Jalan P15D),Putrajaya,62050,WP_Putrajaya
+37981,Jalan Ara P15/2 (Jalan P15D/1),Putrajaya,62050,WP_Putrajaya
+37982,Jalan Ara P15/3 (Jalan P15D/2),Putrajaya,62050,WP_Putrajaya
+37983,Jalan Ara P15/4 (Jalan P15D/3),Putrajaya,62050,WP_Putrajaya
+37984,Jalan Ara P15/5 (Jalan P15D/4),Putrajaya,62050,WP_Putrajaya
+37985,Jalan Ara P15/6 (Jalan P15D/5),Putrajaya,62050,WP_Putrajaya
+37986,Jalan Ara P15/7 (Jalan P15D/6),Putrajaya,62050,WP_Putrajaya
+37987,Jalan Ara P15/8 (Jalan P15D/7),Putrajaya,62050,WP_Putrajaya
+37988,Jalan Jati P14B 2 (Jalan P14B 2),Putrajaya,62050,WP_Putrajaya
+37989,Jalan Jati P14B 2/1 (Jalan P14B 2/1),Putrajaya,62050,WP_Putrajaya
+37990,Jalan Terap P15/1 (Jalan P15E),Putrajaya,62050,WP_Putrajaya
+37991,Jalan Terap P15/2 (Jalan P15E 1),Putrajaya,62050,WP_Putrajaya
+37992,Jalan Terap P15/3 (Jalan P15E 2),Putrajaya,62050,WP_Putrajaya
+37993,Jalan Terap P15/4 (Jalan P15E 2/1),Putrajaya,62050,WP_Putrajaya
+37994,Jalan Karas P15/1 (Jalan P15F),Putrajaya,62050,WP_Putrajaya
+37995,Jalan Karas P15/2 (Jalan P15F/1),Putrajaya,62050,WP_Putrajaya
+37996,Jalan Karas P15/3 (Jalan P15F/2),Putrajaya,62050,WP_Putrajaya
+37997,Jalan Karas P15/4 (Jalan P15F/3),Putrajaya,62050,WP_Putrajaya
+37998,Jalan Karas P15/5 (Jalan P15F/4),Putrajaya,62050,WP_Putrajaya
+37999,Jalan Karas P15/6 (Jalan P15F/5),Putrajaya,62050,WP_Putrajaya
+38000,Jalan Karas P15/7 (Jalan P15F/6),Putrajaya,62050,WP_Putrajaya
+38001,Jalan Melunak P15/1 (Jalan P15G),Putrajaya,62050,WP_Putrajaya
+38002,Jalan Melunak P15/2 (Jalan P15G/1),Putrajaya,62050,WP_Putrajaya
+38003,Jalan Melunak P15/3 (Jalan P15G/2),Putrajaya,62050,WP_Putrajaya
+38004,Jalan Resak P15H 1 (Jalan P15H 1),Putrajaya,62050,WP_Putrajaya
+38005,Jalan Resak P15H 1/1 (Jalan P15H 1/1),Putrajaya,62050,WP_Putrajaya
+38006,Jalan Resak P15H 1/2 (Jalan P15H 1/2),Putrajaya,62050,WP_Putrajaya
+38007,Jalan Resak P15H 1/3 (Jalan P15H 1/3),Putrajaya,62050,WP_Putrajaya
+38008,Jalan Resak P15H 1/4 (Jalan P15H 1/4),Putrajaya,62050,WP_Putrajaya
+38009,Jalan Resak P15H 1/5 (Jalan P15H 1/5),Putrajaya,62050,WP_Putrajaya
+38010,Jalan Pelawan P15H 2 (Jalan P15H 2),Putrajaya,62050,WP_Putrajaya
+38011,Jalan Pelawan P15H 2/1 (Jalan P15H 2/1),Putrajaya,62050,WP_Putrajaya
+38012,Jalan Pelawan P15H 2/2 (Jalan P15H 2/2),Putrajaya,62050,WP_Putrajaya
+38013,Jalan Pelawan P15H 2/3 (Jalan P15H 2/3),Putrajaya,62050,WP_Putrajaya
+38014,Jalan Nyatoh P15H (Jalan P15H),Putrajaya,62050,WP_Putrajaya
+38015,Jalan Jati P14B 1/2 (Jalan P14B 1/2),Putrajaya,62050,WP_Putrajaya
+38016,Jalan Tualang P15H 4/6 (Jalan P15H 4/6),Putrajaya,62050,WP_Putrajaya
+38017,Jalan Tualang P15H 4/7 (Jalan P15H 4/7),Putrajaya,62050,WP_Putrajaya
+38018,Jalan Balau P15H 3 (Jalan P15H 3),Putrajaya,62050,WP_Putrajaya
+38019,Jalan Balau P15H 3/1 (Jalan P15H 3/1),Putrajaya,62050,WP_Putrajaya
+38020,Jalan Balau P15H 3/2 (Jalan P15H 3/2),Putrajaya,62050,WP_Putrajaya
+38021,Jalan Balau P15H 3/3 (Jalan P15H 3/3),Putrajaya,62050,WP_Putrajaya
+38022,Jalan Tualang P15H 4 (Jalan P15H 4),Putrajaya,62050,WP_Putrajaya
+38023,Jalan Tualang P15H 4/1 (Jalan P15H 4/1),Putrajaya,62050,WP_Putrajaya
+38024,Jalan Tualang P15H 4/2 (Jalan P15H 4/2),Putrajaya,62050,WP_Putrajaya
+38025,Jalan Tualang P15H 4/3 (Jalan P15H 4/3),Putrajaya,62050,WP_Putrajaya
+38026,Jalan Tualang P15H 4/4 (Jalan P15H 4/4),Putrajaya,62050,WP_Putrajaya
+38027,Jalan Tualang P15H 4/5 (Jalan P15H 4/5),Putrajaya,62050,WP_Putrajaya
+38028,Jalan Al Biruni P3 K (Jalan P3 K),Putrajaya,62100,WP_Putrajaya
+38029,Jalan Alaf Baru P3 L (Jalan P3 L),Putrajaya,62100,WP_Putrajaya
+38030,Presint 3,Putrajaya,62100,WP_Putrajaya
+38031,Presint 4,Putrajaya,62100,WP_Putrajaya
+38032,Presint 18,Putrajaya,62100,WP_Putrajaya
+38033,Presint 17,Putrajaya,62100,WP_Putrajaya
+38034,Jalan Kasturi P17 (Jalan P17),Putrajaya,62100,WP_Putrajaya
+38035,Jalan Kantan P17A (Jalan P17A),Putrajaya,62100,WP_Putrajaya
+38036,Jalan Ketumbar P17B (Jalan P17B),Putrajaya,62100,WP_Putrajaya
+38037,Jalan Halba P17C (Jalan P17C),Putrajaya,62100,WP_Putrajaya
+38038,Jalan Lawang P17D (Jalan P17D),Putrajaya,62100,WP_Putrajaya
+38039,Jalan Selasih P17E (Jalan P17E),Putrajaya,62100,WP_Putrajaya
+38040,Jalan Selasih P17E 1 (Jalan P17E 1),Putrajaya,62100,WP_Putrajaya
+38041,Jalan Pelaga P17F (Jalan P17F),Putrajaya,62100,WP_Putrajaya
+38042,Jalan Pelaga P17G (Jalan P17G),Putrajaya,62100,WP_Putrajaya
+38043,Jalan Halia P16 (Jalan P16),Putrajaya,62100,WP_Putrajaya
+38044,Jalan Kunyit Emas P16A (Jalan P16A),Putrajaya,62100,WP_Putrajaya
+38045,Jalan Pegaga P16/1 (Jalan P16/1),Putrajaya,62100,WP_Putrajaya
+38046,Jalan Pegaga P16B (Jalan P16B),Putrajaya,62100,WP_Putrajaya
+38047,Jalan Pegaga P16B/1 (Jalan P16B/1),Putrajaya,62100,WP_Putrajaya
+38048,Jalan Pegaga P16B/2 (Jalan P16B/2),Putrajaya,62100,WP_Putrajaya
+38049,Jalan Cekur P16C (Jalan P16C),Putrajaya,62100,WP_Putrajaya
+38050,Jalan Ulam Raja P16D (Jalan P16D),Putrajaya,62100,WP_Putrajaya
+38051,Jalan Ulam Raja P16D/1 (Jalan P16D/1),Putrajaya,62100,WP_Putrajaya
+38052,Jalan Ulam Raja P16D/2 (Jalan P16D/2),Putrajaya,62100,WP_Putrajaya
+38053,Jalan Ulam Raja P16D/3 (Jalan P16D/3),Putrajaya,62100,WP_Putrajaya
+38054,Jalan Ulam Raja P16D/4 (Jalan P16D/4),Putrajaya,62100,WP_Putrajaya
+38055,Jalan Ulam Raja P16D/5 (Jalan P16D/5),Putrajaya,62100,WP_Putrajaya
+38056,Jalan Ulam Raja P16D/6 (Jalan P16D/6),Putrajaya,62100,WP_Putrajaya
+38057,Jalan Selom P16E (Jalan P16E),Putrajaya,62100,WP_Putrajaya
+38058,Jalan Lengkuas P16F (Jalan P16F),Putrajaya,62100,WP_Putrajaya
+38059,Jalan Serai Wangi P16G (Jalan P16G),Putrajaya,62100,WP_Putrajaya
+38060,Jalan Kandis P16 (Jalan P16J),Putrajaya,62100,WP_Putrajaya
+38061,Jalan Saderi P16 (Jalan P16K),Putrajaya,62100,WP_Putrajaya
+38062,Jalan Pancarona P18 (Jalan P18),Putrajaya,62100,WP_Putrajaya
+38063,Jalan Pancarona P18/UIA-4 (Jalan P18/UIA-4),Putrajaya,62100,WP_Putrajaya
+38064,Jalan Teja P18B (Jalan P18B),Putrajaya,62100,WP_Putrajaya
+38065,Jalan Bunga Raya P18C (Jalan P18C),Putrajaya,62100,WP_Putrajaya
+38066,Jalan Anggerik P18C 1 (Jalan P18C 1),Putrajaya,62100,WP_Putrajaya
+38067,Jalan Anggerik P18C 1/1 (Jalan P18C 1/1),Putrajaya,62100,WP_Putrajaya
+38068,Jalan Anggerik P18C 1/2 (Jalan P18C 1/2),Putrajaya,62100,WP_Putrajaya
+38069,Jalan Anggerik P18C 1/3 (Jalan P18C 1/3),Putrajaya,62100,WP_Putrajaya
+38070,Jalan Anggerik P18C 1/4 (Jalan P18C 1/4),Putrajaya,62100,WP_Putrajaya
+38071,Jalan Anggerik P18C 1/5 (Jalan P18C 1/5),Putrajaya,62100,WP_Putrajaya
+38072,Jalan Kekwa P18C 2 (Jalan P18C 2),Putrajaya,62100,WP_Putrajaya
+38073,Jalan Helikonia P18D (Jalan P18D),Putrajaya,62100,WP_Putrajaya
+38074,Jalan Helikonia P18D 1/1 (Jalan P18D 1/1),Putrajaya,62100,WP_Putrajaya
+38075,Jalan Helikonia P18D 1/2 (Jalan P18D 1/2),Putrajaya,62100,WP_Putrajaya
+38076,Jalan Jasmin P18E (Jalan P18E),Putrajaya,62100,WP_Putrajaya
+38077,Jalan Tanjung P18F (Jalan P18F),Putrajaya,62100,WP_Putrajaya
+38078,Jalan Gapis P18G (Jalan P18G),Putrajaya,62100,WP_Putrajaya
+38079,Jalan Kesidang P18H (Jalan P18H),Putrajaya,62100,WP_Putrajaya
+38080,Jalan Kesidang P18H 1/1 (Jalan P18H 1/1),Putrajaya,62100,WP_Putrajaya
+38081,Jalan Kesidang P18H 1/2 (Jalan P18H 1/2),Putrajaya,62100,WP_Putrajaya
+38082,Jalan Kesidang P18H 1/3 (Jalan P18H 1/3),Putrajaya,62100,WP_Putrajaya
+38083,Jalan Kesidang P18H 1/4 (Jalan P18H 1/4),Putrajaya,62100,WP_Putrajaya
+38084,Jalan Kesidang P18H 1/5 (Jalan P18H 1/5),Putrajaya,62100,WP_Putrajaya
+38085,Jalan Kesidang P18H 1/6 (Jalan P18H 1/6),Putrajaya,62100,WP_Putrajaya
+38086,Jalan Kesidang P18H 1/7 (Jalan P18H 1/7),Putrajaya,62100,WP_Putrajaya
+38087,Jalan Kesidang P18H 1/8 (Jalan P18H 1/8),Putrajaya,62100,WP_Putrajaya
+38088,Jalan Kesidang P18H 1/9 (Jalan P18H 1/9),Putrajaya,62100,WP_Putrajaya
+38089,Jalan Kemboja P18J (Jalan P18J),Putrajaya,62100,WP_Putrajaya
+38090,Jalan Siantan P18K (Jalan P18K),Putrajaya,62100,WP_Putrajaya
+38091,Jalan Siantan P18K 1/1 (Jalan P18K 1/1),Putrajaya,62100,WP_Putrajaya
+38092,Jalan Siantan P18K 1/2 (Jalan P18K 1/2),Putrajaya,62100,WP_Putrajaya
+38093,Jalan Siantan P18K 1/3 (Jalan P18K 1/3),Putrajaya,62100,WP_Putrajaya
+38094,Jalan Al Farabi P3 H (Jalan P3 H),Putrajaya,62100,WP_Putrajaya
+38095,Jalan Ibnu Khaldun P3 J (Jalan P3 J),Putrajaya,62100,WP_Putrajaya
+38096,Jalan Melati P18L (Jalan P18L),Putrajaya,62100,WP_Putrajaya
+38097,Jalan Bunga Matahari P18M (Jalan P18M),Putrajaya,62100,WP_Putrajaya
+38098,Jalan Buginvila P18N (Jalan P18N),Putrajaya,62100,WP_Putrajaya
+38099,Jalan Seri Satria P16,Putrajaya,62100,WP_Putrajaya
+38100,Jalan Kunyit Emas P16A/2,Putrajaya,62100,WP_Putrajaya
+38101,Kementerian Wilayah Persekutuan,Putrajaya,62100,WP_Putrajaya
+38102,Presint 16,Putrajaya,62100,WP_Putrajaya
+38103,Presint 2,Putrajaya,62100,WP_Putrajaya
+38104,Jalan Pegaga P16B/3 (Jalan P16B/3),Putrajaya,62100,WP_Putrajaya
+38105,Jalan Kehakiman P3 M (Jalan P3 M),Putrajaya,62100,WP_Putrajaya
+38106,Jalan Kehakiman P3 N (Jalan P3 N),Putrajaya,62100,WP_Putrajaya
+38107,Jalan Kehakiman P3 P (Jalan P3 P),Putrajaya,62100,WP_Putrajaya
+38108,Jalan Kehakiman P3 Q (Jalan P3 Q),Putrajaya,62100,WP_Putrajaya
+38109,Jalan Pertanian P4 A (Jalan P4 A),Putrajaya,62100,WP_Putrajaya
+38110,Jalan Pertanian P4 B (Jalan P4 B),Putrajaya,62100,WP_Putrajaya
+38111,Jalan Rakyat P4 C (Jalan P4 C),Putrajaya,62100,WP_Putrajaya
+38112,Jalan Konsulat P4 D (Jalan P4 D),Putrajaya,62100,WP_Putrajaya
+38113,Jalan Rakyat P4 E (Jalan P4 E),Putrajaya,62100,WP_Putrajaya
+38114,Jalan Rakyat P4 F (Jalan P4 F),Putrajaya,62100,WP_Putrajaya
+38115,Jalan Rakyat P4 G (Jalan P4 G),Putrajaya,62100,WP_Putrajaya
+38116,Jalan Puteri P4 H (Jalan P4 H),Putrajaya,62100,WP_Putrajaya
+38117,Jalan Puteri P4 J (Jalan P4 J),Putrajaya,62100,WP_Putrajaya
+38118,Jalan Puteri P4 K (Jalan P4 K),Putrajaya,62100,WP_Putrajaya
+38119,Jalan Puteri P4 L (Jalan P4 L),Putrajaya,62100,WP_Putrajaya
+38120,Jalan Puteri P4 M (Jalan P4 M),Putrajaya,62100,WP_Putrajaya
+38121,Jalan Konsulat P4 N (Jalan P4 N),Putrajaya,62100,WP_Putrajaya
+38122,Jalan Guaman P4 P (Jalan P4 P),Putrajaya,62100,WP_Putrajaya
+38123,Jalan Guaman P4 Q (Jalan P4 Q),Putrajaya,62100,WP_Putrajaya
+38124,Jalan Rakyat P4 R (Jalan P4 R),Putrajaya,62100,WP_Putrajaya
+38125,Jalan Rakyat P4 S (Jalan P4 S),Putrajaya,62100,WP_Putrajaya
+38126,Jalan Rakyat P4 T (Jalan P4 T),Putrajaya,62100,WP_Putrajaya
+38127,Jalan Rakyat P4 U (Jalan P4 U),Putrajaya,62100,WP_Putrajaya
+38128,Jalan Rakyat P4 V (Jalan P4 V),Putrajaya,62100,WP_Putrajaya
+38129,Jalan Rakyat P4 W (Jalan P4 W),Putrajaya,62100,WP_Putrajaya
+38130,Jalan Belia P4 X (Jalan P4 X),Putrajaya,62100,WP_Putrajaya
+38131,Jalan Belia P4 Y (Jalan P4 Y),Putrajaya,62100,WP_Putrajaya
+38132,Lingkaran Gemilang Satu,Putrajaya,62100,WP_Putrajaya
+38133,Lingkaran Gemilang Dua,Putrajaya,62100,WP_Putrajaya
+38134,Jalan Gemilang P4-1 (Jalan P4-1),Putrajaya,62100,WP_Putrajaya
+38135,Jalan Gemilang P4-2 (Jalan P4-2),Putrajaya,62100,WP_Putrajaya
+38136,Jalan Gemilang P4-3 (Jalan P4-3),Putrajaya,62100,WP_Putrajaya
+38137,Jalan Gemilang P4-4 (Jalan P4-4),Putrajaya,62100,WP_Putrajaya
+38138,Jalan Gemilang P4-5 (Jalan P4-5),Putrajaya,62100,WP_Putrajaya
+38139,Jalan Gemilang P4-6 (Jalan P4-6),Putrajaya,62100,WP_Putrajaya
+38140,Jalan Gemilang P4-8 (Jalan P4-8),Putrajaya,62100,WP_Putrajaya
+38141,Jalan Gemilang P4-9 (Jalan P4-9),Putrajaya,62100,WP_Putrajaya
+38142,Jalan Gemilang P4-10 (Jalan P4-10),Putrajaya,62100,WP_Putrajaya
+38143,Jalan Kunyit Emas P16A/3,Putrajaya,62100,WP_Putrajaya
+38144,Jalan Kesum P16/1,Putrajaya,62100,WP_Putrajaya
+38145,Jalan Kesum P16/2,Putrajaya,62100,WP_Putrajaya
+38146,Jalan Kesum P16/3,Putrajaya,62100,WP_Putrajaya
+38147,Jalan Kesum P16/4,Putrajaya,62100,WP_Putrajaya
+38148,Suruhanjaya Tenaga,Putrajaya,62100,WP_Putrajaya
+38149,Persiaran Perdana,Putrajaya,62100,WP_Putrajaya
+38150,Jalan Tunku Abdul Rahman,Putrajaya,62100,WP_Putrajaya
+38151,Jalan Wawasan P2 D (Jalan P2 D),Putrajaya,62100,WP_Putrajaya
+38152,Jalan Wawasan P2 E (Jalan P2 E),Putrajaya,62100,WP_Putrajaya
+38153,Jalan Wawasan P2 F (Jalan P2 F),Putrajaya,62100,WP_Putrajaya
+38154,Jalan Wawasan P2 G (Jalan P2 G),Putrajaya,62100,WP_Putrajaya
+38155,Jalan Wawasan P2 H (Jalan P2 H),Putrajaya,62100,WP_Putrajaya
+38156,Jalan Wawasan P2 J (Jalan P2 J),Putrajaya,62100,WP_Putrajaya
+38157,Jalan Usahawan P2 K (Jalan P2 K),Putrajaya,62100,WP_Putrajaya
+38158,Jalan Usahawan P2 L (Jalan P2 L),Putrajaya,62100,WP_Putrajaya
+38159,Jalan Alaf Baru P2 M (Jalan P2 M),Putrajaya,62100,WP_Putrajaya
+38160,Jalan Alaf Baru P2 N (Jalan P2 N),Putrajaya,62100,WP_Putrajaya
+38161,Jalan Tenaga P2 P (Jalan P2 P),Putrajaya,62100,WP_Putrajaya
+38162,Jalan Tenaga P2 Q (Jalan P2 Q),Putrajaya,62100,WP_Putrajaya
+38163,Jalan Perbendaharaan P2 R (Jalan P2 R),Putrajaya,62100,WP_Putrajaya
+38164,Jalan Perbendaharaan P2 S (Jalan P2 S),Putrajaya,62100,WP_Putrajaya
+38165,Jalan Perbendaharaan P2 T (Jalan P2 T),Putrajaya,62100,WP_Putrajaya
+38166,Jalan Perbendaharaan P2 U (Jalan P2 U),Putrajaya,62100,WP_Putrajaya
+38167,Jalan Perbendaharaan P2 W (Jalan P2 W),Putrajaya,62100,WP_Putrajaya
+38168,Jalan Perbendaharaan P2 X (Jalan P2 X),Putrajaya,62100,WP_Putrajaya
+38169,Jalan Kastam P2 Y (Jalan P2 Y),Putrajaya,62100,WP_Putrajaya
+38170,Jalan Wisma Putra,Putrajaya,62100,WP_Putrajaya
+38171,Jalan Alaf Baru P3 A (Jalan P3 A),Putrajaya,62100,WP_Putrajaya
+38172,Jalan Perbadanan P3 B (Jalan P3 B),Putrajaya,62100,WP_Putrajaya
+38173,Jalan Perbadanan P3 C (Jalan P3 C),Putrajaya,62100,WP_Putrajaya
+38174,Jalan Khawarizmi P3 D (Jalan P3 D),Putrajaya,62100,WP_Putrajaya
+38175,Jalan Ibnu Sina P3 E (Jalan P3 E),Putrajaya,62100,WP_Putrajaya
+38176,Jalan Perbadanan P3 F (Jalan P3 F),Putrajaya,62100,WP_Putrajaya
+38177,Jalan Perbadanan P3 G (Jalan P3 G),Putrajaya,62100,WP_Putrajaya
+38178,Jalan Seri Wilayah P2 A (Jalan P2 A),Putrajaya,62100,WP_Putrajaya
+38179,Jalan Wawasan P2 B (Jalan P2 B),Putrajaya,62100,WP_Putrajaya
+38180,Jalan Wawasan P2 C (Jalan P2 C),Putrajaya,62100,WP_Putrajaya
+38181,Presint 19,Putrajaya,62150,WP_Putrajaya
+38182,Presint 20,Putrajaya,62150,WP_Putrajaya
+38183,Presint 5,Putrajaya,62150,WP_Putrajaya
+38184,Jalan Rebana P5 (Jalan P5),Putrajaya,62150,WP_Putrajaya
+38185,Jalan Serunai P5A (Jalan P5A),Putrajaya,62150,WP_Putrajaya
+38186,Jalan Serunai P5A/1 (Jalan P5A/1),Putrajaya,62150,WP_Putrajaya
+38187,Jalan Serunai P5A/2 (Jalan P5A/2),Putrajaya,62150,WP_Putrajaya
+38188,Jalan Seruling P5A/3 (Jalan P5A/3),Putrajaya,62150,WP_Putrajaya
+38189,Jalan Seruling P5A/4 (Jalan P5A/4),Putrajaya,62150,WP_Putrajaya
+38190,Jalan Seruling P5A/5 (Jalan P5A/5),Putrajaya,62150,WP_Putrajaya
+38191,Jalan Seruling P5A/6 (Jalan P5A/6),Putrajaya,62150,WP_Putrajaya
+38192,Jalan Gambus P5/1 (Jalan P5/1),Putrajaya,62150,WP_Putrajaya
+38193,Jalan Gambus P5/2 (Jalan P5/2),Putrajaya,62150,WP_Putrajaya
+38194,Jalan Venna P5/3 (Jalan P5/3),Putrajaya,62150,WP_Putrajaya
+38195,Jalan Venna P5/4 (Jalan P5/4),Putrajaya,62150,WP_Putrajaya
+38196,Jalan Gambus P5/5 (Jalan P5/5),Putrajaya,62150,WP_Putrajaya
+38197,Jalan Seruling P5A (Jalan P5A),Putrajaya,62150,WP_Putrajaya
+38198,Jalan Gendang P5/5 (Jalan P5/5),Putrajaya,62150,WP_Putrajaya
+38199,Jalan Gambus P5/6 (Jalan P5/6),Putrajaya,62150,WP_Putrajaya
+38200,Jalan Sapeh P5/7 (Jalan P5/7),Putrajaya,62150,WP_Putrajaya
+38201,Jalan Sapeh P5/8 (Jalan P5/8),Putrajaya,62150,WP_Putrajaya
+38202,Jalan Gendang P5/9 (Jalan P6/1),Putrajaya,62150,WP_Putrajaya
+38203,Jalan Gong P5B (Jalan P5B),Putrajaya,62150,WP_Putrajaya
+38204,Jalan Payang P6 (Jalan P/2),Putrajaya,62150,WP_Putrajaya
+38205,Jalan Jalur P6 (Jalan P/3),Putrajaya,62150,WP_Putrajaya
+38206,Jalan Sekoci P6 (Jalan P/4),Putrajaya,62150,WP_Putrajaya
+38207,Jalan Kajangan P6 (Jalan P/5),Putrajaya,62150,WP_Putrajaya
+38208,Jalan Bedar P6 (Jalan P6),Putrajaya,62150,WP_Putrajaya
+38209,Jalan Abadi P20/5 (Jalan P20/5),Putrajaya,62150,WP_Putrajaya
+38210,Jalan Aman P20/6 (Jalan P20/6),Putrajaya,62150,WP_Putrajaya
+38211,Jalan Damai P20A (Jalan P20A),Putrajaya,62150,WP_Putrajaya
+38212,Jalan Damai P20A/1 (Jalan P20A/1),Putrajaya,62150,WP_Putrajaya
+38213,Jalan Damai P20A/2 (Jalan P20A/2),Putrajaya,62150,WP_Putrajaya
+38214,Jalan Kenangan P20 (Jalan P5),Putrajaya,62150,WP_Putrajaya
+38215,Jalan Bidara P19,Putrajaya,62150,WP_Putrajaya
+38216,Jalan Kundang P19/1,Putrajaya,62150,WP_Putrajaya
+38217,Jalan Kundang P19/2,Putrajaya,62150,WP_Putrajaya
+38218,Jalan Kundang P19/3,Putrajaya,62150,WP_Putrajaya
+38219,Jalan Kundang P19/4,Putrajaya,62150,WP_Putrajaya
+38220,Jalan Kundang P19/5,Putrajaya,62150,WP_Putrajaya
+38221,Jalan Kundang P19/6,Putrajaya,62150,WP_Putrajaya
+38222,Jalan Kundang P19/7,Putrajaya,62150,WP_Putrajaya
+38223,Jalan Kundang P19/8,Putrajaya,62150,WP_Putrajaya
+38224,Jalan Kundang P19/9,Putrajaya,62150,WP_Putrajaya
+38225,Jalan Kundang P19/10,Putrajaya,62150,WP_Putrajaya
+38226,Jalan Amra P19,Putrajaya,62150,WP_Putrajaya
+38227,Jalan Kelubi P19,Putrajaya,62150,WP_Putrajaya
+38228,Jalan Lindungan P19,Putrajaya,62150,WP_Putrajaya
+38229,Laluan Lindungan P19,Putrajaya,62150,WP_Putrajaya
+38230,Jalan Abadi P20 (Jalan P20),Putrajaya,62150,WP_Putrajaya
+38231,Jalan Abadi P20/1 (Jalan P20/1),Putrajaya,62150,WP_Putrajaya
+38232,Jalan Abadi P20/2 (Jalan P20/2),Putrajaya,62150,WP_Putrajaya
+38233,Jalan Abadi P20/3 (Jalan P20/3),Putrajaya,62150,WP_Putrajaya
+38234,Jalan Abadi P20/4 (Jalan P20/4),Putrajaya,62150,WP_Putrajaya
+38235,Presint 6,Putrajaya,62150,WP_Putrajaya
+38236,Former Prime Minister of Malaysia,Putrajaya,62200,WP_Putrajaya
+38237,Presint 7,Putrajaya,62250,WP_Putrajaya
+38238,Presint 8,Putrajaya,62250,WP_Putrajaya
+38239,Presint 9,Putrajaya,62250,WP_Putrajaya
+38240,Presint 10,Putrajaya,62250,WP_Putrajaya
+38241,Jalan Intan P10A 1/1 (Jalan P10A 1/1),Putrajaya,62250,WP_Putrajaya
+38242,Jalan Intan P10A 1/2 (Jalan P10A 1/2),Putrajaya,62250,WP_Putrajaya
+38243,Jalan Intan P10A 1/3 (Jalan P10A 1/3),Putrajaya,62250,WP_Putrajaya
+38244,Jalan Intan P10A 1 (Jalan P10A 1),Putrajaya,62250,WP_Putrajaya
+38245,Jalan Intan P10A 2 (Jalan P10A 2),Putrajaya,62250,WP_Putrajaya
+38246,Jalan Intan P10A 2/1 (Jalan P10A 2/1),Putrajaya,62250,WP_Putrajaya
+38247,Jalan Intan P10A 2/2 (Jalan P10A 2/2),Putrajaya,62250,WP_Putrajaya
+38248,Jalan Intan P10A 2/3 (Jalan P10A 2/3),Putrajaya,62250,WP_Putrajaya
+38249,Jalan Intan P10A 3 (Jalan P10A 3),Putrajaya,62250,WP_Putrajaya
+38250,Jalan Intan P10A 3/1 (Jalan P10A 3/1),Putrajaya,62250,WP_Putrajaya
+38251,Jalan Intan P10A 3/2 (Jalan P10A 3/2),Putrajaya,62250,WP_Putrajaya
+38252,Jalan Intan P10A 3/3 (Jalan P10A 3/3),Putrajaya,62250,WP_Putrajaya
+38253,jalan Intan P10A 3/4 (Jalan P10A 3/4),Putrajaya,62250,WP_Putrajaya
+38254,Jalan Intan P10A 3/5 (Jalan P10A 3/5),Putrajaya,62250,WP_Putrajaya
+38255,Jalan Zamrud P10B (Jalan P10B),Putrajaya,62250,WP_Putrajaya
+38256,Jalan Zamrud P10B/1 (Jalan P10B/1),Putrajaya,62250,WP_Putrajaya
+38257,Jalan Zamrud P10B/2 (Jalan P10B/2),Putrajaya,62250,WP_Putrajaya
+38258,Jalan Zamrud P10B/3 (Jalan P10B/3),Putrajaya,62250,WP_Putrajaya
+38259,Jalan Zamrud P10B/4 (Jalan P10B/4),Putrajaya,62250,WP_Putrajaya
+38260,Jalan Zamrud P10B/5 (Jalan P10B/5),Putrajaya,62250,WP_Putrajaya
+38261,Jalan Zamrud P10B/6 (Jalan P10B/6),Putrajaya,62250,WP_Putrajaya
+38262,Jalan Zamrud P10B/7 (Jalan P10B/7),Putrajaya,62250,WP_Putrajaya
+38263,Jalan Zamrud P10B/8 (Jalan P10B/8),Putrajaya,62250,WP_Putrajaya
+38264,Jalan Zamrud P10B/9 (Jalan P10B/9),Putrajaya,62250,WP_Putrajaya
+38265,Jalan Zamrud P10B/10 (Jalan P10B/10),Putrajaya,62250,WP_Putrajaya
+38266,Jalan Zamrud P10B/11 (Jalan P10B/11),Putrajaya,62250,WP_Putrajaya
+38267,Jalan Zamrud P10B/12 (Jalan P10B/12),Putrajaya,62250,WP_Putrajaya
+38268,Jalan Zamrud P10B/13 (Jalan P10B/13),Putrajaya,62250,WP_Putrajaya
+38269,Jalan P7E,Putrajaya,62250,WP_Putrajaya
+38270,Jalan P9C/1  ,Putrajaya,62250,WP_Putrajaya
+38271,Jalan Kepimpinan P8H (Jalan P8H),Putrajaya,62250,WP_Putrajaya
+38272,Jalan Enggang P9 (Jalan P9),Putrajaya,62250,WP_Putrajaya
+38273,Jalan Cenderawasih P9 A (Jalan P9 A),Putrajaya,62250,WP_Putrajaya
+38274,Jalan Cenderawasih P9 A/1 (Jalan P9 A/1),Putrajaya,62250,WP_Putrajaya
+38275,Jalan Cenderawasih P9 A/2 (Jalan P9 A/2),Putrajaya,62250,WP_Putrajaya
+38276,Jalan Cenderawasih P9 A/3 (Jalan P9 A/3),Putrajaya,62250,WP_Putrajaya
+38277,Jalan Cenderawasih P9 A/4 (Jalan P9 A/4),Putrajaya,62250,WP_Putrajaya
+38278,Jalan Cenderawasih P9 A/5 (Jalan P9 A/5),Putrajaya,62250,WP_Putrajaya
+38279,Jalan Tempua P9 B/1 (Jalan P9 B/1),Putrajaya,62250,WP_Putrajaya
+38280,Jalan Tempua P9 B/2 (Jalan P9 B/2),Putrajaya,62250,WP_Putrajaya
+38281,Jalan Tempua P9 B/3 (Jalan P9 B/3),Putrajaya,62250,WP_Putrajaya
+38282,Jalan Tempua P9 B/4 (Jalan P9 B/4),Putrajaya,62250,WP_Putrajaya
+38283,Jalan Tempua P9 B/5 (Jalan P9 B/5),Putrajaya,62250,WP_Putrajaya
+38284,Jalan Tempua P9 B/6 (Jalan P9 B/6),Putrajaya,62250,WP_Putrajaya
+38285,Jalan Tempua P9 B/7 (Jalan P9 B/7),Putrajaya,62250,WP_Putrajaya
+38286,Jalan Tempua P9 B/8 (Jalan P9 B/8),Putrajaya,62250,WP_Putrajaya
+38287,Jalan Tempua P9 B/9 (Jalan P9 B/9),Putrajaya,62250,WP_Putrajaya
+38288,Jalan Tempua P9 B/10 (Jalan P9 B/10),Putrajaya,62250,WP_Putrajaya
+38289,Jalan Tempua P9 B/11 (Jalan P9 B/11),Putrajaya,62250,WP_Putrajaya
+38290,Jalan Tempua P9 B/12 (Jalan P9 B/12),Putrajaya,62250,WP_Putrajaya
+38291,Jalan Rajawali P9 B1 (Jalan P9 B1),Putrajaya,62250,WP_Putrajaya
+38292,Jalan Rajawali P9 B 1/1 (Jalan P9 B 1/1),Putrajaya,62250,WP_Putrajaya
+38293,Jalan Rajawali P9 B 1/2 (Jalan P9 B 1/2),Putrajaya,62250,WP_Putrajaya
+38294,Jalan Rajawali P9 B 1/4 (Jalan P9 B 1/4),Putrajaya,62250,WP_Putrajaya
+38295,Jalan Rajawali P9 B 1/5 (Jalan P9 B 1/5),Putrajaya,62250,WP_Putrajaya
+38296,Jalan Rajawali P9 B 1/6 (Jalan P9 B 1/6),Putrajaya,62250,WP_Putrajaya
+38297,Jalan Rajawali P9 B 1/7 (Jalan P9 B 1/7),Putrajaya,62250,WP_Putrajaya
+38298,Jalan Rajawali P9 B 1/8 (Jalan P9 B 1/8),Putrajaya,62250,WP_Putrajaya
+38299,Jalan Rajawali P9 B 1/9 (Jalan P9 B 1/9),Putrajaya,62250,WP_Putrajaya
+38300,Jalan Rajawali P9 B 1/10 (Jalan P9 B 1/10),Putrajaya,62250,WP_Putrajaya
+38301,Jalan Rajawali P9 B 1/11 (Jalan P9 B 1/11),Putrajaya,62250,WP_Putrajaya
+38302,Jalan Rajawali P9 B 1/12 (Jalan P9 B 1/12),Putrajaya,62250,WP_Putrajaya
+38303,Jalan Rajawali P9 B 1/13 (Jalan P9 B 1/13),Putrajaya,62250,WP_Putrajaya
+38304,Jalan Rajawali P9 B 1/14 (Jalan P9 B 1/14),Putrajaya,62250,WP_Putrajaya
+38305,Jalan Rajawali P9 B 1/15 (Jalan P9 B 1/15),Putrajaya,62250,WP_Putrajaya
+38306,Jalan Rajawali P9 B 1/16 (Jalan P9 B 1/16),Putrajaya,62250,WP_Putrajaya
+38307,Jalan Rajawali P9 B 1/17 (Jalan P9 B 1/17),Putrajaya,62250,WP_Putrajaya
+38308,Jalan Merpati P9 C (Jalan P9 C),Putrajaya,62250,WP_Putrajaya
+38309,Jalan Merpati P9 C/1 (Jalan P9 C/1),Putrajaya,62250,WP_Putrajaya
+38310,Jalan Merbuk P9 C1 (Jalan P9 C1),Putrajaya,62250,WP_Putrajaya
+38311,Jalan Gelam P9 D (Jalan P9 D),Putrajaya,62250,WP_Putrajaya
+38312,Jalan Gelam P9 D/1 (Jalan P9 D/1),Putrajaya,62250,WP_Putrajaya
+38313,Jalan Gelam P9 D/2 (Jalan P9 D/2),Putrajaya,62250,WP_Putrajaya
+38314,Jalan Gelam P9 D/3 (Jalan P9 D/3),Putrajaya,62250,WP_Putrajaya
+38315,Jalan Serindit P9 E (Jalan P9 E),Putrajaya,62250,WP_Putrajaya
+38316,Jalan Nuri P9 F (Jalan P9 F),Putrajaya,62250,WP_Putrajaya
+38317,Jalan Kenyalang P9 G (Jalan P9 G),Putrajaya,62250,WP_Putrajaya
+38318,Jalan Kenari P9 G1 (Jalan P9 G1),Putrajaya,62250,WP_Putrajaya
+38319,Jalan Kenari P9 G 1/1 (Jalan P9 G 1/1),Putrajaya,62250,WP_Putrajaya
+38320,Jalan Kenari P9 G 1/2 (Jalan P9 G 1/2),Putrajaya,62250,WP_Putrajaya
+38321,Jalan Kenari P9 G 1/3 (Jalan P9 G 1/3),Putrajaya,62250,WP_Putrajaya
+38322,Jalan Kenari P9 G 1/4 (Jalan P9 G 1/4),Putrajaya,62250,WP_Putrajaya
+38323,Jalan Kenari P9 G 1/5 (Jalan P9 G 1/5),Putrajaya,62250,WP_Putrajaya
+38324,Jalan Kelicap P9 G/1 (Jalan P9 G/1),Putrajaya,62250,WP_Putrajaya
+38325,Jalan Kedidi P9 G/2 (Jalan P9 G/2),Putrajaya,62250,WP_Putrajaya
+38326,Jalan Kedidi P9 G/3 (Jalan P9 G/3),Putrajaya,62250,WP_Putrajaya
+38327,Jalan Kedidi P9 G/4 (Jalan P9 G/4),Putrajaya,62250,WP_Putrajaya
+38328,Jalan Kedidi P9 G/5 (Jalan P9 G/5),Putrajaya,62250,WP_Putrajaya
+38329,Jalan Kedidi P9 G/6 (Jalan P9 G/6),Putrajaya,62250,WP_Putrajaya
+38330,Jalan Kedidi P9 G/7 (Jalan P9 G/7),Putrajaya,62250,WP_Putrajaya
+38331,Laluan Seri Perdana Satu,Putrajaya,62250,WP_Putrajaya
+38332,Laluan Seri Perdana Dua,Putrajaya,62250,WP_Putrajaya
+38333,Jalan Sentral P7 (Jalan P7),Putrajaya,62250,WP_Putrajaya
+38334,Jalan Penyelamat P7A (Jalan P7A),Putrajaya,62250,WP_Putrajaya
+38335,Jalan Sentral P7D (Jalan P7D),Putrajaya,62250,WP_Putrajaya
+38336,Jalan Sentral P7E (Jalan P7E),Putrajaya,62250,WP_Putrajaya
+38337,Jalan Sentral P7F (Jalan P7F),Putrajaya,62250,WP_Putrajaya
+38338,Jalan Sentral P7G (Jalan P7G),Putrajaya,62250,WP_Putrajaya
+38339,Jalan Sentral P7G/2 (Jalan P7G/2),Putrajaya,62250,WP_Putrajaya
+38340,Jalan Kelah P8 (Jalan P8),Putrajaya,62250,WP_Putrajaya
+38341,Jalan Rohu P8A (Jalan P8A),Putrajaya,62250,WP_Putrajaya
+38342,Jalan Rohu P8A/1 (Jalan P8A/1),Putrajaya,62250,WP_Putrajaya
+38343,Jalan Rohu P8A/2 (Jalan P8A/2),Putrajaya,62250,WP_Putrajaya
+38344,Jalan Rohu P8A/3 (Jalan P8A/3),Putrajaya,62250,WP_Putrajaya
+38345,Jalan Rohu P8A/4 (Jalan P8A/4),Putrajaya,62250,WP_Putrajaya
+38346,Jalan Rohu P8A/5 (Jalan P8A/5),Putrajaya,62250,WP_Putrajaya
+38347,Jalan Patin P8B (Jalan P8B),Putrajaya,62250,WP_Putrajaya
+38348,Jalan Patin P8B/1 (Jalan P8B/1),Putrajaya,62250,WP_Putrajaya
+38349,Jalan Patin P8B/2 (Jalan P8B/2),Putrajaya,62250,WP_Putrajaya
+38350,Jalan Patin P8B/3 (Jalan P8B/3),Putrajaya,62250,WP_Putrajaya
+38351,Jalan Patin P8B/4 (Jalan P8B/4),Putrajaya,62250,WP_Putrajaya
+38352,Jalan Patin P8B/5 (Jalan P8B/5),Putrajaya,62250,WP_Putrajaya
+38353,Jalan Jelawat P8C (Jalan P8C),Putrajaya,62250,WP_Putrajaya
+38354,Jalan Jelawat P8D (Jalan P8D),Putrajaya,62250,WP_Putrajaya
+38355,Jalan Kerai P8E (Jalan P8E),Putrajaya,62250,WP_Putrajaya
+38356,Jalan Kerai P8E/1 (Jalan P8E/1),Putrajaya,62250,WP_Putrajaya
+38357,Jalan Kerai P8E/2 (Jalan P8E/2),Putrajaya,62250,WP_Putrajaya
+38358,Jalan Kerai P8E/3 (Jalan P8E/3),Putrajaya,62250,WP_Putrajaya
+38359,Jalan Kerai P8E/4 (Jalan P8E/4),Putrajaya,62250,WP_Putrajaya
+38360,Jalan Kerai P8E/5 (Jalan P8E/5),Putrajaya,62250,WP_Putrajaya
+38361,Jalan Istana P8E 1 (Jalan P8E 1),Putrajaya,62250,WP_Putrajaya
+38362,Jalan Seluang P8E 2 (Jalan P8E 2),Putrajaya,62250,WP_Putrajaya
+38363,Jalan Seluang P8E 2/1 (Jalan P8E 2/1),Putrajaya,62250,WP_Putrajaya
+38364,Jalan Seluang P8E 2/2 (Jalan P8E 2/2),Putrajaya,62250,WP_Putrajaya
+38365,Jalan Seluang P8E 2/3 (Jalan P8E 2/3),Putrajaya,62250,WP_Putrajaya
+38366,Jalan Seluang P8E 2/4 (Jalan P8E 2/4),Putrajaya,62250,WP_Putrajaya
+38367,Jalan Seluang P8E 2/5 (Jalan P8E 2/5),Putrajaya,62250,WP_Putrajaya
+38368,Jalan Seluang P8E 2/5-1 (Jalan P8E 2/5-1),Putrajaya,62250,WP_Putrajaya
+38369,Jalan Seluang P8E 2/5-2 (Jalan P8E 2/5-2),Putrajaya,62250,WP_Putrajaya
+38370,Jalan Seluang P8E 2/6 (Jalan P8E 2/6),Putrajaya,62250,WP_Putrajaya
+38371,Jalan Seluang P8E 2/7 (Jalan P8E 2/7),Putrajaya,62250,WP_Putrajaya
+38372,Jalan Seluang P8E 2/8 (Jalan P8E 2/8),Putrajaya,62250,WP_Putrajaya
+38373,Jalan Seluang P8E 2/9 (Jalan P8E 2/9),Putrajaya,62250,WP_Putrajaya
+38374,Jalan Seluang P8/7,Putrajaya,62250,WP_Putrajaya
+38375,Jalan Tenggalan P8 (Jalan P8),Putrajaya,62250,WP_Putrajaya
+38376,Jalan Tenggalan P8F (Jalan P8F),Putrajaya,62250,WP_Putrajaya
+38377,Jalan Temoleh P8/4,Putrajaya,62250,WP_Putrajaya
+38378,Jalan Temoleh P8/6,Putrajaya,62250,WP_Putrajaya
+38379,Jalan Temoleh P8/7,Putrajaya,62250,WP_Putrajaya
+38380,Jalan Temoleh P8/8,Putrajaya,62250,WP_Putrajaya
+38381,Jalan Temoleh P8/9,Putrajaya,62250,WP_Putrajaya
+38382,Jalan Temoleh P8G (Jalan P8G),Putrajaya,62250,WP_Putrajaya
+38383,Jalan Temoleh P8G 1 (Jalan P8G 1),Putrajaya,62250,WP_Putrajaya
+38384,Jalan Temoleh P8G/3 (Jalan P8G/3),Putrajaya,62250,WP_Putrajaya
+38385,Jalan Temoleh P8G/13 (Jalan P8G/13),Putrajaya,62250,WP_Putrajaya
+38386,Jalan Tempua P9 B (Jalan P9 B),Putrajaya,62250,WP_Putrajaya
+38387,Jalan Intan P10A (Jalan P10A),Putrajaya,62250,WP_Putrajaya
+38388,Jalan P8E 2/5-2,Putrajaya,62250,WP_Putrajaya
+38389,Jalan Topaz P10/1 (Jalan P10/1),Putrajaya,62250,WP_Putrajaya
+38390,Jalan P10/2,Putrajaya,62250,WP_Putrajaya
+38391,Jalan Topaz P10/3 (Jalan P10/3),Putrajaya,62250,WP_Putrajaya
+38392,Jalan Topaz P10/4 (Jalan P10/4),Putrajaya,62250,WP_Putrajaya
+38393,Jalan Topaz P10/5 (Jalan P10/5),Putrajaya,62250,WP_Putrajaya
+38394,Jalan Topaz P10/6 (Jalan P10/6),Putrajaya,62250,WP_Putrajaya
+38395,Jalan Topaz P10/7 (Jalan P10/7),Putrajaya,62250,WP_Putrajaya
+38396,Jalan Delima P10/8 (Jalan P10/8),Putrajaya,62250,WP_Putrajaya
+38397,Jalan Delima P10/9 (Jalan P10/9),Putrajaya,62250,WP_Putrajaya
+38398,Jalan Berlian P10/10 (Jalan P10/10),Putrajaya,62250,WP_Putrajaya
+38399,Jalan Nilam P10C (Jalan P10C),Putrajaya,62250,WP_Putrajaya
+38400,Jalan Nilam P10C/1 (Jalan P10C/1),Putrajaya,62250,WP_Putrajaya
+38401,Jalan Nilam P10C/2 (Jalan P10C/2),Putrajaya,62250,WP_Putrajaya
+38402,Jalan Nilam P10C/3 (Jalan P10C/3),Putrajaya,62250,WP_Putrajaya
+38403,Jalan Nilam P10C/4 (Jalan P10C/4),Putrajaya,62250,WP_Putrajaya
+38404,Jalan Nilam P10C/5 (Jalan P10C/5),Putrajaya,62250,WP_Putrajaya
+38405,Jalan Nilam P10C/6 (Jalan P10C/6),Putrajaya,62250,WP_Putrajaya
+38406,Jalan Firus P10D (Jalan P10D),Putrajaya,62250,WP_Putrajaya
+38407,Bahagian Kerja Tanah Jabatan Perdana Menteri,Putrajaya,62300,WP_Putrajaya
+38408,Presint 13,Putrajaya,62300,WP_Putrajaya
+38409,Jalan Tanggilan P11D/25 (Jalan P11D/25),Putrajaya,62300,WP_Putrajaya
+38410,Jalan Tanggilan P11D/26 (Jalan P11D/26),Putrajaya,62300,WP_Putrajaya
+38411,Jalan Tanggilan P11D/28,Putrajaya,62300,WP_Putrajaya
+38412,Jalan Melinjau P11E (Jalan P11E),Putrajaya,62300,WP_Putrajaya
+38413,Jalan Melinjau P11E/1 (Jalan P11E/1),Putrajaya,62300,WP_Putrajaya
+38414,Jalan Melinjau P11E/2 (Jalan P11E/2),Putrajaya,62300,WP_Putrajaya
+38415,Jalan Melinjau P11E/3 (Jalan P11E/3),Putrajaya,62300,WP_Putrajaya
+38416,Jalan Melinjau P11E/4 (Jalan P11E/4),Putrajaya,62300,WP_Putrajaya
+38417,Jalan Melinjau P11E/5 (Jalan P11E/5),Putrajaya,62300,WP_Putrajaya
+38418,Jalan Jati Bukit P11/1 (Jalan P11F),Putrajaya,62300,WP_Putrajaya
+38419,Jalan Jati Bukit P11/2 (Jalan P11F/1),Putrajaya,62300,WP_Putrajaya
+38420,Jalan Jati Bukit P11/25,Putrajaya,62300,WP_Putrajaya
+38421,Jalan Jati Laut P11F/11 (Jalan P11F/11),Putrajaya,62300,WP_Putrajaya
+38422,Jalan Jati Laut P11F/12 (Jalan P11F/12),Putrajaya,62300,WP_Putrajaya
+38423,Jalan Jati Laut P11F/13 (Jalan P11F/13),Putrajaya,62300,WP_Putrajaya
+38424,Jalan Jati Laut P11F/14 (Jalan P11F/14),Putrajaya,62300,WP_Putrajaya
+38425,Jalan Jati Laut P11F/15 (Jalan P11F/15),Putrajaya,62300,WP_Putrajaya
+38426,Jalan Jati Laut P11F/16 (Jalan P11F/16),Putrajaya,62300,WP_Putrajaya
+38427,Jalan Jati Laut P11F/17 (Jalan P11F/17),Putrajaya,62300,WP_Putrajaya
+38428,Jalan Jati Laut P11F/18 (Jalan P11F/18),Putrajaya,62300,WP_Putrajaya
+38429,Jalan Jati Laut P11F/19 (Jalan P11F/19),Putrajaya,62300,WP_Putrajaya
+38430,Jalan Jati Laut P11F/20 (Jalan P11F/20),Putrajaya,62300,WP_Putrajaya
+38431,Jalan Jati Laut P11F/21 (Jalan P11F/21),Putrajaya,62300,WP_Putrajaya
+38432,Jalan Jati Laut P11F/22 (Jalan P11F/22),Putrajaya,62300,WP_Putrajaya
+38433,Jalan Rhu P11G (Jalan P11G),Putrajaya,62300,WP_Putrajaya
+38434,Jalan Rhu P11/1 (Jalan P11G/1),Putrajaya,62300,WP_Putrajaya
+38435,Jalan Rhu P11/2 (Jalan P11G/2),Putrajaya,62300,WP_Putrajaya
+38436,Jalan Rhu P11/3 (Jalan P11G/3),Putrajaya,62300,WP_Putrajaya
+38437,Jalan Rhu P11/4 (Jalan P11G/4),Putrajaya,62300,WP_Putrajaya
+38438,Jalan Rhu P11/5 (Jalan P11G/5),Putrajaya,62300,WP_Putrajaya
+38439,Jalan Konifer P11H (Jalan P11H),Putrajaya,62300,WP_Putrajaya
+38440,Jalan Konifer P11H/1 (Jalan P11H/1),Putrajaya,62300,WP_Putrajaya
+38441,Jalan Konifer P11H/2 (Jalan P11H/2),Putrajaya,62300,WP_Putrajaya
+38442,Jalan Konifer P11H/3 (Jalan P11H/3),Putrajaya,62300,WP_Putrajaya
+38443,Jalan Konifer P11H/4 (Jalan P11H/4),Putrajaya,62300,WP_Putrajaya
+38444,Jalan Konifer P11H/5 (Jalan P11H/5),Putrajaya,62300,WP_Putrajaya
+38445,Jalan Konifer P11H/6 (Jalan P11H/6),Putrajaya,62300,WP_Putrajaya
+38446,Jalan Konifer P11H/7 (Jalan P11H/7),Putrajaya,62300,WP_Putrajaya
+38447,Jalan Konifer P11H/8 (Jalan P11H/8),Putrajaya,62300,WP_Putrajaya
+38448,Jalan Damar P11J,Putrajaya,62300,WP_Putrajaya
+38449,Jalan Damar P11J 1,Putrajaya,62300,WP_Putrajaya
+38450,Jalan Paku Gajah P11K (Jalan P11K),Putrajaya,62300,WP_Putrajaya
+38451,Jalan Paku Gajah P11K/1 (Jalan P11K/1),Putrajaya,62300,WP_Putrajaya
+38452,Jalan Paku Gajah P11K/2 (Jalan P11K/2),Putrajaya,62300,WP_Putrajaya
+38453,Jalan Paku Gajah P11K/3 (Jalan P11K/3),Putrajaya,62300,WP_Putrajaya
+38454,Jalan Paku Gajah P11K/4 (Jalan P11K/4),Putrajaya,62300,WP_Putrajaya
+38455,Jalan Paku Gajah P11K/5 (Jalan P11K/5),Putrajaya,62300,WP_Putrajaya
+38456,Jalan Paku Gajah P11K/6 (Jalan P11K/6),Putrajaya,62300,WP_Putrajaya
+38457,Jalan Paku Gajah P11K/7 (Jalan P11K/7),Putrajaya,62300,WP_Putrajaya
+38458,Jalan Paku Gajah P11K/8 (Jalan P11K/8),Putrajaya,62300,WP_Putrajaya
+38459,Jalan Paku Gajah P11K/9 (Jalan P11K/9),Putrajaya,62300,WP_Putrajaya
+38460,Jalan Paku Gajah P11K/10 (Jalan P11K/10),Putrajaya,62300,WP_Putrajaya
+38461,Jalan Paku Gajah P11K/11 (Jalan P11K/11),Putrajaya,62300,WP_Putrajaya
+38462,Jalan Paku Gajah P11K/12 (Jalan P11K/12),Putrajaya,62300,WP_Putrajaya
+38463,Jalan Paku Gajah P11K/13 (Jalan P11K/13),Putrajaya,62300,WP_Putrajaya
+38464,Jalan Jati Bukit P11/3 (Jalan P11F/2),Putrajaya,62300,WP_Putrajaya
+38465,Jalan Jati Bukit P11/4 (Jalan P11F/3),Putrajaya,62300,WP_Putrajaya
+38466,Jalan Jati Laut P11F/3 (Jalan P11F/3),Putrajaya,62300,WP_Putrajaya
+38467,Jalan Jati Bukit P11/5 (Jalan P11F/4),Putrajaya,62300,WP_Putrajaya
+38468,Jalan Jati Bukit P11/6 (Jalan P11F/5),Putrajaya,62300,WP_Putrajaya
+38469,Jalan Jati Bukit P11/7 (Jalan P11F/6),Putrajaya,62300,WP_Putrajaya
+38470,Jalan Jati Bukit P11/8 (Jalan P11F/7),Putrajaya,62300,WP_Putrajaya
+38471,Jalan Jati Bukit P11/9 (Jalan P11F/8),Putrajaya,62300,WP_Putrajaya
+38472,Jalan Jati Bukit P11/10 (Jalan P11F/9),Putrajaya,62300,WP_Putrajaya
+38473,Laluan Kumbang P13,Putrajaya,62300,WP_Putrajaya
+38474,Laluan Lebah P13,Putrajaya,62300,WP_Putrajaya
+38475,Laluan Tebuan P13,Putrajaya,62300,WP_Putrajaya
+38476,Laluan Kunang-Kunang P13,Putrajaya,62300,WP_Putrajaya
+38477,Laluan Belalang P13,Putrajaya,62300,WP_Putrajaya
+38478,Laluan Keridik P13,Putrajaya,62300,WP_Putrajaya
+38479,Laluan Cengkerik P13,Putrajaya,62300,WP_Putrajaya
+38480,Laluan Rama-Rama P13,Putrajaya,62300,WP_Putrajaya
+38481,Laluan Kerengga P13,Putrajaya,62300,WP_Putrajaya
+38482,Laluan Mentadak P13,Putrajaya,62300,WP_Putrajaya
+38483,Laluan Rekreasi Air P13,Putrajaya,62300,WP_Putrajaya
+38484,Jalan Saujana Hijau P11 (Jalan P11),Putrajaya,62300,WP_Putrajaya
+38485,Jalan Resam P11,Putrajaya,62300,WP_Putrajaya
+38486,Jalan Gingko P11/1 (Jalan P11/1),Putrajaya,62300,WP_Putrajaya
+38487,Jalan Saujana Hijau P11/2 (Jalan P11/2) ,Putrajaya,62300,WP_Putrajaya
+38488,Jalan Juniper P11/2,Putrajaya,62300,WP_Putrajaya
+38489,Jalan Juniper P11/4,Putrajaya,62300,WP_Putrajaya
+38490,Jalan Juniper P11/5,Putrajaya,62300,WP_Putrajaya
+38491,Jalan P11/3,Putrajaya,62300,WP_Putrajaya
+38492,Jalan Saujana Hijau P11/4 (Jalan P11/4),Putrajaya,62300,WP_Putrajaya
+38493,Jalan Zamia P11A (Jalan P11A),Putrajaya,62300,WP_Putrajaya
+38494,Jalan Setada P11A 1 (Jalan P11A 1),Putrajaya,62300,WP_Putrajaya
+38495,Jalan Setada P11A 1/1 (Jalan P11A 1/1),Putrajaya,62300,WP_Putrajaya
+38496,Jalan Setada P11A 1/2 (Jalan P11A 1/2),Putrajaya,62300,WP_Putrajaya
+38497,Jalan Setada P11A 1/3 (Jalan P11A 1/3),Putrajaya,62300,WP_Putrajaya
+38498,Jalan Setada P11A 1/4 (Jalan P11A 1/4),Putrajaya,62300,WP_Putrajaya
+38499,Jalan Setada P11A 1/5 (Jalan P11A 1/5),Putrajaya,62300,WP_Putrajaya
+38500,Jalan Setada P11A 1/6 (Jalan P11A 1/6),Putrajaya,62300,WP_Putrajaya
+38501,Jalan Setada P11A 1/7 (Jalan P11A 1/7),Putrajaya,62300,WP_Putrajaya
+38502,Jalan Setada P11A 1/8 (Jalan P11A 1/8),Putrajaya,62300,WP_Putrajaya
+38503,Jalan Setada P11A 1/9 (Jalan P11A 1/9),Putrajaya,62300,WP_Putrajaya
+38504,Jalan Setada P11A 1/10 (Jalan P11A 1/10),Putrajaya,62300,WP_Putrajaya
+38505,Jalan Setada P11A 1/11 (Jalan P11A 1/11),Putrajaya,62300,WP_Putrajaya
+38506,Jalan Setada P11A 1/12 (Jalan P11A 1/12),Putrajaya,62300,WP_Putrajaya
+38507,Jalan Setada P11A 1/13 (Jalan P11A 1/13),Putrajaya,62300,WP_Putrajaya
+38508,Jalan Setada P11A 1/14 (Jalan P11A 1/14),Putrajaya,62300,WP_Putrajaya
+38509,Jalan Setada P11A 1/15 (Jalan P11A 1/15),Putrajaya,62300,WP_Putrajaya
+38510,Jalan Sikas P11A 2 (Jalan P11A 2),Putrajaya,62300,WP_Putrajaya
+38511,Jalan Sikas P11A 2/1 (Jalan P11A 2/1),Putrajaya,62300,WP_Putrajaya
+38512,Jalan Sikas P11A 2/2 (Jalan P11A 2/2),Putrajaya,62300,WP_Putrajaya
+38513,Jalan Sikas P11A 2/3 (Jalan P11A 2/3),Putrajaya,62300,WP_Putrajaya
+38514,Jalan Sikas P11A 2/4 (Jalan P11A 2/4),Putrajaya,62300,WP_Putrajaya
+38515,Jalan Sikas P11A 2/5 (Jalan P11A 2/5),Putrajaya,62300,WP_Putrajaya
+38516,Jalan Sikas P11A 2/6 (Jalan P11A 2/6),Putrajaya,62300,WP_Putrajaya
+38517,Jalan Sikas P11A 3 (Jalan P11A 3),Putrajaya,62300,WP_Putrajaya
+38518,Jalan Setada P11A 4 (Jalan P11A 4),Putrajaya,62300,WP_Putrajaya
+38519,Jalan Sikas P11A 5 (Jalan P11A 5),Putrajaya,62300,WP_Putrajaya
+38520,Jalan Sikas P11A 5/1 (Jalan P11A 5/1),Putrajaya,62300,WP_Putrajaya
+38521,Jalan Sikas P11A 5/2 (Jalan P11A 5/2),Putrajaya,62300,WP_Putrajaya
+38522,Jalan Sikas P11A 5/3 (Jalan P11A 5/3),Putrajaya,62300,WP_Putrajaya
+38523,Jalan Sikas P11A 5/4 (Jalan P11A 5/4),Putrajaya,62300,WP_Putrajaya
+38524,Jalan Sikas P11A 5/5 (Jalan P11A 5/5),Putrajaya,62300,WP_Putrajaya
+38525,Jalan Sikas P11A 5/6 (Jalan P11A 5/6),Putrajaya,62300,WP_Putrajaya
+38526,Jalan Sikas P11A 5/7 (Jalan P11A 5/7),Putrajaya,62300,WP_Putrajaya
+38527,Jalan Sikas P11A 5/8 (Jalan P11A 5/8),Putrajaya,62300,WP_Putrajaya
+38528,Jalan Bucida P11A 6 (Jalan P11A 6),Putrajaya,62300,WP_Putrajaya
+38529,Jalan Bucida P11A 6/1 (Jalan P11A 6/1),Putrajaya,62300,WP_Putrajaya
+38530,Jalan Bucida P11A 6/2 (Jalan P11A 6/2),Putrajaya,62300,WP_Putrajaya
+38531,Jalan Bucida P11A 6/3 (Jalan P11A 6/3),Putrajaya,62300,WP_Putrajaya
+38532,Jalan Bucida P11A 6/4 (Jalan P11A 6/4),Putrajaya,62300,WP_Putrajaya
+38533,Jalan Bucida P11A 6/5 (Jalan P11A 6/5),Putrajaya,62300,WP_Putrajaya
+38534,Jalan Bucida P11A 6/6 (Jalan P11A 6/6),Putrajaya,62300,WP_Putrajaya
+38535,Jalan Bucida P11A 6/7 (Jalan P11A 6/7) ,Putrajaya,62300,WP_Putrajaya
+38536,Jalan Jati Bukit P11/11 (Jalan P11F/10),Putrajaya,62300,WP_Putrajaya
+38537,Presint 11,Putrajaya,62300,WP_Putrajaya
+38538,Jalan Zamia P11B (Jalan P11B),Putrajaya,62300,WP_Putrajaya
+38539,Jalan Araucaria P11B 1 (Jalan P11B 1),Putrajaya,62300,WP_Putrajaya
+38540,Jalan Araucaria P11B 1/1 (Jalan P11B 1/1),Putrajaya,62300,WP_Putrajaya
+38541,Jalan Araucaria P11B 1/2 (Jalan P11B 1/2),Putrajaya,62300,WP_Putrajaya
+38542,Jalan Araucaria P11B 1/3 (Jalan P11B 1/3),Putrajaya,62300,WP_Putrajaya
+38543,Jalan Araucaria P11B 1/4 (Jalan P11B 1/4),Putrajaya,62300,WP_Putrajaya
+38544,Jalan Araucaria P11B 1/5 (Jalan P11B 1/5),Putrajaya,62300,WP_Putrajaya
+38545,Jalan Araucaria P11B 1/6 (Jalan P11B 1/6),Putrajaya,62300,WP_Putrajaya
+38546,Jalan Cemara P11C (Jalan P11C),Putrajaya,62300,WP_Putrajaya
+38547,Jalan Cemara P11C/1 (Jalan P11C/1),Putrajaya,62300,WP_Putrajaya
+38548,Jalan Cemara P11C/2 (Jalan P11C/2),Putrajaya,62300,WP_Putrajaya
+38549,Jalan Cemara P11C/3 (Jalan P11C/3),Putrajaya,62300,WP_Putrajaya
+38550,Jalan Cemara P11C/4 (Jalan P11C/4),Putrajaya,62300,WP_Putrajaya
+38551,Jalan Cemara P11C/6 (Jalan P11C/6),Putrajaya,62300,WP_Putrajaya
+38552,Jalan Cemara P11C/7 (Jalan P11C/7),Putrajaya,62300,WP_Putrajaya
+38553,Jalan Cemara P11C/8 (Jalan P11C/8),Putrajaya,62300,WP_Putrajaya
+38554,Jalan Cemara P11C/9 (Jalan P11C/9),Putrajaya,62300,WP_Putrajaya
+38555,Jalan Cemara P11C/10 (Jalan P11C/10),Putrajaya,62300,WP_Putrajaya
+38556,Jalan Cemara P11C/11 (Jalan P11C/11),Putrajaya,62300,WP_Putrajaya
+38557,Jalan Cemara P11C/12 (Jalan P11C/12),Putrajaya,62300,WP_Putrajaya
+38558,Jalan Cemara P11C/13 (Jalan P11C/13),Putrajaya,62300,WP_Putrajaya
+38559,Jalan Cemara P11C/14 (Jalan P11C/14),Putrajaya,62300,WP_Putrajaya
+38560,Jalan Cemara P11C/15 (Jalan P11C/15),Putrajaya,62300,WP_Putrajaya
+38561,Jalan Cemara P11C/16 (Jalan P11C/16),Putrajaya,62300,WP_Putrajaya
+38562,Jalan Cemara P11C/17 (Jalan P11C/17),Putrajaya,62300,WP_Putrajaya
+38563,Jalan Tanggilan P11D (Jalan P11D),Putrajaya,62300,WP_Putrajaya
+38564,Jalan Tanggilan P11D/1 (Jalan P11D/1),Putrajaya,62300,WP_Putrajaya
+38565,Jalan Tanggilan P11D/2 (Jalan P11D/2),Putrajaya,62300,WP_Putrajaya
+38566,Jalan Tanggilan P11D/3 (Jalan P11D/3),Putrajaya,62300,WP_Putrajaya
+38567,Jalan Tanggilan P11D/4 (Jalan P11D/4),Putrajaya,62300,WP_Putrajaya
+38568,Jalan Tanggilan P11D/5 (Jalan P11D/5),Putrajaya,62300,WP_Putrajaya
+38569,Jalan Tanggilan P11D/6 (Jalan P11D/6),Putrajaya,62300,WP_Putrajaya
+38570,Jalan Tanggilan P11D/7 (Jalan P11D/7),Putrajaya,62300,WP_Putrajaya
+38571,Jalan Tanggilan P11D/8 (Jalan P11D/8),Putrajaya,62300,WP_Putrajaya
+38572,Jalan Tanggilan P11D/9 (Jalan P11D/9),Putrajaya,62300,WP_Putrajaya
+38573,Jalan Tanggilan P11D/10 (Jalan P11D/10),Putrajaya,62300,WP_Putrajaya
+38574,Jalan Tanggilan P11D/11 (Jalan P11D/11),Putrajaya,62300,WP_Putrajaya
+38575,Jalan Tanggilan P11D/12 (Jalan P11D/12),Putrajaya,62300,WP_Putrajaya
+38576,Jalan Tanggilan P11D/13 (Jalan P11D/13),Putrajaya,62300,WP_Putrajaya
+38577,Jalan Tanggilan P11D/14 (Jalan P11D/14),Putrajaya,62300,WP_Putrajaya
+38578,Jalan Tanggilan P11D/15 (Jalan P11D/15),Putrajaya,62300,WP_Putrajaya
+38579,Jalan Tanggilan P11D/16 (Jalan P11D/16),Putrajaya,62300,WP_Putrajaya
+38580,Jalan Tanggilan P11D/17 (Jalan P11D/17),Putrajaya,62300,WP_Putrajaya
+38581,Jalan Tanggilan P11D/18 (Jalan P11D/18),Putrajaya,62300,WP_Putrajaya
+38582,Jalan Tanggilan P11D/19 (Jalan P11D/19),Putrajaya,62300,WP_Putrajaya
+38583,Jalan Tanggilan P11D/20 (Jalan P11D/20),Putrajaya,62300,WP_Putrajaya
+38584,Jalan Tanggilan P11D/21 (Jalan P11D/21),Putrajaya,62300,WP_Putrajaya
+38585,Jalan Tanggilan P11D/22 (Jalan P11D/22),Putrajaya,62300,WP_Putrajaya
+38586,Jalan Tanggilan P11D/23 (Jalan P11D/23),Putrajaya,62300,WP_Putrajaya
+38587,Jalan Tanggilan P11D/24 (Jalan P11D/24),Putrajaya,62300,WP_Putrajaya
+38588,Biro Pengaduan Awam,Putrajaya,62504,WP_Putrajaya
+38589,Jabatan Perangkaan Malaysia,Putrajaya,62512,WP_Putrajaya
+38590,Jabatan Insolvensi Malaysia/Jabatan Pemegang Harta,Putrajaya,62514,WP_Putrajaya
+38591,Bahagian Keselamatan Negara Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38592,Bahagian Pengurusan Harta Tanah Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38593,Bahagian Penyelidikan Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38594,Biro Tatanegara,Putrajaya,62502,WP_Putrajaya
+38595,Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38596,Ketua Setiausaha Negara,Putrajaya,62502,WP_Putrajaya
+38597,Ketua Setiausaha Sulit Kanan Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38598,Ketua Unit Kawal Selia Felda,Putrajaya,62502,WP_Putrajaya
+38599,Koperasi Pekerja-Pekerja Jabatan Perdana Menteri Berhad,Putrajaya,62502,WP_Putrajaya
+38600,Lembaga Penasihat Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38601,Pejabat Menteri di Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38602,Pejabat Perdana Menteri ,Putrajaya,62502,WP_Putrajaya
+38603,Pejabat Timbalan Menteri di Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38604,Pejabat Timbalan Perdana Menteri ,Putrajaya,62502,WP_Putrajaya
+38605,Penasihat Agama Islam kepada Yang Amat Berhormat Perdana Menteri ,Putrajaya,62502,WP_Putrajaya
+38606,Seketrial Permata Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38607,Setiausaha Parlimen di Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38608,Unit Pemodenan Tadbiran Malaysia,Putrajaya,62502,WP_Putrajaya
+38609,Unit Penyelarasan dan Perlaksanaan Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38610,Unit Perancang Ekonomi Jabatan Perdana Menteri,Putrajaya,62502,WP_Putrajaya
+38611,Mahkamah Majistret Kajang,Putrajaya,62505,WP_Putrajaya
+38612,Pejabat Ketua Audit Negara,Putrajaya,62517,WP_Putrajaya
+38613,Jabatan Perpaduan Negara dan Integrasi Nasional,Putrajaya,62516,WP_Putrajaya
+38614,Jabatan Peguam Negara,Putrajaya,62510,WP_Putrajaya
+38615,Jabatan Perkhidmatan Awam,Putrajaya,62506,WP_Putrajaya
+38616,Mahkamah Rayuan Malaysia,Putrajaya,62506,WP_Putrajaya
+38617,Pejabat Ketua Pendaftar Mahkamah Persekutuan,Putrajaya,62506,WP_Putrajaya
+38618,Pusat Pengajian Pembangunan Malaysia,Putrajaya,62520,WP_Putrajaya
+38619,Suruhanjaya Perkhidmatan Pelajaran,Putrajaya,62524,WP_Putrajaya
+38620,Jabatan Kemajuan Islam Malaysia (JAKIM),Putrajaya,62518,WP_Putrajaya
+38621,Unit Pemodenan Tadbiran Perancangan & Pengurusan Malaysia(MAMPU),Putrajaya,62526,WP_Putrajaya
+38622,Jabatan Wakaf Zakat dan Haji ,Putrajaya,62519,WP_Putrajaya
+38623,Pejabat Menteri di Jabatan Perdana Menteri Hal Ehwal Agama,Putrajaya,62519,WP_Putrajaya
+38624,Suruhanjaya Perkhidmatan Awam Malaysia,Putrajaya,62519,WP_Putrajaya
+38625,Pejabat Ketua Pegawai Keselamatan Kerajaan ,Putrajaya,62522,WP_Putrajaya
+38626,Jabatan Pembangunan Kemahiran,Putrajaya,62527,WP_Putrajaya
+38627,Jabatan Perhubungan Perusahaan,Putrajaya,62532,WP_Putrajaya
+38628,Jabatan Tenaga Kerja,Putrajaya,62532,WP_Putrajaya
+38629,Majlis Latihan Vokasional Kebangsaan,Putrajaya,62532,WP_Putrajaya
+38630,Jabatan Hal Ehwal Kesatuan Sekerja,Putrajaya,62530,WP_Putrajaya
+38631,Kementerian Sumber Manusia,Putrajaya,62530,WP_Putrajaya
+38632,Jabatan Tenaga Manusia,Putrajaya,62536,WP_Putrajaya
+38633,Pendaftar Kesatuan Sekerja,Putrajaya,62540,WP_Putrajaya
+38634,Kementerian Hal Ehwal Dalam Negeri,Putrajaya,62546,WP_Putrajaya
+38635,Kementerian Keselamatan Dalam Negeri,Putrajaya,62546,WP_Putrajaya
+38636,Ketua Pengarah Agensi Anti Dadah Kebangsaan ,Putrajaya,62546,WP_Putrajaya
+38637,Ketua Pengarah Jabatan RELA,Putrajaya,62546,WP_Putrajaya
+38638,Jabatan Pendaftaran Pertubuhan,Putrajaya,62542,WP_Putrajaya
+38639,Ketua Pengarah Jabatan Imigresen Malaysia,Putrajaya,62550,WP_Putrajaya
+38640,Ketua Pengarah Pendaftaran Negara,Putrajaya,62550,WP_Putrajaya
+38641,Jabatan Belia dan Sukan Negara,Putrajaya,62551,WP_Putrajaya
+38642,Jabatan Alam Sekitar,Putrajaya,62570,WP_Putrajaya
+38643,Kementerian Belia Dan Sukan,Putrajaya,62570,WP_Putrajaya
+38644,Jabatan Ukur & Pemetaan,Putrajaya,62576,WP_Putrajaya
+38645,Jabatan Kawalan Penyakit Bawaan Vektor,Putrajaya,62582,WP_Putrajaya
+38646,Jabatan Kerja Raya Wilayah Persekutuan Putrajaya,Putrajaya,62582,WP_Putrajaya
+38647,Kementerian Sumber Asli dan Alam Sekitar,Putrajaya,62574,WP_Putrajaya
+38648,Ketua Pengarah Jabatan Tanah dan Galian Persekutuan,Putrajaya,62574,WP_Putrajaya
+38649,Kementerian Kesihatan,Putrajaya,62584,WP_Putrajaya
+38650,Kementerian Kewangan,Putrajaya,62590,WP_Putrajaya
+38651,Jabatan Akauntan Negara,Putrajaya,62592,WP_Putrajaya
+38652,Ketua Pengarah Jabatan Penilaian dan Perkhidmatan Harta,Putrajaya,62592,WP_Putrajaya
+38653,Ibu Pejabat Jabatan Kastam DiRaja Malaysia,Putrajaya,62596,WP_Putrajaya
+38654,Jabatan Kemajuan Masayarakat ,Putrajaya,62605,WP_Putrajaya
+38655,Bahagian Kewangan Kementerian Pelajaran,Putrajaya,62604,WP_Putrajaya
+38656,Bahagian Pendidikan Guru,Putrajaya,62604,WP_Putrajaya
+38657,Bahagian Sumber Manusia Kementerian Pelajaran,Putrajaya,62604,WP_Putrajaya
+38658,Jabatan Pendidikan Teknikal,Putrajaya,62604,WP_Putrajaya
+38659,Jabatan Pendidikan Tinggi,Putrajaya,62604,WP_Putrajaya
+38660,Jabatan Politeknik dan Kolej Komuniti,Putrajaya,62604,WP_Putrajaya
+38661,Jemaah Nazir,Putrajaya,62604,WP_Putrajaya
+38662,Kementerian Pelajaran,Putrajaya,62604,WP_Putrajaya
+38663,Kementerian Pengajian Tinggi,Putrajaya,62604,WP_Putrajaya
+38664,Lembaga Peperiksaan Malaysia,Putrajaya,62604,WP_Putrajaya
+38665,Pusat Perkembangan Kurikulum,Putrajaya,62604,WP_Putrajaya
+38666,Bahagian Biasiswa Kementerian Pelajaran,Putrajaya,62602,WP_Putrajaya
+38667,Kementerian Luar Negeri,Putrajaya,62602,WP_Putrajaya
+38668,Kementerian Kemajuan Luar Bandar dan Wilayah,Putrajaya,62606,WP_Putrajaya
+38669,Kementerian Pengangkutan,Putrajaya,62606,WP_Putrajaya
+38670,Jabatan Penerbangan Awam,Putrajaya,62616,WP_Putrajaya
+38671,Ketua Pengarah Jabatan Pengangkutan Jalan,Putrajaya,62618,WP_Putrajaya
+38672,Kementerian Perdagangan Dalam Negeri dan Hal Ehwal Pengguna,Putrajaya,62620,WP_Putrajaya
+38673,Jabatan Perikanan,Putrajaya,62624,WP_Putrajaya
+38674,Jabatan Haiwan,Putrajaya,62628,WP_Putrajaya
+38675,Kementerian Pertanian dan Industri Asas Tani,Putrajaya,62623,WP_Putrajaya
+38676,Jabatan Pertanian,Putrajaya,62630,WP_Putrajaya
+38677,Ketua Pengarah Jabatan Bomba Malaysia ,Putrajaya,62632,WP_Putrajaya
+38678,Kementerian Perusahaan Perladangan dan Komoditi,Putrajaya,62652,WP_Putrajaya
+38679,Yayasan Tekun Nasional,Putrajaya,62652,WP_Putrajaya
+38680,Jabatan Standard Malaysia,Putrajaya,62654,WP_Putrajaya
+38681,Kementerian Pembangunan Usahawan dan Koperasi ,Putrajaya,62648,WP_Putrajaya
+38682,Jabatan Bekalan Air,Putrajaya,62662,WP_Putrajaya
+38683,Kementerian Sains Teknologi dan Inovasi,Putrajaya,62662,WP_Putrajaya
+38684,"Kementerian Tenaga, Air dan Komunikasi",Putrajaya,62668,WP_Putrajaya
+38685,Pusat Mel Kerajaan Putrajaya,Putrajaya,62668,WP_Putrajaya
+38686,Bahagian Kemajuan Wilayah Persekutuan,Putrajaya,62670,WP_Putrajaya
+38687,Jabatan Kehakiman Syariah Malaysia,Putrajaya,62676,WP_Putrajaya
+38688,Perbadanan Putrajaya,Putrajaya,62674,WP_Putrajaya
+38689,Jabatan Agama Islam Wilayah Putrajaya,Putrajaya,62675,WP_Putrajaya
+38690,Suruhanjaya Kehakiman ,Putrajaya,62677,WP_Putrajaya
+38691,Suruhanjaya Pilihan Raya Malaysia,Putrajaya,62686,WP_Putrajaya
+38692,Bahagian Hal Ehwal Undang-undang,Putrajaya,62692,WP_Putrajaya
+38693,Biro Bantuan Guaman Malaysia,Putrajaya,62692,WP_Putrajaya
+38694,Cyberjaya,Putrajaya,62988,WP_Putrajaya

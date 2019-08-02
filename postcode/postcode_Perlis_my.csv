@@ -1,740 +1,796 @@
 ,Location,Post_Office,Postcode,State
-0,Alor Redeh,Kangar,01000,Perlis
-1,Alor Tok Terang,Kangar,01000,Perlis
-2,Bohor Gelam,Kangar,01000,Perlis
-3,Jalan Abi Tok Hashim,Kangar,01000,Perlis
-4,Jalan Alor Sena,Kangar,01000,Perlis
-5,Jalan Arau,Kangar,01000,Perlis
-6,Jalan Besar Kangar,Kangar,01000,Perlis
-7,Jalan Bohor Guncar,Kangar,01000,Perlis
-8,Jalan Bukit Meranti,Kangar,01000,Perlis
-9,Jalan Home Guard,Kangar,01000,Perlis
-10,Jalan Hospital,Kangar,01000,Perlis
-11,Jalan Jubli Perak,Kangar,01000,Perlis
-12,Jalan Kaki Bukit (Batu 4 1/2),Kangar,01000,Perlis
-13,Jalan Kampung Wan Abdullah,Kangar,01000,Perlis
-14,Jalan Kangar,Kangar,01000,Perlis
-15,Jalan Kurung Batang,Kangar,01000,Perlis
-16,Jalan Masjid Lama,Kangar,01000,Perlis
-17,Jalan Medan Kangar,Kangar,01000,Perlis
-18,Jalan Padang Bohor,Kangar,01000,Perlis
-19,Jalan Panglima,Kangar,01000,Perlis
-20,Jalan Pegawai,Kangar,01000,Perlis
-21,Jalan Penjara,Kangar,01000,Perlis
-22,Jalan Raja Muda,Kangar,01000,Perlis
-23,Jalan Raja Syed Alwi,Kangar,01000,Perlis
-24,Jalan Raja Syed Saffi,Kangar,01000,Perlis
-25,Jalan Santan (Km 5),Kangar,01000,Perlis
-26,Jalan Seruling,Kangar,01000,Perlis
-27,Jalan Syed Omar,Kangar,01000,Perlis
-28,Jalan Taman Bunga Padi,Kangar,01000,Perlis
-29,Jalan Teluk Kacang,Kangar,01000,Perlis
-30,Jalan Tok Kandang,Kangar,01000,Perlis
-31,Jalan Tun Razak,Kangar,01000,Perlis
-32,Jejawi,Kangar,01000,Perlis
-33,Kampung Abi Batas Paip,Kangar,01000,Perlis
-34,Kampung Abi Padang Machang,Kangar,01000,Perlis
-35,Kampung Abi Pokok Asam,Kangar,01000,Perlis
-36,Kampung Abi Tok Hashim,Kangar,01000,Perlis
-37,Kampung Alor,Kangar,01000,Perlis
-38,Kampung Alor Ara,Kangar,01000,Perlis
-39,Kampung Alor Dalam,Kangar,01000,Perlis
-40,Kampung Alor Kabong,Kangar,01000,Perlis
-41,Kampung Alor Lanchang,Kangar,01000,Perlis
-42,Kampung Alor Marus,Kangar,01000,Perlis
-43,Kampung Alor Pulai,Kangar,01000,Perlis
-44,Kampung Alor Redeh,Kangar,01000,Perlis
-45,Kampung Alor Sena,Kangar,01000,Perlis
-46,Kampung Aman,Kangar,01000,Perlis
-47,Kampung Asam 6,Kangar,01000,Perlis
-48,Kampung Aur,Kangar,01000,Perlis
-49,Kampung Bakau,Kangar,01000,Perlis
-50,Kampung Bakong (Jejawi),Kangar,01000,Perlis
-51,Kampung Baroh,Kangar,01000,Perlis
-52,Kampung Baru,Kangar,01000,Perlis
-53,Kampung Baru Santan,Kangar,01000,Perlis
-54,Kampung Batu 3.5 (Jalan Kaki Bukit),Kangar,01000,Perlis
-55,Kampung Batu Pahat,Kangar,01000,Perlis
-56,Kampung Behor Cicar,Kangar,01000,Perlis
-57,Kampung Temak,Kangar,01000,Perlis
-58,Kampung Tengah Abi,Kangar,01000,Perlis
-59,Kampung Titi Teras,Kangar,01000,Perlis
-60,Kampung Titi Tok Bandar,Kangar,01000,Perlis
-61,Kampung Tok Dewa,Kangar,01000,Perlis
-62,Kampung Tok Gong,Kangar,01000,Perlis
-63,Kampung Tok Jawa,Kangar,01000,Perlis
-64,Kampung Tok Jepun,Kangar,01000,Perlis
-65,Kampung Tok Kandang,Kangar,01000,Perlis
-66,Kampung Tok Kembong,Kangar,01000,Perlis
-67,Kampung Tok Larak,Kangar,01000,Perlis
-68,Kampung Tok Peduka,Kangar,01000,Perlis
-69,Kampung Tok Pong,Kangar,01000,Perlis
-70,Kampung Tok Sumbing,Kangar,01000,Perlis
-71,Kampung Ujung Bukit,Kangar,01000,Perlis
-72,Kampung Utan Aji,Kangar,01000,Perlis
-73,Kampung Utan Temak,Kangar,01000,Perlis
-74,Kampung Wang Belimbing,Kangar,01000,Perlis
-75,Kampung Wang Besar,Kangar,01000,Perlis
-76,Kampung Wang Ulu,Kangar,01000,Perlis
-77,Kangar,Kangar,01000,Perlis
-78,Kubang Arang,Kangar,01000,Perlis
-79,Lorong Haji Seman,Kangar,01000,Perlis
-80,Lorong Kampung Sena,Kangar,01000,Perlis
-81,Lorong Nisam,Kangar,01000,Perlis
-82,Lorong Sekolah,Kangar,01000,Perlis
-83,Lukuk Gajah,Kangar,01000,Perlis
-84,Mengkuang Layar,Kangar,01000,Perlis
-85,Padang Bohor,Kangar,01000,Perlis
-86,Pengkalan Asam,Kangar,01000,Perlis
-87,Perumahan Awam Bohor Lateh,Kangar,01000,Perlis
-88,Perumahan Awam Santan,Kangar,01000,Perlis
-89,Repoh,Kangar,01000,Perlis
-90,Sena Rendang,Kangar,01000,Perlis
-91,Taman Abu Bakar Munir,Kangar,01000,Perlis
-92,Taman Aman,Kangar,01000,Perlis
-93,Taman Bakau Emas,Kangar,01000,Perlis
-94,Taman Behor Indah,Kangar,01000,Perlis
-95,Taman Bintong Maju,Kangar,01000,Perlis
-96,Taman Bintong Setia,Kangar,01000,Perlis
-97,Taman Bintong Utama,Kangar,01000,Perlis
-98,Taman Bukit Kaya,Kangar,01000,Perlis
-99,Taman Bukit Kayangan,Kangar,01000,Perlis
-100,Taman Bumita,Kangar,01000,Perlis
-101,Taman Bunga Kemboja RPA,Kangar,01000,Perlis
-102,Taman Bunga Raya,Kangar,01000,Perlis
-103,Taman Cahaya,Kangar,01000,Perlis
-104,Taman Cergas,Kangar,01000,Perlis
-105,Taman Ceria,Kangar,01000,Perlis
-106,Taman Choo Kee,Kangar,01000,Perlis
-107,Taman Datuk Jaafar Hassan,Kangar,01000,Perlis
-108,Taman Datuk Setia,Kangar,01000,Perlis
-109,Taman Datuk Wan Ahmad,Kangar,01000,Perlis
-110,Taman Desa Bintong,Kangar,01000,Perlis
-111,Taman Desa Jarak,Kangar,01000,Perlis
-112,Taman Desa Katong,Kangar,01000,Perlis
-113,Taman Desa Kayangan,Kangar,01000,Perlis
-114,Taman Desa Pulai,Kangar,01000,Perlis
-115,Taman Desa Putra,Kangar,01000,Perlis
-116,Taman Desa Sentua,Kangar,01000,Perlis
-117,Taman Fauziah,Kangar,01000,Perlis
-118,Taman Firdaus,Kangar,01000,Perlis
-119,Taman Gasing,Kangar,01000,Perlis
-120,Taman Gembira,Kangar,01000,Perlis
-121,Taman Guru,Kangar,01000,Perlis
-122,Taman Guru Jaya,Kangar,01000,Perlis
-123,Taman Hijrah,Kangar,01000,Perlis
-124,Taman Idaman,Kangar,01000,Perlis
-125,Taman Indera,Kangar,01000,Perlis
-126,Taman Intan,Kangar,01000,Perlis
-127,Taman Ira,Kangar,01000,Perlis
-128,Taman Jali,Kangar,01000,Perlis
-129,Taman Jarak,Kangar,01000,Perlis
-130,Taman Jawi Matang,Kangar,01000,Perlis
-131,Taman Jaya ,Kangar,01000,Perlis
-132,Taman Jaya Diri,Kangar,01000,Perlis
-133,Taman Jejawi,Kangar,01000,Perlis
-134,Taman Jelati,Kangar,01000,Perlis
-135,Taman Kangar,Kangar,01000,Perlis
-136,Taman Kastam ,Kangar,01000,Perlis
-137,Taman Kayangan Indah,Kangar,01000,Perlis
-138,Taman Kechor Indah,Kangar,01000,Perlis
-139,Taman Kechor Jaya,Kangar,01000,Perlis
-140,Taman Kecor Indah,Kangar,01000,Perlis
-141,Taman Kemajuan,Kangar,01000,Perlis
-142,Taman Kenanga,Kangar,01000,Perlis
-143,Taman Koperasi,Kangar,01000,Perlis
-144,Taman Lewata,Kangar,01000,Perlis
-145,Kampung Behor Empiang,Kangar,01000,Perlis
-146,Kampung Behor Inai,Kangar,01000,Perlis
-147,Kampung Behor Janggus,Kangar,01000,Perlis
-148,Kampung Behor Kebal,Kangar,01000,Perlis
-149,Kampung Behor Pulai,Kangar,01000,Perlis
-150,Kampung Behor Temak,Kangar,01000,Perlis
-151,Kampung Belangga Pudak,Kangar,01000,Perlis
-152,Kampung Belat Santan,Kangar,01000,Perlis
-153,Kampung Belukar (Kangar),Kangar,01000,Perlis
-154,Kampung Bendang Baru,Kangar,01000,Perlis
-155,Kampung Binjal,Kangar,01000,Perlis
-156,Kampung Bintong,Kangar,01000,Perlis
-157,Kampung Bohor Chichar,Kangar,01000,Perlis
-158,Kampung Bohor Gandil,Kangar,01000,Perlis
-159,Kampung Bohor Gelam,Kangar,01000,Perlis
-160,Kampung Bohor Goncar,Kangar,01000,Perlis
-161,Kampung Bohor Inai,Kangar,01000,Perlis
-162,Kampung Bohor Temak,Kangar,01000,Perlis
-163,Kampung Bukit Besi Hangit,Kangar,01000,Perlis
-164,Kampung Bukit Kecil,Kangar,01000,Perlis
-165,Kampung Bunga Pudak,Kangar,01000,Perlis
-166,Kampung Dagang,Kangar,01000,Perlis
-167,Kampung Dasri,Kangar,01000,Perlis
-168,Kampung Datuk,Kangar,01000,Perlis
-169,Kampung Guar Syed Alwi,Kangar,01000,Perlis
-170,Kampung Guar Ujung Batu,Kangar,01000,Perlis
-171,Kampung Gunong,Kangar,01000,Perlis
-172,Kampung Guru,Kangar,01000,Perlis
-173,Kampung Haji Daud,Kangar,01000,Perlis
-174,Kampung Hutan Buluh,Kangar,01000,Perlis
-175,Kampung Hutan Melintang,Kangar,01000,Perlis
-176,Kampung Jarak,Kangar,01000,Perlis
-177,Kampung Jejawi Dalam,Kangar,01000,Perlis
-178,Kampung Jejawi Sematang,Kangar,01000,Perlis
-179,Kampung Kechor,Kangar,01000,Perlis
-180,Kampung Keranji,Kangar,01000,Perlis
-181,Kampung Kota,Kangar,01000,Perlis
-182,Kampung Kota Keran,Kangar,01000,Perlis
-183,Kampung Kota Ulu,Kangar,01000,Perlis
-184,Kampung Kubang Arang,Kangar,01000,Perlis
-185,Kampung Kubang Badak,Kangar,01000,Perlis
-186,Kampung Kubang Cekuang,Kangar,01000,Perlis
-187,Kampung Kubang Gajah,Kangar,01000,Perlis
-188,Kampung Kurung Batang,Kangar,01000,Perlis
-189,Kampung Lin,Kangar,01000,Perlis
-190,Kampung Masjid (Kangar),Kangar,01000,Perlis
-191,Kampung Mengkuang Layar,Kangar,01000,Perlis
-192,Kampung Nissam,Kangar,01000,Perlis
-193,Kampung Nyak Adam,Kangar,01000,Perlis
-194,Kampung Padang Behor,Kangar,01000,Perlis
-195,Kampung Padang Jawa Seriab,Kangar,01000,Perlis
-196,Kampung Padang Katong,Kangar,01000,Perlis
-197,Kampung Padang Kedepiang,Kangar,01000,Perlis
-198,Kampung Padang Machang,Kangar,01000,Perlis
-199,Kampung Padang Nyaring,Kangar,01000,Perlis
-200,Kampung Padang Pauh,Kangar,01000,Perlis
-201,Kampung Padang Petani,Kangar,01000,Perlis
-202,Kampung Padang Seberang,Kangar,01000,Perlis
-203,Kampung Panggau,Kangar,01000,Perlis
-204,Kampung Parit Jari,Kangar,01000,Perlis
-205,Kampung Penghulu Bakar,Kangar,01000,Perlis
-206,Kampung Pengkalan Asam,Kangar,01000,Perlis
-207,Kampung Peseri,Kangar,01000,Perlis
-208,Kampung Petai,Kangar,01000,Perlis
-209,Kampung Petai Hilir,Kangar,01000,Perlis
-210,Kampung Pokok Jawi,Kangar,01000,Perlis
-211,Kampung Pondok,Kangar,01000,Perlis
-212,Kampung Pulau,Kangar,01000,Perlis
-213,Kampung Repoh,Kangar,01000,Perlis
-214,Kampung Repoh Dagang,Kangar,01000,Perlis
-215,Kampung Salang,Kangar,01000,Perlis
-216,Kampung Santan,Kangar,01000,Perlis
-217,Kampung Santan Aur,Kangar,01000,Perlis
-218,Kampung Santan Belat,Kangar,01000,Perlis
-219,Kampung Santan Enam,Kangar,01000,Perlis
-220,Kampung Santan Masjid,Kangar,01000,Perlis
-221,Kampung Sempering,Kangar,01000,Perlis
-222,Kampung Sena,Kangar,01000,Perlis
-223,Kampung Sena Sematang,Kangar,01000,Perlis
-224,Kampung Sentang,Kangar,01000,Perlis
-225,Kampung Sentua,Kangar,01000,Perlis
-226,Kampung Seriab,Kangar,01000,Perlis
-227,Kampung Sungai Bakong,Kangar,01000,Perlis
-228,Kampung Sungai Baru,Kangar,01000,Perlis
-229,Kampung Sungai Santan,Kangar,01000,Perlis
-230,Kampung Sungai Siran,Kangar,01000,Perlis
-231,Kampung Surau,Kangar,01000,Perlis
-232,Kampung Syed Umar,Kangar,01000,Perlis
-233,Kampung Tanjung,Kangar,01000,Perlis
-234,Kampung Tanjung Buluh,Kangar,01000,Perlis
-235,Kampung Tanjung Gorah,Kangar,01000,Perlis
-236,Kampung Tanjung Sila,Kangar,01000,Perlis
-237,Kampung Tebing Tinggi,Kangar,01000,Perlis
-238,Kampung Telaga Idi,Kangar,01000,Perlis
-239,Kampung Telaga Nyiur Manis,Kangar,01000,Perlis
-240,Kampung Telok Epa,Kangar,01000,Perlis
-241,Kampung Telok Gelam,Kangar,01000,Perlis
-242,Kampung Telok Jambu,Kangar,01000,Perlis
-243,Kampung Telok Kacang,Kangar,01000,Perlis
-244,Kampung Telok Tui,Kangar,01000,Perlis
-245,Taman Lima Naleh,Kangar,01000,Perlis
-246,Taman Mada Sepakat,Kangar,01000,Perlis
-247,Taman Mas Muda,Kangar,01000,Perlis
-248,Taman Mas Putra,Kangar,01000,Perlis
-249,Taman Mas Ria,Kangar,01000,Perlis
-250,Taman Medan Sepakat,Kangar,01000,Perlis
-251,Taman Merpati,Kangar,01000,Perlis
-252,Taman Mesra ,Kangar,01000,Perlis
-253,Taman Mesra Jejawi,Kangar,01000,Perlis
-254,Taman Mewah,Kangar,01000,Perlis
-255,Taman Muda Sepakat,Kangar,01000,Perlis
-256,Taman Murni,Kangar,01000,Perlis
-257,Taman Mutiara,Kangar,01000,Perlis
-258,Taman Norma,Kangar,01000,Perlis
-259,Taman Peduka,Kangar,01000,Perlis
-260,Taman Pekeliling,Kangar,01000,Perlis
-261,Taman Pengkalan Assam,Kangar,01000,Perlis
-262,Taman Pengkalan Indah,Kangar,01000,Perlis
-263,Taman Perlis,Kangar,01000,Perlis
-264,Taman Permai,Kangar,01000,Perlis
-265,Taman Pertama,Kangar,01000,Perlis
-266,Taman Pertiwi Indah,Kangar,01000,Perlis
-267,Taman Pertiwi Seriab,Kangar,01000,Perlis
-268,Taman Putera,Kangar,01000,Perlis
-269,Taman Putra Putri,Kangar,01000,Perlis
-270,Taman Rasa Sayang,Kangar,01000,Perlis
-271,Taman Repoh,Kangar,01000,Perlis
-272,Taman Repoh Indah,Kangar,01000,Perlis
-273,Taman Repoh Jaya,Kangar,01000,Perlis
-274,Taman Sena,Kangar,01000,Perlis
-275,Taman Sena Indah,Kangar,01000,Perlis
-276,Taman Sena Permai,Kangar,01000,Perlis
-277,Taman Sentua,Kangar,01000,Perlis
-278,Taman Sepadu,Kangar,01000,Perlis
-279,Taman Sepadu 1,Kangar,01000,Perlis
-280,Taman Seri Bahagia,Kangar,01000,Perlis
-281,Taman Seri Embun,Kangar,01000,Perlis
-282,Taman Seri Idaman,Kangar,01000,Perlis
-283,Taman Seri Intan,Kangar,01000,Perlis
-284,Taman Seri Manis,Kangar,01000,Perlis
-285,Taman Seri Medan,Kangar,01000,Perlis
-286,Taman Seri Murni,Kangar,01000,Perlis
-287,Taman Seri Pilihan,Kangar,01000,Perlis
-288,Taman Seri Puchong,Kangar,01000,Perlis
-289,Taman Seri Pulai 4,Kangar,01000,Perlis
-290,Taman Seri Tanjung,Kangar,01000,Perlis
-291,Taman Seriab,Kangar,01000,Perlis
-292,Taman Setia Utama,Kangar,01000,Perlis
-293,Taman Simpang Tiga,Kangar,01000,Perlis
-294,Taman Sri Guar Syed Alwi,Kangar,01000,Perlis
-295,Taman Suriani,Kangar,01000,Perlis
-296,Taman Syed Alwi,Kangar,01000,Perlis
-297,Taman Ten,Kangar,01000,Perlis
-298,Taman Teratai,Kangar,01000,Perlis
-299,Taman Tok Peduka,Kangar,01000,Perlis
-300,Taman Utama,Kangar,01000,Perlis
-301,Taman Utama Indah,Kangar,01000,Perlis
-302,Taman Utara,Kangar,01000,Perlis
-303,Taman Wira,Kangar,01000,Perlis
-304,Titi Chai,Kangar,01000,Perlis
-305,Titi Midin,Kangar,01000,Perlis
-306,Tok Peduka,Kangar,01000,Perlis
-307,Ujung Batu,Kangar,01000,Perlis
-308,DYMM Tuanku Raja Perlis,Kangar,01500,Perlis
-309,Jabatan Tenaga Rakyat,Kangar,01540,Perlis
-310,Jabatan Imigresen,Kangar,01550,Perlis
-311,Ketua Polis Negeri,Kangar,01560,Perlis
-312,Jabatan Belia & Sukan,Kangar,01570,Perlis
-313,Jabatan Kesihatan,Kangar,01590,Perlis
-314,Lembaga Hasil Dalam Negeri,Kangar,01600,Perlis
-315,Bahagian Perlesenan - Kementerian Penerangan,Kangar,01610,Perlis
-316,Jabatan Pengangkutan Jalan,Kangar,01620,Perlis
-317,Jabatan Haiwan,Kangar,01630,Perlis
-318,Jabatan Perhutanan,Kangar,01660,Perlis
-319,Pos Malaysia Berhad,Kangar,01670,Perlis
-320,Dewan Undangan Negeri,Kangar,01680,Perlis
-321,Al Marhom Kayang,Kuala Perlis,02000,Perlis
-322,Bohor Lateh,Kuala Perlis,02000,Perlis
-323,Bohor Mali,Kuala Perlis,02000,Perlis
-324,Bukit Puteh,Kuala Perlis,02000,Perlis
-325,Bukit Tok Po,Kuala Perlis,02000,Perlis
-326,Jalan Besar,Kuala Perlis,02000,Perlis
-327,Jalan Lama Kuala Perlis (Batu 4),Kuala Perlis,02000,Perlis
-328,Jalan Masjid,Kuala Perlis,02000,Perlis
-329,Jalan Miri,Kuala Perlis,02000,Perlis
-330,Jalan Panggong,Kuala Perlis,02000,Perlis
-331,Jalan Serawak,Kuala Perlis,02000,Perlis
-332,Jalan Siakap,Kuala Perlis,02000,Perlis
-333,Jalan Simpang Empat (Batu 3 3/4 - 4 1/2),Kuala Perlis,02000,Perlis
-334,Kampung Bahagia,Kuala Perlis,02000,Perlis
-335,Kampung Bangsal Lebah,Kuala Perlis,02000,Perlis
-336,Kampung Baru (Jalan Sarawak),Kuala Perlis,02000,Perlis
-337,Kampung Baru Jeti,Kuala Perlis,02000,Perlis
-338,Kampung Baru Tandiap,Kuala Perlis,02000,Perlis
-339,Kampung Baru Tok Kuning,Kuala Perlis,02000,Perlis
-340,Kampung Batu Buaya,Kuala Perlis,02000,Perlis
-341,Kampung Batu Lima,Kuala Perlis,02000,Perlis
-342,Kampung Behor Lateh,Kuala Perlis,02000,Perlis
-343,Kampung Belakang Kilang,Kuala Perlis,02000,Perlis
-344,Kampung Besar,Kuala Perlis,02000,Perlis
-345,Kampung Bohor Ibus,Kuala Perlis,02000,Perlis
-346,Kampung Bohor Lateh,Kuala Perlis,02000,Perlis
-347,Kampung Bohor Mesjid,Kuala Perlis,02000,Perlis
-348,Kampung Bohor Rotan Pahit,Kuala Perlis,02000,Perlis
-349,Kampung Bohor Tui,Kuala Perlis,02000,Perlis
-350,Kampung Bukit Papan,Kuala Perlis,02000,Perlis
-351,Kampung Hujung Tanjung,Kuala Perlis,02000,Perlis
-352,Kampung Kolam Raja,Kuala Perlis,02000,Perlis
-353,Kampung Kota Kayang,Kuala Perlis,02000,Perlis
-354,Kampung Kuala,Kuala Perlis,02000,Perlis
-355,Kampung Kurung Tengar,Kuala Perlis,02000,Perlis
-356,Kampung Langgar,Kuala Perlis,02000,Perlis
-357,Kampung Nelayan,Kuala Perlis,02000,Perlis
-358,Kampung Padang Besar Selatan,Kuala Perlis,02000,Perlis
-359,Kampung Padang Cina,Kuala Perlis,02000,Perlis
-360,Kampung Padang Jamil,Kuala Perlis,02000,Perlis
-361,Kampung Pak Lengah,Kuala Perlis,02000,Perlis
-362,Kampung Peladang,Kuala Perlis,02000,Perlis
-363,Kampung Perak,Kuala Perlis,02000,Perlis
-364,Kampung Pokok Asam,Kuala Perlis,02000,Perlis
-365,Kampung Puju,Kuala Perlis,02000,Perlis
-366,Kampung Pulau,Kuala Perlis,02000,Perlis
-367,Kampung Pulau Ketam,Kuala Perlis,02000,Perlis
-368,Kampung Seberang Alor,Kuala Perlis,02000,Perlis
-369,Kampung Seberang Jaya,Kuala Perlis,02000,Perlis
-370,Kampung Seberang Tok PI,Kuala Perlis,02000,Perlis
-371,Kampung Sungai Mati,Kuala Perlis,02000,Perlis
-372,Kampung Tandiap,Kuala Perlis,02000,Perlis
-373,Kampung Tanjung Gelam,Kuala Perlis,02000,Perlis
-374,Kampung Telok,Kuala Perlis,02000,Perlis
-375,Kampung Tengah,Kuala Perlis,02000,Perlis
-376,Kampung Tengah Bohor Lateh,Kuala Perlis,02000,Perlis
-377,Kampung Terus Teritip,Kuala Perlis,02000,Perlis
-378,Kampung Titi Serong,Kuala Perlis,02000,Perlis
-379,Kampung Tok Kaya,Kuala Perlis,02000,Perlis
-380,Kampung Tok Kuning,Kuala Perlis,02000,Perlis
-381,Kampung Utan Ibus,Kuala Perlis,02000,Perlis
-382,Kampung Wai,Kuala Perlis,02000,Perlis
-383,Kampung Wang Pinang,Kuala Perlis,02000,Perlis
-384,Kawasan Perindustrian Kuala Perlis,Kuala Perlis,02000,Perlis
-385,Kuala Perlis,Kuala Perlis,02000,Perlis
-386,Persiaran Putra Timur 1,Kuala Perlis,02000,Perlis
-387,PPRT Tok Kuning,Kuala Perlis,02000,Perlis
-388,Rancangan Perumahan Awam 2 KPS,Kuala Perlis,02000,Perlis
-389,Sungai Berembang,Kuala Perlis,02000,Perlis
-390,Sungai Manor,Kuala Perlis,02000,Perlis
-391,Sungai Siput,Kuala Perlis,02000,Perlis
-392,Taman Berlian,Kuala Perlis,02000,Perlis
-393,Taman Bukit Kubu,Kuala Perlis,02000,Perlis
-394,Taman Indera Indah,Kuala Perlis,02000,Perlis
-395,Taman Kuala Perlis,Kuala Perlis,02000,Perlis
-396,Taman Peladang Jaya,Kuala Perlis,02000,Perlis
-397,Taman Semarak,Kuala Perlis,02000,Perlis
-398,Taman Sentosa,Kuala Perlis,02000,Perlis
-399,Taman Seri Bayu,Kuala Perlis,02000,Perlis
-400,Taman Seri Semarak,Kuala Perlis,02000,Perlis
-401,Taman Suria,Kuala Perlis,02000,Perlis
-402,Kampung Petani,Padang Besar,02100,Perlis
-403,kampung Tersusun (Batu 20),Padang Besar,02100,Perlis
-404,Kem askar rimba Mab,Padang Besar,02100,Perlis
-405,Kem UPP,Padang Besar,02100,Perlis
-406,Klinik Kesihatan Jln Keretapi,Padang Besar,02100,Perlis
-407,Kompleks Imigresen,Padang Besar,02100,Perlis
-408,Kuarantin Haiwan,Padang Besar,02100,Perlis
-409,Pejabat Felda Rimba Mas  FRM,Padang Besar,02100,Perlis
-410,Pejabat Kastam,Padang Besar,02100,Perlis
-411,Taman Bunga Cina,Padang Besar,02100,Perlis
-412,Bukit Cabang,Padang Besar,02100,Perlis
-413,Emas Kerajang,Padang Besar,02100,Perlis
-414,Felcra Lubuk Sireh,Padang Besar,02100,Perlis
-415,Felda Mata Ayer,Padang Besar,02100,Perlis
-416,Felda Rimba Mas,Padang Besar,02100,Perlis
-417,Gapura Square,Padang Besar,02100,Perlis
-418,Jalan Padang Besar (Km 19),Padang Besar,02100,Perlis
-419,Kampung Alor Dalam (Bukit Chabang),Padang Besar,02100,Perlis
-420,Kampung Asmara,Padang Besar,02100,Perlis
-421,Kampung Baru,Padang Besar,02100,Perlis
-422,Kampung Baru Bukit Chabang,Padang Besar,02100,Perlis
-423,Kampung Baru Jalan Sahabat,Padang Besar,02100,Perlis
-424,Kampung Bukit Chabang,Padang Besar,02100,Perlis
-425,Kampung Chantek,Padang Besar,02100,Perlis
-426,Kampung Guar Tinggi (Titi Tinggi),Padang Besar,02100,Perlis
-427,Kampung Kok Mak,Padang Besar,02100,Perlis
-428,Kampung Kolam,Padang Besar,02100,Perlis
-429,Kampung Masjid,Padang Besar,02100,Perlis
-430,Kampung Melayu,Padang Besar,02100,Perlis
-431,Kampung Padang Mawa,Padang Besar,02100,Perlis
-432,Kampung Sahabat,Padang Besar,02100,Perlis
-433,Kampung Sena,Padang Besar,02100,Perlis
-434,Kampung Sungai Chuchuh,Padang Besar,02100,Perlis
-435,Kampung Syed Abdan,Padang Besar,02100,Perlis
-436,Kampung Titi Tinggi,Padang Besar,02100,Perlis
-437,Kampung Titi Tinggi Hilir,Padang Besar,02100,Perlis
-438,Kampung Titi Tinggi Ulu,Padang Besar,02100,Perlis
-439,Kampung Tok Wan Nik,Padang Besar,02100,Perlis
-440,Padang Besar,Padang Besar,02100,Perlis
-441,Pusat Serenti Bukit Cabang,Padang Besar,02100,Perlis
-442,Taman Kastam Baru,Padang Besar,02100,Perlis
-443,Taman Kim,Padang Besar,02100,Perlis
-444,Taman Kim 2,Padang Besar,02100,Perlis
-445,Taman Perumahan Awam,Padang Besar,02100,Perlis
-446,Taman Utara Jaya (Fasa 1 - 3),Padang Besar,02100,Perlis
-447,Aked niaga,Padang Besar,02100,Perlis
-448,Gapura squre,Padang Besar,02100,Perlis
-449,Sekolah Menengah Padang Besar,Padang Besar,02100,Perlis
-450,Taman Bunga Cempaka,Padang Besar,02100,Perlis
-451,Taman Singgah Sana,Padang Besar,02100,Perlis
-452,Jalan Padang Besar (Batu 16),Kaki Bukit,02200,Perlis
-453,Kaki Bukit,Kaki Bukit,02200,Perlis
-454,Kampung Tassoh,Kaki Bukit,02200,Perlis
-455,Kampung Wang Kelian,Kaki Bukit,02200,Perlis
-456,Taman Singgahsana,Kaki Bukit,02200,Perlis
-457,Kampung Bilal Uduh,Kangar,02400,Perlis
-458,Kampung Semadung,Kangar,02400,Perlis
-459,Jalan Padang Melangit,Kangar,02400,Perlis
-460,Kampung Baru Pangas,Kangar,02400,Perlis
-461,Kampung Sungai Baru Serai,Kangar,02400,Perlis
-462,Klinik Desa Batu 9,Kangar,02400,Perlis
-463,Padang Lati,Kangar,02400,Perlis
-464,Paya Batu 5,Kangar,02400,Perlis
-465,Paya Senduk,Kangar,02400,Perlis
-466,Paya Tengah,Kangar,02400,Perlis
-467,Paya Besar,Kangar,02400,Perlis
-468,Sekolah Menengah Semadung,Kangar,02400,Perlis
-469,"Taman 20 ( F1, 2)",Kangar,02400,Perlis
-470,Taman Bunga Geti,Kangar,02400,Perlis
-471,Taman Haz Melati,Kangar,02400,Perlis
-472,Kampung Penghulu Jaafar,Kangar,02400,Perlis
-473,Kampung Perawah,Kangar,02400,Perlis
-474,Kampung Raja Conggah,Kangar,02400,Perlis
-475,Kampung Semadong,Kangar,02400,Perlis
-476,Kampung Sena Rendang,Kangar,02400,Perlis
-477,Kampung Simpang 3 Kilang Gula,Kangar,02400,Perlis
-478,Kampung Simpang 3 Panggas,Kangar,02400,Perlis
-479,Kampung Songla,Kangar,02400,Perlis
-480,Kampung Sungai Buloh,Kangar,02400,Perlis
-481,Kampung Sungai Jerneh,Kangar,02400,Perlis
-482,Kampung Sungai Paya,Kangar,02400,Perlis
-483,Kampung Sungai Serai,Kangar,02400,Perlis
-484,Kampung Tanjong,Kangar,02400,Perlis
-485,Kampung Titi Tampang,Kangar,02400,Perlis
-486,Kampung Tunjong Beseri,Kangar,02400,Perlis
-487,Kampung Wang Pisang,Kangar,02400,Perlis
-488,Kampung Wang Tangga,Kangar,02400,Perlis
-489,Kampung Wang Tengku Lembu,Kangar,02400,Perlis
-490,Kilang Gula,Kangar,02400,Perlis
-491,Lembaga Pertubuhan Peladang,Kangar,02400,Perlis
-492,Lembaga Tembakau Negara,Kangar,02400,Perlis
-493,Lubuk Besar,Kangar,02400,Perlis
-494,Maktab Rendah Sains Mara,Kangar,02400,Perlis
-495,Paya Pauh Gembol,Kangar,02400,Perlis
-496,Perumahan Kilang Gula,Kangar,02400,Perlis
-497,Perumahan Perlis Plantation,Kangar,02400,Perlis
-498,Pusat Haiwan Bukit Temiang,Kangar,02400,Perlis
-499,RPA Batu 8,Kangar,02400,Perlis
-500,RPA Bukit Keteri,Kangar,02400,Perlis
-501,RPA Chuping,Kangar,02400,Perlis
-502,Taman Angsana,Kangar,02400,Perlis
-503,Taman Bahagia,Kangar,02400,Perlis
-504,Taman Beseri Indah,Kangar,02400,Perlis
-505,Taman Beseri Jaya,Kangar,02400,Perlis
-506,Taman Beseri Murni,Kangar,02400,Perlis
-507,Taman Beseri Paya,Kangar,02400,Perlis
-508,Taman Che Long,Kangar,02400,Perlis
-509,Taman Dua Puluh,Kangar,02400,Perlis
-510,Taman Geti,Kangar,02400,Perlis
-511,Taman Has Melati,Kangar,02400,Perlis
-512,Taman Mas (Beseri),Kangar,02400,Perlis
-513,Taman Melati Indah (Beseri),Kangar,02400,Perlis
-514,Taman Permai,Kangar,02400,Perlis
-515,Taman Sempurna Jaya,Kangar,02400,Perlis
-516,Beseri,Kangar,02400,Perlis
-517,Beseri Dalam,Kangar,02400,Perlis
-518,Bilal Uduh,Kangar,02400,Perlis
-519,Bohor Madi,Kangar,02400,Perlis
-520,Bukit Keteri,Kangar,02400,Perlis
-521,Empangan Timah Tassoh JPS,Kangar,02400,Perlis
-522,Guar Panji,Kangar,02400,Perlis
-523,Institut Kemahiran Mara,Kangar,02400,Perlis
-524,Jabatan Pertanian Bukit Temiang,Kangar,02400,Perlis
-525,Jalan Asam Paya,Kangar,02400,Perlis
-526,Jalan Beseri - Bukit Keteri,Kangar,02400,Perlis
-527,Jalan Kaki Bukit (Batu 4 3/4 - 6 1/4),Kangar,02400,Perlis
-528,Jalan Santan (Batu 3 3/4 - 5),Kangar,02400,Perlis
-529,JKR Bekalan Air Tassoh,Kangar,02400,Perlis
-530,Kampung Alor Kangar,Kangar,02400,Perlis
-531,Kampung Alor Tampang,Kangar,02400,Perlis
-532,Kampung Balai Baru,Kangar,02400,Perlis
-533,Kampung Baru Ngulang,Kangar,02400,Perlis
-534,Kampung Batu Bertangkup,Kangar,02400,Perlis
-535,Kampung Batu Hampar (Beseri),Kangar,02400,Perlis
-536,Kampung Behor Kulit Kerang,Kangar,02400,Perlis
-537,Kampung Behor Madi,Kangar,02400,Perlis
-538,Kampung Belat Batu Beseri,Kangar,02400,Perlis
-539,Kampung Belukar Lengga,Kangar,02400,Perlis
-540,Kampung Beseri Dalam,Kangar,02400,Perlis
-541,Kampung Beseri Jaya,Kangar,02400,Perlis
-542,Kampung Bohor Luar,Kangar,02400,Perlis
-543,Kampung Bongkok,Kangar,02400,Perlis
-544,Kampung Bukit Jernih,Kangar,02400,Perlis
-545,Kampung Bukit Kedak,Kangar,02400,Perlis
-546,Kampung Bukit Manek Barat,Kangar,02400,Perlis
-547,Kampung Bukit Merah,Kangar,02400,Perlis
-548,Kampung Bukit Merah Hilir,Kangar,02400,Perlis
-549,Kampung Bukit Merah Hulu,Kangar,02400,Perlis
-550,Kampung Bukit Temiang,Kangar,02400,Perlis
-551,Kampung Chichak Terbelit,Kangar,02400,Perlis
-552,Kampung Darat,Kangar,02400,Perlis
-553,Kampung Darat Selatan,Kangar,02400,Perlis
-554,Kampung Datuk Sheikh Ahmad,Kangar,02400,Perlis
-555,Kampung Guar Jentek,Kangar,02400,Perlis
-556,Kampung Guar Medan Gatal,Kangar,02400,Perlis
-557,Kampung Guar Sanai,Kangar,02400,Perlis
-558,Kampung Kelang Beseri,Kangar,02400,Perlis
-559,Kampung Kepala Batas Dato Kayaman,Kangar,02400,Perlis
-560,Kampung Kubang Jeliti,Kangar,02400,Perlis
-561,Kampung Kubang Tiga,Kangar,02400,Perlis
-562,Kampung Lembah Biak,Kangar,02400,Perlis
-563,Kampung Lubok Batu,Kangar,02400,Perlis
-564,Kampung Lubok Gajah,Kangar,02400,Perlis
-565,Kampung Lubok Hitam Manis,Kangar,02400,Perlis
-566,Kampung Lubuk Machang,Kangar,02400,Perlis
-567,Kampung Masjid Beseri,Kangar,02400,Perlis
-568,Kampung Mempelas,Kangar,02400,Perlis
-569,Kampung Ngulang,Kangar,02400,Perlis
-570,Kampung Padang Gelam,Kangar,02400,Perlis
-571,Kampung Padang Jelutong,Kangar,02400,Perlis
-572,Kampung Padang Lati,Kangar,02400,Perlis
-573,Kampung Padang Malau,Kangar,02400,Perlis
-574,Kampung Padang Melangit,Kangar,02400,Perlis
-575,Kampung Paya,Kangar,02400,Perlis
-576,Kampung Paya Kelubi,Kangar,02400,Perlis
-577,Kampung Paya Senduk,Kangar,02400,Perlis
-578,Kampung Paya Ulu,Kangar,02400,Perlis
-579,Bukit Keteri,Kangar,02450,Perlis
-580,Guar Panji,Kangar,02450,Perlis
-581,Kampung Belukar Lengga,Kangar,02450,Perlis
-582,Kampung Bukit Jernih,Kangar,02450,Perlis
-583,Kampung Kepala Batas Dato Kaya,Kangar,02450,Perlis
-584,Kampung Kubang Tiga,Kangar,02450,Perlis
-585,Kampung Masjid (Beseri),Kangar,02450,Perlis
-586,Kampung Padang Gelam,Kangar,02450,Perlis
-587,Kampung Padang Jelutong,Kangar,02450,Perlis
-588,Kampung Paya Kelubi,Kangar,02450,Perlis
-589,Kampung Perawah,Kangar,02450,Perlis
-590,Kampung Songla,Kangar,02450,Perlis
-591,Kampung Sungai Buloh,Kangar,02450,Perlis
-592,Taman Tunjung,Kangar,02450,Perlis
-593,Balai Polis Mata Air,Kangar,02500,Perlis
-594,Hutan Lembah,Kangar,02500,Perlis
-595,Kampung Balik Bukit Selatan,Kangar,02500,Perlis
-596,Kampung Bawah Bukit,Kangar,02500,Perlis
-597,Kampung Gial,Kangar,02500,Perlis
-598,Kampung Gial Tengah,Kangar,02500,Perlis
-599,Kampung Kerisik Hilir,Kangar,02500,Perlis
-600,Pejabat Felda,Kangar,02500,Perlis
-601,Pekan Gate Mata Air,Kangar,02500,Perlis
-602,Pusat Giat Mara,Kangar,02500,Perlis
-603,Sekolah Jenis Kebangsaan Cina (Kong Aik),Kangar,02500,Perlis
-604,Stesen Meteriologi,Kangar,02500,Perlis
-605,Taman Padang Nyu,Kangar,02500,Perlis
-606,Taman Permata,Kangar,02500,Perlis
-607,Taman Selasih,Kangar,02500,Perlis
-608,Taman Sri Idaman,Kangar,02500,Perlis
-609,Bukit Chuping,Kangar,02500,Perlis
-610,Felda Chuping,Kangar,02500,Perlis
-611,Jalan Mata Ayer (Km 1.6 - 6),Kangar,02500,Perlis
-612,Kampung Balik Bukit,Kangar,02500,Perlis
-613,Kampung Balik Guar,Kangar,02500,Perlis
-614,Kampung Banggol Sena,Kangar,02500,Perlis
-615,Kampung Belukar (Mata Ayer),Kangar,02500,Perlis
-616,Kampung Bukit Chuping,Kangar,02500,Perlis
-617,Kampung Changkat Lada,Kangar,02500,Perlis
-618,Kampung Che gu Ali,Kangar,02500,Perlis
-619,Kampung Chelong,Kangar,02500,Perlis
-620,Kampung Chuping,Kangar,02500,Perlis
-621,Kampung Guar Halban,Kangar,02500,Perlis
-622,Kampung Guar Musang,Kangar,02500,Perlis
-623,Kampung Guar Nangka,Kangar,02500,Perlis
-624,Kampung Hutan Lembah,Kangar,02500,Perlis
-625,Kampung Hutan Temin,Kangar,02500,Perlis
-626,Kampung Kersek (Kangar),Kangar,02500,Perlis
-627,Kampung Kersek (Mata Ayer),Kangar,02500,Perlis
-628,Kampung Kubang Peron,Kangar,02500,Perlis
-629,Kampung Oran,Kangar,02500,Perlis
-630,Kampung Padang Nyu,Kangar,02500,Perlis
-631,Kampung Panggas,Kangar,02500,Perlis
-632,Kampung Panggas Besar,Kangar,02500,Perlis
-633,Kampung Panggas Kechil,Kangar,02500,Perlis
-634,Kampung Paya Burma,Kangar,02500,Perlis
-635,Kampung Perik,Kangar,02500,Perlis
-636,Kampung Pokok Petai,Kangar,02500,Perlis
-637,Kampung Pokok Sena,Kangar,02500,Perlis
-638,Kampung Saikla,Kangar,02500,Perlis
-639,Kampung Simpang Geti,Kangar,02500,Perlis
-640,Kampung Sungai Mati,Kangar,02500,Perlis
-641,Kok Klang,Kangar,02500,Perlis
-642,Lubuk Besar,Kangar,02500,Perlis
-643,Mata Ayer,Kangar,02500,Perlis
-644,Taman Haji Ali (RPA),Kangar,02500,Perlis
-645,Taman Mata Air 2 (RPA),Kangar,02500,Perlis
-646,Taman Mata Air 3 (RPA),Kangar,02500,Perlis
-647,Taman Ria,Kangar,02500,Perlis
-648,Arau,Arau,02600,Perlis
-649,Guar Sanji,Arau,02600,Perlis
-650,Kampung Alor Merah,Arau,02600,Perlis
-651,Kampung Bakong (Arau),Arau,02600,Perlis
-652,Kampung Banat,Arau,02600,Perlis
-653,Kampung Batas Liku,Arau,02600,Perlis
-654,Kampung Belat Batu,Arau,02600,Perlis
-655,Kampung Belat Raja,Arau,02600,Perlis
-656,Kampung Belukar,Arau,02600,Perlis
-657,Kampung Bohor Mengkung,Arau,02600,Perlis
-658,Kampung Bohor Mentalun,Arau,02600,Perlis
-659,Kampung Changkat Jawi,Arau,02600,Perlis
-660,Kampung Changkat Kabu,Arau,02600,Perlis
-661,Kampung Chermai,Arau,02600,Perlis
-662,Kampung Guar Gajah,Arau,02600,Perlis
-663,Kampung Guring,Arau,02600,Perlis
-664,Kampung Hutan Kandis,Arau,02600,Perlis
-665,Kampung Jelempok,Arau,02600,Perlis
-666,Kampung Katong,Arau,02600,Perlis
-667,Kampung Kuala Tunggang,Arau,02600,Perlis
-668,Kampung Kubang Mat Tanggok,Arau,02600,Perlis
-669,Kampung Kubang Siput,Arau,02600,Perlis
-670,Kampung Padang Biak,Arau,02600,Perlis
-671,Kampung Padang Siding,Arau,02600,Perlis
-672,Kampung Padang Telela,Arau,02600,Perlis
-673,Kampung Paloh,Arau,02600,Perlis
-674,Kampung Pauh,Arau,02600,Perlis
-675,Kampung Pida 3 Lama,Arau,02600,Perlis
-676,Kampung Pulau Pichai,Arau,02600,Perlis
-677,Kampung Sena,Arau,02600,Perlis
-678,Kampung Stesen,Arau,02600,Perlis
-679,Kampung Tambun Tulang,Arau,02600,Perlis
-680,Kampung Telaga Haji Latif,Arau,02600,Perlis
-681,Kampung Telok,Arau,02600,Perlis
-682,Kampung Titi Besi,Arau,02600,Perlis
-683,Kampung Ulu Pauh,Arau,02600,Perlis
-684,Pauh,Arau,02600,Perlis
-685,Rani Estate,Arau,02600,Perlis
-686,Taman Desa Pauh,Arau,02600,Perlis
-687,Taman Pauh Indah,Arau,02600,Perlis
-688,Taman Seri Idaman,Arau,02600,Perlis
-689,Taman Seri Wangi,Arau,02600,Perlis
-690,Taman Sri Pauh,Arau,02600,Perlis
-691,Taman Utara Guar Sanji,Arau,02600,Perlis
-692,UiTM Arau,Arau,02600,Perlis
-693,Bohor Mali,Simpang Ampat,02700,Perlis
-694,Kampung Banir Tembus,Simpang Ampat,02700,Perlis
-695,Kampung Batas Lentang,Simpang Ampat,02700,Perlis
-696,Kampung Bendang Baru,Simpang Ampat,02700,Perlis
-697,Kampung Berjaya,Simpang Ampat,02700,Perlis
-698,Kampung Bohor Lalang,Simpang Ampat,02700,Perlis
-699,Kampung Bonggor Kudong,Simpang Ampat,02700,Perlis
-700,Kampung Bunga Mas,Simpang Ampat,02700,Perlis
-701,Kampung Chantek Bangun,Simpang Ampat,02700,Perlis
-702,Kampung Che Ok,Simpang Ampat,02700,Perlis
-703,Kampung Chemumar,Simpang Ampat,02700,Perlis
-704,Kampung Jawi Endol,Simpang Ampat,02700,Perlis
-705,Kampung Kenangan,Simpang Ampat,02700,Perlis
-706,Kampung Lat Seribu,Simpang Ampat,02700,Perlis
-707,Kampung Long Boh,Simpang Ampat,02700,Perlis
-708,Kampung Matang Kersek,Simpang Ampat,02700,Perlis
-709,Kampung Melintang,Simpang Ampat,02700,Perlis
-710,Kampung Mua,Simpang Ampat,02700,Perlis
-711,Kampung Padang Benta,Simpang Ampat,02700,Perlis
-712,Kampung Padang Petani,Simpang Ampat,02700,Perlis
-713,Kampung Pauh Tiga Beradek,Simpang Ampat,02700,Perlis
-714,Kampung Permatang Bongor,Simpang Ampat,02700,Perlis
-715,Kampung Permatang Limau Manis,Simpang Ampat,02700,Perlis
-716,Kampung Permatang Pauh,Simpang Ampat,02700,Perlis
-717,Kampung Pulau,Simpang Ampat,02700,Perlis
-718,Kampung Sematang Serdang,Simpang Ampat,02700,Perlis
-719,Kampung Serdang,Simpang Ampat,02700,Perlis
-720,Kampung Sungai Baru,Simpang Ampat,02700,Perlis
-721,Kampung Sungai Belati,Simpang Ampat,02700,Perlis
-722,Kampung Sungai Bugis,Simpang Ampat,02700,Perlis
-723,Kampung Sungai Padang,Simpang Ampat,02700,Perlis
-724,Kampung Tebuk,Simpang Ampat,02700,Perlis
-725,Kampung Titi Beratap,Simpang Ampat,02700,Perlis
-726,Kampung Tok Pulau,Simpang Ampat,02700,Perlis
-727,Simpang Ampat,Simpang Ampat,02700,Perlis
-728,Taman Cendera Wasih,Simpang Ampat,02700,Perlis
-729,Taman Pelangi,Simpang Ampat,02700,Perlis
-730,Kampung Kepala Batas Pauh,Simpang Ampat,02800,Perlis
-731,Kampung Kerbau Belaga,Simpang Ampat,02800,Perlis
-732,Kampung Matang Keriang,Simpang Ampat,02800,Perlis
-733,Kampung Padang Gelam,Simpang Ampat,02800,Perlis
-734,Kampung Padang Keria,Simpang Ampat,02800,Perlis
-735,Kampung Permatang Pelangu,Simpang Ampat,02800,Perlis
-736,Kampung Rama,Simpang Ampat,02800,Perlis
-737,Kampung Simpang Sanglang,Simpang Ampat,02800,Perlis
-738,Kampung Tanah Timbul,Simpang Ampat,02800,Perlis
+0,Kangar - Peti surat,Kangar,01007,Perlis
+1,Kangar - Beg berkunci,Kangar,01009,Perlis
+2,Alor Redeh,Kangar,01000,Perlis
+3,Alor Tok Terang,Kangar,01000,Perlis
+4,Bohor Gelam,Kangar,01000,Perlis
+5,Jalan Abi Tok Hashim,Kangar,01000,Perlis
+6,Jalan Alor Sena,Kangar,01000,Perlis
+7,Jalan Arau,Kangar,01000,Perlis
+8,Jalan Besar Kangar,Kangar,01000,Perlis
+9,Jalan Bohor Guncar,Kangar,01000,Perlis
+10,Jalan Bukit Meranti,Kangar,01000,Perlis
+11,Jalan Home Guard,Kangar,01000,Perlis
+12,Jalan Hospital,Kangar,01000,Perlis
+13,Jalan Jubli Perak,Kangar,01000,Perlis
+14,Jalan Kaki Bukit (Batu 4 1/2),Kangar,01000,Perlis
+15,Jalan Kampung Wan Abdullah,Kangar,01000,Perlis
+16,Jalan Kangar,Kangar,01000,Perlis
+17,Jalan Kurung Batang,Kangar,01000,Perlis
+18,Jalan Masjid Lama,Kangar,01000,Perlis
+19,Jalan Medan Kangar,Kangar,01000,Perlis
+20,Jalan Padang Bohor,Kangar,01000,Perlis
+21,Jalan Panglima,Kangar,01000,Perlis
+22,Jalan Pegawai,Kangar,01000,Perlis
+23,Jalan Penjara,Kangar,01000,Perlis
+24,Jalan Raja Muda,Kangar,01000,Perlis
+25,Jalan Raja Syed Alwi,Kangar,01000,Perlis
+26,Jalan Raja Syed Saffi,Kangar,01000,Perlis
+27,Jalan Santan (Km 5),Kangar,01000,Perlis
+28,Jalan Seruling,Kangar,01000,Perlis
+29,Jalan Syed Omar,Kangar,01000,Perlis
+30,Jalan Taman Bunga Padi,Kangar,01000,Perlis
+31,Jalan Teluk Kacang,Kangar,01000,Perlis
+32,Jalan Tok Kandang,Kangar,01000,Perlis
+33,Jalan Tun Razak,Kangar,01000,Perlis
+34,Jejawi,Kangar,01000,Perlis
+35,Kampung Abi Batas Paip,Kangar,01000,Perlis
+36,Kampung Abi Padang Machang,Kangar,01000,Perlis
+37,Kampung Abi Pokok Asam,Kangar,01000,Perlis
+38,Kampung Abi Tok Hashim,Kangar,01000,Perlis
+39,Kampung Alor,Kangar,01000,Perlis
+40,Kampung Alor Ara,Kangar,01000,Perlis
+41,Kampung Alor Dalam,Kangar,01000,Perlis
+42,Kampung Alor Kabong,Kangar,01000,Perlis
+43,Kampung Alor Lanchang,Kangar,01000,Perlis
+44,Kampung Alor Marus,Kangar,01000,Perlis
+45,Kampung Alor Pulai,Kangar,01000,Perlis
+46,Kampung Alor Redeh,Kangar,01000,Perlis
+47,Kampung Alor Sena,Kangar,01000,Perlis
+48,Kampung Aman,Kangar,01000,Perlis
+49,Kampung Asam 6,Kangar,01000,Perlis
+50,Kampung Aur,Kangar,01000,Perlis
+51,Kampung Bakau,Kangar,01000,Perlis
+52,Kampung Bakong (Jejawi),Kangar,01000,Perlis
+53,Kampung Baroh,Kangar,01000,Perlis
+54,Kampung Baru,Kangar,01000,Perlis
+55,Kampung Baru Santan,Kangar,01000,Perlis
+56,Kampung Batu 3.5 (Jalan Kaki Bukit),Kangar,01000,Perlis
+57,Kampung Batu Pahat,Kangar,01000,Perlis
+58,Kampung Behor Cicar,Kangar,01000,Perlis
+59,Kampung Temak,Kangar,01000,Perlis
+60,Kampung Tengah Abi,Kangar,01000,Perlis
+61,Kampung Titi Teras,Kangar,01000,Perlis
+62,Kampung Titi Tok Bandar,Kangar,01000,Perlis
+63,Kampung Tok Dewa,Kangar,01000,Perlis
+64,Kampung Tok Gong,Kangar,01000,Perlis
+65,Kampung Tok Jawa,Kangar,01000,Perlis
+66,Kampung Tok Jepun,Kangar,01000,Perlis
+67,Kampung Tok Kandang,Kangar,01000,Perlis
+68,Kampung Tok Kembong,Kangar,01000,Perlis
+69,Kampung Tok Larak,Kangar,01000,Perlis
+70,Kampung Tok Peduka,Kangar,01000,Perlis
+71,Kampung Tok Pong,Kangar,01000,Perlis
+72,Kampung Tok Sumbing,Kangar,01000,Perlis
+73,Kampung Ujung Bukit,Kangar,01000,Perlis
+74,Kampung Utan Aji,Kangar,01000,Perlis
+75,Kampung Utan Temak,Kangar,01000,Perlis
+76,Kampung Wang Belimbing,Kangar,01000,Perlis
+77,Kampung Wang Besar,Kangar,01000,Perlis
+78,Kampung Wang Ulu,Kangar,01000,Perlis
+79,Kangar,Kangar,01000,Perlis
+80,Kubang Arang,Kangar,01000,Perlis
+81,Lorong Haji Seman,Kangar,01000,Perlis
+82,Lorong Kampung Sena,Kangar,01000,Perlis
+83,Lorong Nisam,Kangar,01000,Perlis
+84,Lorong Sekolah,Kangar,01000,Perlis
+85,Lukuk Gajah,Kangar,01000,Perlis
+86,Mengkuang Layar,Kangar,01000,Perlis
+87,Padang Bohor,Kangar,01000,Perlis
+88,Pengkalan Asam,Kangar,01000,Perlis
+89,Perumahan Awam Bohor Lateh,Kangar,01000,Perlis
+90,Perumahan Awam Santan,Kangar,01000,Perlis
+91,Repoh,Kangar,01000,Perlis
+92,Sena Rendang,Kangar,01000,Perlis
+93,Taman Abu Bakar Munir,Kangar,01000,Perlis
+94,Taman Aman,Kangar,01000,Perlis
+95,Taman Bakau Emas,Kangar,01000,Perlis
+96,Taman Behor Indah,Kangar,01000,Perlis
+97,Taman Bintong Maju,Kangar,01000,Perlis
+98,Taman Bintong Setia,Kangar,01000,Perlis
+99,Taman Bintong Utama,Kangar,01000,Perlis
+100,Taman Bukit Kaya,Kangar,01000,Perlis
+101,Taman Bukit Kayangan,Kangar,01000,Perlis
+102,Taman Bumita,Kangar,01000,Perlis
+103,Taman Bunga Kemboja RPA,Kangar,01000,Perlis
+104,Taman Bunga Raya,Kangar,01000,Perlis
+105,Taman Cahaya,Kangar,01000,Perlis
+106,Taman Cergas,Kangar,01000,Perlis
+107,Taman Ceria,Kangar,01000,Perlis
+108,Taman Choo Kee,Kangar,01000,Perlis
+109,Taman Datuk Jaafar Hassan,Kangar,01000,Perlis
+110,Taman Datuk Setia,Kangar,01000,Perlis
+111,Taman Datuk Wan Ahmad,Kangar,01000,Perlis
+112,Taman Desa Bintong,Kangar,01000,Perlis
+113,Taman Desa Jarak,Kangar,01000,Perlis
+114,Taman Desa Katong,Kangar,01000,Perlis
+115,Taman Desa Kayangan,Kangar,01000,Perlis
+116,Taman Desa Pulai,Kangar,01000,Perlis
+117,Taman Desa Putra,Kangar,01000,Perlis
+118,Taman Desa Sentua,Kangar,01000,Perlis
+119,Taman Fauziah,Kangar,01000,Perlis
+120,Taman Firdaus,Kangar,01000,Perlis
+121,Taman Gasing,Kangar,01000,Perlis
+122,Taman Gembira,Kangar,01000,Perlis
+123,Taman Guru,Kangar,01000,Perlis
+124,Taman Guru Jaya,Kangar,01000,Perlis
+125,Taman Hijrah,Kangar,01000,Perlis
+126,Taman Idaman,Kangar,01000,Perlis
+127,Taman Indera,Kangar,01000,Perlis
+128,Taman Intan,Kangar,01000,Perlis
+129,Taman Ira,Kangar,01000,Perlis
+130,Taman Jali,Kangar,01000,Perlis
+131,Taman Jarak,Kangar,01000,Perlis
+132,Taman Jawi Matang,Kangar,01000,Perlis
+133,Taman Jaya ,Kangar,01000,Perlis
+134,Taman Jaya Diri,Kangar,01000,Perlis
+135,Taman Jejawi,Kangar,01000,Perlis
+136,Taman Jelati,Kangar,01000,Perlis
+137,Taman Kangar,Kangar,01000,Perlis
+138,Taman Kastam ,Kangar,01000,Perlis
+139,Taman Kayangan Indah,Kangar,01000,Perlis
+140,Taman Kechor Indah,Kangar,01000,Perlis
+141,Taman Kechor Jaya,Kangar,01000,Perlis
+142,Taman Kecor Indah,Kangar,01000,Perlis
+143,Taman Kemajuan,Kangar,01000,Perlis
+144,Taman Kenanga,Kangar,01000,Perlis
+145,Taman Koperasi,Kangar,01000,Perlis
+146,Taman Lewata,Kangar,01000,Perlis
+147,Kampung Behor Empiang,Kangar,01000,Perlis
+148,Kampung Behor Inai,Kangar,01000,Perlis
+149,Kampung Behor Janggus,Kangar,01000,Perlis
+150,Kampung Behor Kebal,Kangar,01000,Perlis
+151,Kampung Behor Pulai,Kangar,01000,Perlis
+152,Kampung Behor Temak,Kangar,01000,Perlis
+153,Kampung Belangga Pudak,Kangar,01000,Perlis
+154,Kampung Belat Santan,Kangar,01000,Perlis
+155,Kampung Belukar (Kangar),Kangar,01000,Perlis
+156,Kampung Bendang Baru,Kangar,01000,Perlis
+157,Kampung Binjal,Kangar,01000,Perlis
+158,Kampung Bintong,Kangar,01000,Perlis
+159,Kampung Bohor Chichar,Kangar,01000,Perlis
+160,Kampung Bohor Gandil,Kangar,01000,Perlis
+161,Kampung Bohor Gelam,Kangar,01000,Perlis
+162,Kampung Bohor Goncar,Kangar,01000,Perlis
+163,Kampung Bohor Inai,Kangar,01000,Perlis
+164,Kampung Bohor Temak,Kangar,01000,Perlis
+165,Kampung Bukit Besi Hangit,Kangar,01000,Perlis
+166,Kampung Bukit Kecil,Kangar,01000,Perlis
+167,Kampung Bunga Pudak,Kangar,01000,Perlis
+168,Kampung Dagang,Kangar,01000,Perlis
+169,Kampung Dasri,Kangar,01000,Perlis
+170,Kampung Datuk,Kangar,01000,Perlis
+171,Kampung Guar Syed Alwi,Kangar,01000,Perlis
+172,Kampung Guar Ujung Batu,Kangar,01000,Perlis
+173,Kampung Gunong,Kangar,01000,Perlis
+174,Kampung Guru,Kangar,01000,Perlis
+175,Kampung Haji Daud,Kangar,01000,Perlis
+176,Kampung Hutan Buluh,Kangar,01000,Perlis
+177,Kampung Hutan Melintang,Kangar,01000,Perlis
+178,Kampung Jarak,Kangar,01000,Perlis
+179,Kampung Jejawi Dalam,Kangar,01000,Perlis
+180,Kampung Jejawi Sematang,Kangar,01000,Perlis
+181,Kampung Kechor,Kangar,01000,Perlis
+182,Kampung Keranji,Kangar,01000,Perlis
+183,Kampung Kota,Kangar,01000,Perlis
+184,Kampung Kota Keran,Kangar,01000,Perlis
+185,Kampung Kota Ulu,Kangar,01000,Perlis
+186,Kampung Kubang Arang,Kangar,01000,Perlis
+187,Kampung Kubang Badak,Kangar,01000,Perlis
+188,Kampung Kubang Cekuang,Kangar,01000,Perlis
+189,Kampung Kubang Gajah,Kangar,01000,Perlis
+190,Kampung Kurung Batang,Kangar,01000,Perlis
+191,Kampung Lin,Kangar,01000,Perlis
+192,Kampung Masjid (Kangar),Kangar,01000,Perlis
+193,Kampung Mengkuang Layar,Kangar,01000,Perlis
+194,Kampung Nissam,Kangar,01000,Perlis
+195,Kampung Nyak Adam,Kangar,01000,Perlis
+196,Kampung Padang Behor,Kangar,01000,Perlis
+197,Kampung Padang Jawa Seriab,Kangar,01000,Perlis
+198,Kampung Padang Katong,Kangar,01000,Perlis
+199,Kampung Padang Kedepiang,Kangar,01000,Perlis
+200,Kampung Padang Machang,Kangar,01000,Perlis
+201,Kampung Padang Nyaring,Kangar,01000,Perlis
+202,Kampung Padang Pauh,Kangar,01000,Perlis
+203,Kampung Padang Petani,Kangar,01000,Perlis
+204,Kampung Padang Seberang,Kangar,01000,Perlis
+205,Kampung Panggau,Kangar,01000,Perlis
+206,Kampung Parit Jari,Kangar,01000,Perlis
+207,Kampung Penghulu Bakar,Kangar,01000,Perlis
+208,Kampung Pengkalan Asam,Kangar,01000,Perlis
+209,Kampung Peseri,Kangar,01000,Perlis
+210,Kampung Petai,Kangar,01000,Perlis
+211,Kampung Petai Hilir,Kangar,01000,Perlis
+212,Kampung Pokok Jawi,Kangar,01000,Perlis
+213,Kampung Pondok,Kangar,01000,Perlis
+214,Kampung Pulau,Kangar,01000,Perlis
+215,Kampung Repoh,Kangar,01000,Perlis
+216,Kampung Repoh Dagang,Kangar,01000,Perlis
+217,Kampung Salang,Kangar,01000,Perlis
+218,Kampung Santan,Kangar,01000,Perlis
+219,Kampung Santan Aur,Kangar,01000,Perlis
+220,Kampung Santan Belat,Kangar,01000,Perlis
+221,Kampung Santan Enam,Kangar,01000,Perlis
+222,Kampung Santan Masjid,Kangar,01000,Perlis
+223,Kampung Sempering,Kangar,01000,Perlis
+224,Kampung Sena,Kangar,01000,Perlis
+225,Kampung Sena Sematang,Kangar,01000,Perlis
+226,Kampung Sentang,Kangar,01000,Perlis
+227,Kampung Sentua,Kangar,01000,Perlis
+228,Kampung Seriab,Kangar,01000,Perlis
+229,Kampung Sungai Bakong,Kangar,01000,Perlis
+230,Kampung Sungai Baru,Kangar,01000,Perlis
+231,Kampung Sungai Santan,Kangar,01000,Perlis
+232,Kampung Sungai Siran,Kangar,01000,Perlis
+233,Kampung Surau,Kangar,01000,Perlis
+234,Kampung Syed Umar,Kangar,01000,Perlis
+235,Kampung Tanjung,Kangar,01000,Perlis
+236,Kampung Tanjung Buluh,Kangar,01000,Perlis
+237,Kampung Tanjung Gorah,Kangar,01000,Perlis
+238,Kampung Tanjung Sila,Kangar,01000,Perlis
+239,Kampung Tebing Tinggi,Kangar,01000,Perlis
+240,Kampung Telaga Idi,Kangar,01000,Perlis
+241,Kampung Telaga Nyiur Manis,Kangar,01000,Perlis
+242,Kampung Telok Epa,Kangar,01000,Perlis
+243,Kampung Telok Gelam,Kangar,01000,Perlis
+244,Kampung Telok Jambu,Kangar,01000,Perlis
+245,Kampung Telok Kacang,Kangar,01000,Perlis
+246,Kampung Telok Tui,Kangar,01000,Perlis
+247,Taman Lima Naleh,Kangar,01000,Perlis
+248,Taman Mada Sepakat,Kangar,01000,Perlis
+249,Taman Mas Muda,Kangar,01000,Perlis
+250,Taman Mas Putra,Kangar,01000,Perlis
+251,Taman Mas Ria,Kangar,01000,Perlis
+252,Taman Medan Sepakat,Kangar,01000,Perlis
+253,Taman Merpati,Kangar,01000,Perlis
+254,Taman Mesra ,Kangar,01000,Perlis
+255,Taman Mesra Jejawi,Kangar,01000,Perlis
+256,Taman Mewah,Kangar,01000,Perlis
+257,Taman Muda Sepakat,Kangar,01000,Perlis
+258,Taman Murni,Kangar,01000,Perlis
+259,Taman Mutiara,Kangar,01000,Perlis
+260,Taman Norma,Kangar,01000,Perlis
+261,Taman Peduka,Kangar,01000,Perlis
+262,Taman Pekeliling,Kangar,01000,Perlis
+263,Taman Pengkalan Assam,Kangar,01000,Perlis
+264,Taman Pengkalan Indah,Kangar,01000,Perlis
+265,Taman Perlis,Kangar,01000,Perlis
+266,Taman Permai,Kangar,01000,Perlis
+267,Taman Pertama,Kangar,01000,Perlis
+268,Taman Pertiwi Indah,Kangar,01000,Perlis
+269,Taman Pertiwi Seriab,Kangar,01000,Perlis
+270,Taman Putera,Kangar,01000,Perlis
+271,Taman Putra Putri,Kangar,01000,Perlis
+272,Taman Rasa Sayang,Kangar,01000,Perlis
+273,Taman Repoh,Kangar,01000,Perlis
+274,Taman Repoh Indah,Kangar,01000,Perlis
+275,Taman Repoh Jaya,Kangar,01000,Perlis
+276,Taman Sena,Kangar,01000,Perlis
+277,Taman Sena Indah,Kangar,01000,Perlis
+278,Taman Sena Permai,Kangar,01000,Perlis
+279,Taman Sentua,Kangar,01000,Perlis
+280,Taman Sepadu,Kangar,01000,Perlis
+281,Taman Sepadu 1,Kangar,01000,Perlis
+282,Taman Seri Bahagia,Kangar,01000,Perlis
+283,Taman Seri Embun,Kangar,01000,Perlis
+284,Taman Seri Idaman,Kangar,01000,Perlis
+285,Taman Seri Intan,Kangar,01000,Perlis
+286,Taman Seri Manis,Kangar,01000,Perlis
+287,Taman Seri Medan,Kangar,01000,Perlis
+288,Taman Seri Murni,Kangar,01000,Perlis
+289,Taman Seri Pilihan,Kangar,01000,Perlis
+290,Taman Seri Puchong,Kangar,01000,Perlis
+291,Taman Seri Pulai 4,Kangar,01000,Perlis
+292,Taman Seri Tanjung,Kangar,01000,Perlis
+293,Taman Seriab,Kangar,01000,Perlis
+294,Taman Setia Utama,Kangar,01000,Perlis
+295,Taman Simpang Tiga,Kangar,01000,Perlis
+296,Taman Sri Guar Syed Alwi,Kangar,01000,Perlis
+297,Taman Suriani,Kangar,01000,Perlis
+298,Taman Syed Alwi,Kangar,01000,Perlis
+299,Taman Ten,Kangar,01000,Perlis
+300,Taman Teratai,Kangar,01000,Perlis
+301,Taman Tok Peduka,Kangar,01000,Perlis
+302,Taman Utama,Kangar,01000,Perlis
+303,Taman Utama Indah,Kangar,01000,Perlis
+304,Taman Utara,Kangar,01000,Perlis
+305,Taman Wira,Kangar,01000,Perlis
+306,Titi Chai,Kangar,01000,Perlis
+307,Titi Midin,Kangar,01000,Perlis
+308,Tok Peduka,Kangar,01000,Perlis
+309,Ujung Batu,Kangar,01000,Perlis
+310,Mahkamah Sesyen,Kangar,01506,Perlis
+311,Mahkamah Tinggi,Kangar,01506,Perlis
+312,Biro Pengaduan Awam,Kangar,01505,Perlis
+313,DYMM Tuanku Raja Perlis,Kangar,01500,Perlis
+314,YAB Menteri Besar Perlis,Kangar,01502,Perlis
+315,Jabatan Perangkaan,Kangar,01514,Perlis
+316,Setiausaha Kerajaan Negeri,Kangar,01503,Perlis
+317,Biro Bantuan Guaman,Kangar,01504,Perlis
+318,Amanah Raya Berhad,Kangar,01508,Perlis
+319,Jabatan Pemegang Harta,Kangar,01516,Perlis
+320,Penasihat Undang-Undang Negeri,Kangar,01512,Perlis
+321,Jabatan Perpaduan Negara,Kangar,01517,Perlis
+322,Jabatan Audit Negeri,Kangar,01518,Perlis
+323,Setiausaha Keselamatan Negeri,Kangar,01524,Perlis
+324,Unit Penyelidikan Sosio Ekonomi,Kangar,01529,Perlis
+325,Jabatan Sumber Manusia,Kangar,01532,Perlis
+326,Jabatan Keselamatan Sosial (Perkeso),Kangar,01538,Perlis
+327,Jabatan Tenaga Rakyat,Kangar,01540,Perlis
+328,Jabatan Imigresen,Kangar,01550,Perlis
+329,Pejabat Rela Negeri,Kangar,01546,Perlis
+330,Unit Pencegah Penyeludupan,Kangar,01546,Perlis
+331,Jabatan Pendaftaran Negara,Kangar,01551,Perlis
+332,Jabatan Pertahanan Awam,Kangar,01556,Perlis
+333,Ketua Polis Negeri,Kangar,01560,Perlis
+334,Jabatan Kebajikan Masyarakat,Kangar,01564,Perlis
+335,Perpustakaan Awam Negeri,Kangar,01572,Perlis
+336,Jabatan Kerja Raya,Kangar,01582,Perlis
+337,Jabatan Tanah & Galian,Kangar,01576,Perlis
+338,Hospital Kangar,Kangar,01586,Perlis
+339,Jabatan Kesihatan,Kangar,01590,Perlis
+340,Jabatan Ukur & Pemetaan,Kangar,01578,Perlis
+341,Jabatan Belia & Sukan,Kangar,01570,Perlis
+342,Akauntan Negeri,Kangar,01594,Perlis
+343,Pegawai Kewangan Negeri,Kangar,01592,Perlis
+344,Jabatan Kastam & Eksais Di Raja,Kangar,01596,Perlis
+345,Lembaga Hasil Dalam Negeri,Kangar,01600,Perlis
+346,Jabatan Pembangunan Koperasi,Kangar,01608,Perlis
+347,Jabatan Pendidikan,Kangar,01604,Perlis
+348,Jabatan Kemajuan Masyarakat (Kemas),Kangar,01606,Perlis
+349,Bahagian Perlesenan - Kementerian Penerangan,Kangar,01610,Perlis
+350,Kumpulan Wang Simpanan Pekerja,Kangar,01598,Perlis
+351,Pejabat Mara Negeri,Kangar,01609,Perlis
+352,Jabatan Penyiaran,Kangar,01614,Perlis
+353,Jabatan Pengangkutan Jalan,Kangar,01620,Perlis
+354,Unit Penguatkuasa Kem. Perdagangan & Perindustrian,Kangar,01622,Perlis
+355,Jabatan Penerangan,Kangar,01612,Perlis
+356,Jabatan Perikanan,Kangar,01628,Perlis
+357,Jabatan Pengairan & Saliran,Kangar,01626,Perlis
+358,Jabatan Pertanian,Kangar,01632,Perlis
+359,Jabatan Haiwan,Kangar,01630,Perlis
+360,Panglima Markas 12 Briged,Kangar,01634,Perlis
+361,Majlis Perbandaran Kangar,Kangar,01644,Perlis
+362,Jabatan Perancang Bandar & Desa,Kangar,01646,Perlis
+363,Jabatan Bomba & Penyelamat,Kangar,01648,Perlis
+364,Jabatan Perhutanan,Kangar,01660,Perlis
+365,Jabatan Perhilitan,Kangar,01664,Perlis
+366,Pos Malaysia Berhad,Kangar,01670,Perlis
+367,Telekom Malaysia Berhad,Kangar,01672,Perlis
+368,Tenaga Nasional Berhad,Kangar,01673,Perlis
+369,Pegawai Kemajuan Negeri,Kangar,01674,Perlis
+370,Jabatan Agama Islam Perlis,Kangar,01676,Perlis
+371,Jabatan KeBudayaan & Kesenian,Kangar,01694,Perlis
+372,Dewan Undangan Negeri,Kangar,01680,Perlis
+373,Al Marhom Kayang,Kuala Perlis,02000,Perlis
+374,Bohor Lateh,Kuala Perlis,02000,Perlis
+375,Bohor Mali,Kuala Perlis,02000,Perlis
+376,Bukit Puteh,Kuala Perlis,02000,Perlis
+377,Bukit Tok Po,Kuala Perlis,02000,Perlis
+378,Jalan Besar,Kuala Perlis,02000,Perlis
+379,Jalan Lama Kuala Perlis (Batu 4),Kuala Perlis,02000,Perlis
+380,Jalan Masjid,Kuala Perlis,02000,Perlis
+381,Jalan Miri,Kuala Perlis,02000,Perlis
+382,Jalan Panggong,Kuala Perlis,02000,Perlis
+383,Jalan Serawak,Kuala Perlis,02000,Perlis
+384,Jalan Siakap,Kuala Perlis,02000,Perlis
+385,Jalan Simpang Empat (Batu 3 3/4 - 4 1/2),Kuala Perlis,02000,Perlis
+386,Kampung Bahagia,Kuala Perlis,02000,Perlis
+387,Kampung Bangsal Lebah,Kuala Perlis,02000,Perlis
+388,Kampung Baru (Jalan Sarawak),Kuala Perlis,02000,Perlis
+389,Kampung Baru Jeti,Kuala Perlis,02000,Perlis
+390,Kampung Baru Tandiap,Kuala Perlis,02000,Perlis
+391,Kampung Baru Tok Kuning,Kuala Perlis,02000,Perlis
+392,Kampung Batu Buaya,Kuala Perlis,02000,Perlis
+393,Kampung Batu Lima,Kuala Perlis,02000,Perlis
+394,Kampung Behor Lateh,Kuala Perlis,02000,Perlis
+395,Kampung Belakang Kilang,Kuala Perlis,02000,Perlis
+396,Kampung Besar,Kuala Perlis,02000,Perlis
+397,Kampung Bohor Ibus,Kuala Perlis,02000,Perlis
+398,Kampung Bohor Lateh,Kuala Perlis,02000,Perlis
+399,Kampung Bohor Mesjid,Kuala Perlis,02000,Perlis
+400,Kampung Bohor Rotan Pahit,Kuala Perlis,02000,Perlis
+401,Kampung Bohor Tui,Kuala Perlis,02000,Perlis
+402,Kampung Bukit Papan,Kuala Perlis,02000,Perlis
+403,Kampung Hujung Tanjung,Kuala Perlis,02000,Perlis
+404,Kampung Kolam Raja,Kuala Perlis,02000,Perlis
+405,Kampung Kota Kayang,Kuala Perlis,02000,Perlis
+406,Kampung Kuala,Kuala Perlis,02000,Perlis
+407,Kampung Kurung Tengar,Kuala Perlis,02000,Perlis
+408,Kampung Langgar,Kuala Perlis,02000,Perlis
+409,Kampung Nelayan,Kuala Perlis,02000,Perlis
+410,Kampung Padang Besar Selatan,Kuala Perlis,02000,Perlis
+411,Kampung Padang Cina,Kuala Perlis,02000,Perlis
+412,Kampung Padang Jamil,Kuala Perlis,02000,Perlis
+413,Kampung Pak Lengah,Kuala Perlis,02000,Perlis
+414,Kampung Peladang,Kuala Perlis,02000,Perlis
+415,Kampung Perak,Kuala Perlis,02000,Perlis
+416,Kampung Pokok Asam,Kuala Perlis,02000,Perlis
+417,Kampung Puju,Kuala Perlis,02000,Perlis
+418,Kampung Pulau,Kuala Perlis,02000,Perlis
+419,Kampung Pulau Ketam,Kuala Perlis,02000,Perlis
+420,Kampung Seberang Alor,Kuala Perlis,02000,Perlis
+421,Kampung Seberang Jaya,Kuala Perlis,02000,Perlis
+422,Kampung Seberang Tok PI,Kuala Perlis,02000,Perlis
+423,Kampung Sungai Mati,Kuala Perlis,02000,Perlis
+424,Kampung Tandiap,Kuala Perlis,02000,Perlis
+425,Kampung Tanjung Gelam,Kuala Perlis,02000,Perlis
+426,Kampung Telok,Kuala Perlis,02000,Perlis
+427,Kampung Tengah,Kuala Perlis,02000,Perlis
+428,Kampung Tengah Bohor Lateh,Kuala Perlis,02000,Perlis
+429,Kampung Terus Teritip,Kuala Perlis,02000,Perlis
+430,Kampung Titi Serong,Kuala Perlis,02000,Perlis
+431,Kampung Tok Kaya,Kuala Perlis,02000,Perlis
+432,Kampung Tok Kuning,Kuala Perlis,02000,Perlis
+433,Kampung Utan Ibus,Kuala Perlis,02000,Perlis
+434,Kampung Wai,Kuala Perlis,02000,Perlis
+435,Kampung Wang Pinang,Kuala Perlis,02000,Perlis
+436,Kawasan Perindustrian Kuala Perlis,Kuala Perlis,02000,Perlis
+437,Kuala Perlis,Kuala Perlis,02000,Perlis
+438,Persiaran Putra Timur 1,Kuala Perlis,02000,Perlis
+439,PPRT Tok Kuning,Kuala Perlis,02000,Perlis
+440,Rancangan Perumahan Awam 2 KPS,Kuala Perlis,02000,Perlis
+441,Sungai Berembang,Kuala Perlis,02000,Perlis
+442,Sungai Manor,Kuala Perlis,02000,Perlis
+443,Sungai Siput,Kuala Perlis,02000,Perlis
+444,Taman Berlian,Kuala Perlis,02000,Perlis
+445,Taman Bukit Kubu,Kuala Perlis,02000,Perlis
+446,Taman Indera Indah,Kuala Perlis,02000,Perlis
+447,Taman Kuala Perlis,Kuala Perlis,02000,Perlis
+448,Taman Peladang Jaya,Kuala Perlis,02000,Perlis
+449,Taman Semarak,Kuala Perlis,02000,Perlis
+450,Taman Sentosa,Kuala Perlis,02000,Perlis
+451,Taman Seri Bayu,Kuala Perlis,02000,Perlis
+452,Taman Seri Semarak,Kuala Perlis,02000,Perlis
+453,Taman Suria,Kuala Perlis,02000,Perlis
+454,Kampung Petani,Padang Besar,02100,Perlis
+455,kampung Tersusun (Batu 20),Padang Besar,02100,Perlis
+456,Kem askar rimba Mab,Padang Besar,02100,Perlis
+457,Kem UPP,Padang Besar,02100,Perlis
+458,Klinik Kesihatan Jln Keretapi,Padang Besar,02100,Perlis
+459,Kompleks Imigresen,Padang Besar,02100,Perlis
+460,Kuarantin Haiwan,Padang Besar,02100,Perlis
+461,Pejabat Felda Rimba Mas  FRM,Padang Besar,02100,Perlis
+462,Pejabat Kastam,Padang Besar,02100,Perlis
+463,Taman Bunga Cina,Padang Besar,02100,Perlis
+464,Bukit Cabang,Padang Besar,02100,Perlis
+465,Emas Kerajang,Padang Besar,02100,Perlis
+466,Felcra Lubuk Sireh,Padang Besar,02100,Perlis
+467,Felda Mata Ayer,Padang Besar,02100,Perlis
+468,Felda Rimba Mas,Padang Besar,02100,Perlis
+469,Gapura Square,Padang Besar,02100,Perlis
+470,Jalan Padang Besar (Km 19),Padang Besar,02100,Perlis
+471,Kampung Alor Dalam (Bukit Chabang),Padang Besar,02100,Perlis
+472,Kampung Asmara,Padang Besar,02100,Perlis
+473,Kampung Baru,Padang Besar,02100,Perlis
+474,Kampung Baru Bukit Chabang,Padang Besar,02100,Perlis
+475,Kampung Baru Jalan Sahabat,Padang Besar,02100,Perlis
+476,Kampung Bukit Chabang,Padang Besar,02100,Perlis
+477,Kampung Chantek,Padang Besar,02100,Perlis
+478,Kampung Guar Tinggi (Titi Tinggi),Padang Besar,02100,Perlis
+479,Kampung Kok Mak,Padang Besar,02100,Perlis
+480,Kampung Kolam,Padang Besar,02100,Perlis
+481,Kampung Masjid,Padang Besar,02100,Perlis
+482,Kampung Melayu,Padang Besar,02100,Perlis
+483,Kampung Padang Mawa,Padang Besar,02100,Perlis
+484,Kampung Sahabat,Padang Besar,02100,Perlis
+485,Kampung Sena,Padang Besar,02100,Perlis
+486,Kampung Sungai Chuchuh,Padang Besar,02100,Perlis
+487,Kampung Syed Abdan,Padang Besar,02100,Perlis
+488,Kampung Titi Tinggi,Padang Besar,02100,Perlis
+489,Kampung Titi Tinggi Hilir,Padang Besar,02100,Perlis
+490,Kampung Titi Tinggi Ulu,Padang Besar,02100,Perlis
+491,Kampung Tok Wan Nik,Padang Besar,02100,Perlis
+492,Padang Besar,Padang Besar,02100,Perlis
+493,Pusat Serenti Bukit Cabang,Padang Besar,02100,Perlis
+494,Taman Kastam Baru,Padang Besar,02100,Perlis
+495,Taman Kim,Padang Besar,02100,Perlis
+496,Taman Kim 2,Padang Besar,02100,Perlis
+497,Taman Perumahan Awam,Padang Besar,02100,Perlis
+498,Taman Utara Jaya (Fasa 1 - 3),Padang Besar,02100,Perlis
+499,Aked niaga,Padang Besar,02100,Perlis
+500,Gapura squre,Padang Besar,02100,Perlis
+501,Sekolah Menengah Padang Besar,Padang Besar,02100,Perlis
+502,Taman Bunga Cempaka,Padang Besar,02100,Perlis
+503,Taman Singgah Sana,Padang Besar,02100,Perlis
+504,Jalan Padang Besar (Batu 16),Kaki Bukit,02200,Perlis
+505,Kaki Bukit,Kaki Bukit,02200,Perlis
+506,Kampung Tassoh,Kaki Bukit,02200,Perlis
+507,Kampung Wang Kelian,Kaki Bukit,02200,Perlis
+508,Taman Singgahsana,Kaki Bukit,02200,Perlis
+509,Kampung Bilal Uduh,Kangar,02400,Perlis
+510,Kampung Semadung,Kangar,02400,Perlis
+511,Jalan Padang Melangit,Kangar,02400,Perlis
+512,Kampung Baru Pangas,Kangar,02400,Perlis
+513,Kampung Sungai Baru Serai,Kangar,02400,Perlis
+514,Klinik Desa Batu 9,Kangar,02400,Perlis
+515,Padang Lati,Kangar,02400,Perlis
+516,Paya Batu 5,Kangar,02400,Perlis
+517,Paya Senduk,Kangar,02400,Perlis
+518,Paya Tengah,Kangar,02400,Perlis
+519,Paya Besar,Kangar,02400,Perlis
+520,Sekolah Menengah Semadung,Kangar,02400,Perlis
+521,"Taman 20 ( F1, 2)",Kangar,02400,Perlis
+522,Taman Bunga Geti,Kangar,02400,Perlis
+523,Taman Haz Melati,Kangar,02400,Perlis
+524,Kampung Penghulu Jaafar,Kangar,02400,Perlis
+525,Kampung Perawah,Kangar,02400,Perlis
+526,Kampung Raja Conggah,Kangar,02400,Perlis
+527,Kampung Semadong,Kangar,02400,Perlis
+528,Kampung Sena Rendang,Kangar,02400,Perlis
+529,Kampung Simpang 3 Kilang Gula,Kangar,02400,Perlis
+530,Kampung Simpang 3 Panggas,Kangar,02400,Perlis
+531,Kampung Songla,Kangar,02400,Perlis
+532,Kampung Sungai Buloh,Kangar,02400,Perlis
+533,Kampung Sungai Jerneh,Kangar,02400,Perlis
+534,Kampung Sungai Paya,Kangar,02400,Perlis
+535,Kampung Sungai Serai,Kangar,02400,Perlis
+536,Kampung Tanjong,Kangar,02400,Perlis
+537,Kampung Titi Tampang,Kangar,02400,Perlis
+538,Kampung Tunjong Beseri,Kangar,02400,Perlis
+539,Kampung Wang Pisang,Kangar,02400,Perlis
+540,Kampung Wang Tangga,Kangar,02400,Perlis
+541,Kampung Wang Tengku Lembu,Kangar,02400,Perlis
+542,Kilang Gula,Kangar,02400,Perlis
+543,Lembaga Pertubuhan Peladang,Kangar,02400,Perlis
+544,Lembaga Tembakau Negara,Kangar,02400,Perlis
+545,Lubuk Besar,Kangar,02400,Perlis
+546,Maktab Rendah Sains Mara,Kangar,02400,Perlis
+547,Paya Pauh Gembol,Kangar,02400,Perlis
+548,Perumahan Kilang Gula,Kangar,02400,Perlis
+549,Perumahan Perlis Plantation,Kangar,02400,Perlis
+550,Pusat Haiwan Bukit Temiang,Kangar,02400,Perlis
+551,RPA Batu 8,Kangar,02400,Perlis
+552,RPA Bukit Keteri,Kangar,02400,Perlis
+553,RPA Chuping,Kangar,02400,Perlis
+554,Taman Angsana,Kangar,02400,Perlis
+555,Taman Bahagia,Kangar,02400,Perlis
+556,Taman Beseri Indah,Kangar,02400,Perlis
+557,Taman Beseri Jaya,Kangar,02400,Perlis
+558,Taman Beseri Murni,Kangar,02400,Perlis
+559,Taman Beseri Paya,Kangar,02400,Perlis
+560,Taman Che Long,Kangar,02400,Perlis
+561,Taman Dua Puluh,Kangar,02400,Perlis
+562,Taman Geti,Kangar,02400,Perlis
+563,Taman Has Melati,Kangar,02400,Perlis
+564,Taman Mas (Beseri),Kangar,02400,Perlis
+565,Taman Melati Indah (Beseri),Kangar,02400,Perlis
+566,Taman Permai,Kangar,02400,Perlis
+567,Taman Sempurna Jaya,Kangar,02400,Perlis
+568,Beseri,Kangar,02400,Perlis
+569,Beseri Dalam,Kangar,02400,Perlis
+570,Bilal Uduh,Kangar,02400,Perlis
+571,Bohor Madi,Kangar,02400,Perlis
+572,Bukit Keteri,Kangar,02400,Perlis
+573,Empangan Timah Tassoh JPS,Kangar,02400,Perlis
+574,Guar Panji,Kangar,02400,Perlis
+575,Institut Kemahiran Mara,Kangar,02400,Perlis
+576,Jabatan Pertanian Bukit Temiang,Kangar,02400,Perlis
+577,Jalan Asam Paya,Kangar,02400,Perlis
+578,Jalan Beseri - Bukit Keteri,Kangar,02400,Perlis
+579,Jalan Kaki Bukit (Batu 4 3/4 - 6 1/4),Kangar,02400,Perlis
+580,Jalan Santan (Batu 3 3/4 - 5),Kangar,02400,Perlis
+581,JKR Bekalan Air Tassoh,Kangar,02400,Perlis
+582,Kampung Alor Kangar,Kangar,02400,Perlis
+583,Kampung Alor Tampang,Kangar,02400,Perlis
+584,Kampung Balai Baru,Kangar,02400,Perlis
+585,Kampung Baru Ngulang,Kangar,02400,Perlis
+586,Kampung Batu Bertangkup,Kangar,02400,Perlis
+587,Kampung Batu Hampar (Beseri),Kangar,02400,Perlis
+588,Kampung Behor Kulit Kerang,Kangar,02400,Perlis
+589,Kampung Behor Madi,Kangar,02400,Perlis
+590,Kampung Belat Batu Beseri,Kangar,02400,Perlis
+591,Kampung Belukar Lengga,Kangar,02400,Perlis
+592,Kampung Beseri Dalam,Kangar,02400,Perlis
+593,Kampung Beseri Jaya,Kangar,02400,Perlis
+594,Kampung Bohor Luar,Kangar,02400,Perlis
+595,Kampung Bongkok,Kangar,02400,Perlis
+596,Kampung Bukit Jernih,Kangar,02400,Perlis
+597,Kampung Bukit Kedak,Kangar,02400,Perlis
+598,Kampung Bukit Manek Barat,Kangar,02400,Perlis
+599,Kampung Bukit Merah,Kangar,02400,Perlis
+600,Kampung Bukit Merah Hilir,Kangar,02400,Perlis
+601,Kampung Bukit Merah Hulu,Kangar,02400,Perlis
+602,Kampung Bukit Temiang,Kangar,02400,Perlis
+603,Kampung Chichak Terbelit,Kangar,02400,Perlis
+604,Kampung Darat,Kangar,02400,Perlis
+605,Kampung Darat Selatan,Kangar,02400,Perlis
+606,Kampung Datuk Sheikh Ahmad,Kangar,02400,Perlis
+607,Kampung Guar Jentek,Kangar,02400,Perlis
+608,Kampung Guar Medan Gatal,Kangar,02400,Perlis
+609,Kampung Guar Sanai,Kangar,02400,Perlis
+610,Kampung Kelang Beseri,Kangar,02400,Perlis
+611,Kampung Kepala Batas Dato Kayaman,Kangar,02400,Perlis
+612,Kampung Kubang Jeliti,Kangar,02400,Perlis
+613,Kampung Kubang Tiga,Kangar,02400,Perlis
+614,Kampung Lembah Biak,Kangar,02400,Perlis
+615,Kampung Lubok Batu,Kangar,02400,Perlis
+616,Kampung Lubok Gajah,Kangar,02400,Perlis
+617,Kampung Lubok Hitam Manis,Kangar,02400,Perlis
+618,Kampung Lubuk Machang,Kangar,02400,Perlis
+619,Kampung Masjid Beseri,Kangar,02400,Perlis
+620,Kampung Mempelas,Kangar,02400,Perlis
+621,Kampung Ngulang,Kangar,02400,Perlis
+622,Kampung Padang Gelam,Kangar,02400,Perlis
+623,Kampung Padang Jelutong,Kangar,02400,Perlis
+624,Kampung Padang Lati,Kangar,02400,Perlis
+625,Kampung Padang Malau,Kangar,02400,Perlis
+626,Kampung Padang Melangit,Kangar,02400,Perlis
+627,Kampung Paya,Kangar,02400,Perlis
+628,Kampung Paya Kelubi,Kangar,02400,Perlis
+629,Kampung Paya Senduk,Kangar,02400,Perlis
+630,Kampung Paya Ulu,Kangar,02400,Perlis
+631,Bukit Keteri,Kangar,02450,Perlis
+632,Guar Panji,Kangar,02450,Perlis
+633,Kampung Belukar Lengga,Kangar,02450,Perlis
+634,Kampung Bukit Jernih,Kangar,02450,Perlis
+635,Kampung Kepala Batas Dato Kaya,Kangar,02450,Perlis
+636,Kampung Kubang Tiga,Kangar,02450,Perlis
+637,Kampung Masjid (Beseri),Kangar,02450,Perlis
+638,Kampung Padang Gelam,Kangar,02450,Perlis
+639,Kampung Padang Jelutong,Kangar,02450,Perlis
+640,Kampung Paya Kelubi,Kangar,02450,Perlis
+641,Kampung Perawah,Kangar,02450,Perlis
+642,Kampung Songla,Kangar,02450,Perlis
+643,Kampung Sungai Buloh,Kangar,02450,Perlis
+644,Taman Tunjung,Kangar,02450,Perlis
+645,Balai Polis Mata Air,Kangar,02500,Perlis
+646,Hutan Lembah,Kangar,02500,Perlis
+647,Kampung Balik Bukit Selatan,Kangar,02500,Perlis
+648,Kampung Bawah Bukit,Kangar,02500,Perlis
+649,Kampung Gial,Kangar,02500,Perlis
+650,Kampung Gial Tengah,Kangar,02500,Perlis
+651,Kampung Kerisik Hilir,Kangar,02500,Perlis
+652,Pejabat Felda,Kangar,02500,Perlis
+653,Pekan Gate Mata Air,Kangar,02500,Perlis
+654,Pusat Giat Mara,Kangar,02500,Perlis
+655,Sekolah Jenis Kebangsaan Cina (Kong Aik),Kangar,02500,Perlis
+656,Stesen Meteriologi,Kangar,02500,Perlis
+657,Taman Padang Nyu,Kangar,02500,Perlis
+658,Taman Permata,Kangar,02500,Perlis
+659,Taman Selasih,Kangar,02500,Perlis
+660,Taman Sri Idaman,Kangar,02500,Perlis
+661,Bukit Chuping,Kangar,02500,Perlis
+662,Felda Chuping,Kangar,02500,Perlis
+663,Jalan Mata Ayer (Km 1.6 - 6),Kangar,02500,Perlis
+664,Kampung Balik Bukit,Kangar,02500,Perlis
+665,Kampung Balik Guar,Kangar,02500,Perlis
+666,Kampung Banggol Sena,Kangar,02500,Perlis
+667,Kampung Belukar (Mata Ayer),Kangar,02500,Perlis
+668,Kampung Bukit Chuping,Kangar,02500,Perlis
+669,Kampung Changkat Lada,Kangar,02500,Perlis
+670,Kampung Che gu Ali,Kangar,02500,Perlis
+671,Kampung Chelong,Kangar,02500,Perlis
+672,Kampung Chuping,Kangar,02500,Perlis
+673,Kampung Guar Halban,Kangar,02500,Perlis
+674,Kampung Guar Musang,Kangar,02500,Perlis
+675,Kampung Guar Nangka,Kangar,02500,Perlis
+676,Kampung Hutan Lembah,Kangar,02500,Perlis
+677,Kampung Hutan Temin,Kangar,02500,Perlis
+678,Kampung Kersek (Kangar),Kangar,02500,Perlis
+679,Kampung Kersek (Mata Ayer),Kangar,02500,Perlis
+680,Kampung Kubang Peron,Kangar,02500,Perlis
+681,Kampung Oran,Kangar,02500,Perlis
+682,Kampung Padang Nyu,Kangar,02500,Perlis
+683,Kampung Panggas,Kangar,02500,Perlis
+684,Kampung Panggas Besar,Kangar,02500,Perlis
+685,Kampung Panggas Kechil,Kangar,02500,Perlis
+686,Kampung Paya Burma,Kangar,02500,Perlis
+687,Kampung Perik,Kangar,02500,Perlis
+688,Kampung Pokok Petai,Kangar,02500,Perlis
+689,Kampung Pokok Sena,Kangar,02500,Perlis
+690,Kampung Saikla,Kangar,02500,Perlis
+691,Kampung Simpang Geti,Kangar,02500,Perlis
+692,Kampung Sungai Mati,Kangar,02500,Perlis
+693,Kok Klang,Kangar,02500,Perlis
+694,Lubuk Besar,Kangar,02500,Perlis
+695,Mata Ayer,Kangar,02500,Perlis
+696,Taman Haji Ali (RPA),Kangar,02500,Perlis
+697,Taman Mata Air 2 (RPA),Kangar,02500,Perlis
+698,Taman Mata Air 3 (RPA),Kangar,02500,Perlis
+699,Taman Ria,Kangar,02500,Perlis
+700,Arau,Arau,02600,Perlis
+701,Guar Sanji,Arau,02600,Perlis
+702,Kampung Alor Merah,Arau,02600,Perlis
+703,Kampung Bakong (Arau),Arau,02600,Perlis
+704,Kampung Banat,Arau,02600,Perlis
+705,Kampung Batas Liku,Arau,02600,Perlis
+706,Kampung Belat Batu,Arau,02600,Perlis
+707,Kampung Belat Raja,Arau,02600,Perlis
+708,Kampung Belukar,Arau,02600,Perlis
+709,Kampung Bohor Mengkung,Arau,02600,Perlis
+710,Kampung Bohor Mentalun,Arau,02600,Perlis
+711,Kampung Changkat Jawi,Arau,02600,Perlis
+712,Kampung Changkat Kabu,Arau,02600,Perlis
+713,Kampung Chermai,Arau,02600,Perlis
+714,Kampung Guar Gajah,Arau,02600,Perlis
+715,Kampung Guring,Arau,02600,Perlis
+716,Kampung Hutan Kandis,Arau,02600,Perlis
+717,Kampung Jelempok,Arau,02600,Perlis
+718,Kampung Katong,Arau,02600,Perlis
+719,Kampung Kuala Tunggang,Arau,02600,Perlis
+720,Kampung Kubang Mat Tanggok,Arau,02600,Perlis
+721,Kampung Kubang Siput,Arau,02600,Perlis
+722,Kampung Padang Biak,Arau,02600,Perlis
+723,Kampung Padang Siding,Arau,02600,Perlis
+724,Kampung Padang Telela,Arau,02600,Perlis
+725,Kampung Paloh,Arau,02600,Perlis
+726,Kampung Pauh,Arau,02600,Perlis
+727,Kampung Pida 3 Lama,Arau,02600,Perlis
+728,Kampung Pulau Pichai,Arau,02600,Perlis
+729,Kampung Sena,Arau,02600,Perlis
+730,Kampung Stesen,Arau,02600,Perlis
+731,Kampung Tambun Tulang,Arau,02600,Perlis
+732,Kampung Telaga Haji Latif,Arau,02600,Perlis
+733,Kampung Telok,Arau,02600,Perlis
+734,Kampung Titi Besi,Arau,02600,Perlis
+735,Kampung Ulu Pauh,Arau,02600,Perlis
+736,Pauh,Arau,02600,Perlis
+737,Rani Estate,Arau,02600,Perlis
+738,Taman Desa Pauh,Arau,02600,Perlis
+739,Taman Pauh Indah,Arau,02600,Perlis
+740,Taman Seri Idaman,Arau,02600,Perlis
+741,Taman Seri Wangi,Arau,02600,Perlis
+742,Taman Sri Pauh,Arau,02600,Perlis
+743,Taman Utara Guar Sanji,Arau,02600,Perlis
+744,UiTM Arau,Arau,02600,Perlis
+745,Arau - Peti surat,Arau,02607,Perlis
+746,Arau - Beg berkunci,Arau,02609,Perlis
+747,Simpang Ampat - Peti surat,Simpang Ampat,02707,Perlis
+748,Simpang Ampat - Beg berkunci,Simpang Ampat,02709,Perlis
+749,Bohor Mali,Simpang Ampat,02700,Perlis
+750,Kampung Banir Tembus,Simpang Ampat,02700,Perlis
+751,Kampung Batas Lentang,Simpang Ampat,02700,Perlis
+752,Kampung Bendang Baru,Simpang Ampat,02700,Perlis
+753,Kampung Berjaya,Simpang Ampat,02700,Perlis
+754,Kampung Bohor Lalang,Simpang Ampat,02700,Perlis
+755,Kampung Bonggor Kudong,Simpang Ampat,02700,Perlis
+756,Kampung Bunga Mas,Simpang Ampat,02700,Perlis
+757,Kampung Chantek Bangun,Simpang Ampat,02700,Perlis
+758,Kampung Che Ok,Simpang Ampat,02700,Perlis
+759,Kampung Chemumar,Simpang Ampat,02700,Perlis
+760,Kampung Jawi Endol,Simpang Ampat,02700,Perlis
+761,Kampung Kenangan,Simpang Ampat,02700,Perlis
+762,Kampung Lat Seribu,Simpang Ampat,02700,Perlis
+763,Kampung Long Boh,Simpang Ampat,02700,Perlis
+764,Kampung Matang Kersek,Simpang Ampat,02700,Perlis
+765,Kampung Melintang,Simpang Ampat,02700,Perlis
+766,Kampung Mua,Simpang Ampat,02700,Perlis
+767,Kampung Padang Benta,Simpang Ampat,02700,Perlis
+768,Kampung Padang Petani,Simpang Ampat,02700,Perlis
+769,Kampung Pauh Tiga Beradek,Simpang Ampat,02700,Perlis
+770,Kampung Permatang Bongor,Simpang Ampat,02700,Perlis
+771,Kampung Permatang Limau Manis,Simpang Ampat,02700,Perlis
+772,Kampung Permatang Pauh,Simpang Ampat,02700,Perlis
+773,Kampung Pulau,Simpang Ampat,02700,Perlis
+774,Kampung Sematang Serdang,Simpang Ampat,02700,Perlis
+775,Kampung Serdang,Simpang Ampat,02700,Perlis
+776,Kampung Sungai Baru,Simpang Ampat,02700,Perlis
+777,Kampung Sungai Belati,Simpang Ampat,02700,Perlis
+778,Kampung Sungai Bugis,Simpang Ampat,02700,Perlis
+779,Kampung Sungai Padang,Simpang Ampat,02700,Perlis
+780,Kampung Tebuk,Simpang Ampat,02700,Perlis
+781,Kampung Titi Beratap,Simpang Ampat,02700,Perlis
+782,Kampung Tok Pulau,Simpang Ampat,02700,Perlis
+783,Simpang Ampat,Simpang Ampat,02700,Perlis
+784,Taman Cendera Wasih,Simpang Ampat,02700,Perlis
+785,Taman Pelangi,Simpang Ampat,02700,Perlis
+786,Kampung Kepala Batas Pauh,Simpang Ampat,02800,Perlis
+787,Kampung Kerbau Belaga,Simpang Ampat,02800,Perlis
+788,Kampung Matang Keriang,Simpang Ampat,02800,Perlis
+789,Kampung Padang Gelam,Simpang Ampat,02800,Perlis
+790,Kampung Padang Keria,Simpang Ampat,02800,Perlis
+791,Kampung Permatang Pelangu,Simpang Ampat,02800,Perlis
+792,Kampung Rama,Simpang Ampat,02800,Perlis
+793,Kampung Simpang Sanglang,Simpang Ampat,02800,Perlis
+794,Kampung Tanah Timbul,Simpang Ampat,02800,Perlis
